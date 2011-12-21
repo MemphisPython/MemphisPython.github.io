@@ -1,7 +1,7 @@
 from datetime import date
 from fabric.api import env, run, cd 
 from fabric.operations import put
-from fabric.colors import green, red, yellow
+from fabric import colors 
 from fabric.contrib.files import exists
 
 REMOTE_PROJECT_DIR = '/kunden/homepages/25/d191953947/htdocs/sites/mempy.org'
@@ -13,13 +13,24 @@ def backup():
     
     if exists("%s/*tgz" % REMOTE_PROJECT_DIR):
         result = run("rm *tgz")
-        print(yellow("Removed existing backup files"))
+        print(colors.yellow("Removed existing backup files"))
 
     with cd(REMOTE_PROJECT_DIR):
         cmd = "tar -czf %s *" % backup_file
         run(cmd)
-        print(green("Created backup: %s" % backup_file))
+        print(colors.green("Created backup: %s" % backup_file))
 
+def list_backups():
+    """ List the automatically generated backup files """
+    with cd(REMOTE_PROJECT_DIR):
+        run("ls -l backup-*")
+
+def rm_file(filename):
+    """ Delete the specified file """
+    with cd(REMOTE_PROJECT_DIR):
+        if exists(filename):
+            run("rm %s" % filename)
+            
 def upload():
     results = put(local_path="html/*", remote_path="~/sites/mempy.org")
 
