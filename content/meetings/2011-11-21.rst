@@ -1,0 +1,22 @@
+Time & Date
+-----------
+Join us at *6:30pm* on *November 21st* for the first meeting 
+of the The Memphis, TN Python User Group!
+
+Location
+--------
+
+    *Hospitality Room* 
+    (Farris 1106) 
+    Southwest Tennessee Community College
+    5983 Macon Cove, 
+    Memphis, TN 38134.
+
+`Google Map <http://goo.gl/DUKFg>`_
+
+Agenda
+------
+* 6:30 - 7:00: Meet & Greet & Food
+* 7:00 - 7:20: Whirlwind introduction to Python by `Brad Montgomery <http://twitter.com/bkmontgomery>`_. (`Slides here <http://www.slideshare.net/bkmontgomery/hello-world-10263876>`_)
+* 7:20 - 8:30: Cassandra and pycassa by `Rick Branson <http://twitter.com/rbranson/>`_. (`Slides here <http://rickbranson.com/2011-11-21-mempy-cassandra-rbranson.pdf>`_)
+

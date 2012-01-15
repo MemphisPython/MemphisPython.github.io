@@ -1,0 +1,23 @@
+Time & Date
+-----------
+Join us at *6:30pm* on *December 19th*
+for the next meeting of the The Memphis, 
+TN Python User Group!
+
+Location
+--------
+
+    *Fulton Auditorium* 
+    Southwest Tennessee Community College: 
+    5983 Macon Cove
+    Memphis, TN 38134
+    `Google Map <http://goo.gl/DUKFg>`_
+
+The auditorium is at the West end of the building 
+(just to the left after walking in the front door). 
+
+Agenda
+------
+* 6:30 - 7:00: Meet &amp; Greet &amp; Food
+* 7:00 - 8:30: Python in the cloud & Google App Engine by `Douglas Starnes <https://plus.google.com/102288396289474737640/posts>`_: `Code <http://bit.ly/mempy-im121911code">http://bit.ly/mempy-im121911code>`_ and `Slides <http://bit.ly/mempy-im121911slides">http://bit.ly/mempy-im121911slides>`_
+
