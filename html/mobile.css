@@ -1,9 +1,0 @@
-body {font-size: 36px;}
-h1,h2,h3,h4,h5,h6 {margin: padding: 1em 0; }
-div#wrapper {width: 90%; padding: 5%; }
-div#content { width: 100%; padding:0; margin:0; background-color: white;}
-div#twitter, div#fb-root, div#fb-like {display: none; }
-div#menu ul li { display: block; width: 90%; text-align: center; font-size: 48px; font-weight: bold; margin: .5em auto; padding: .5em; border: 1px solid #aaa; border-radius: 20px; text-shadow: 3px 3px 5px #aaa; background-color:#eee; }
-div#menu ul li a { display: block; padding:0; margin:0; width: 100%; color: #555;}
-div#menu ul li a:hover { text-decoration: none; }
-div#menu ul li:after {content:""; }
