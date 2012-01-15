@@ -1,11 +1,27 @@
-About
------
+About MEMpy
+###########
 
-TODO: write something that tells what we're all about, but for now...
+:date: 2011-11-01 00:00
+:tags: about
+:category: about 
+:author: Brad montgomery
+
+We want to promote the use of the Python programming language in the Mid-South. Our primary purpose is
+to share knowlege and to nurture a community of Python professionals and enthusiasts. Each meeting is 
+open to the public and aims to provide useful content for both novices and professionals.
+
+Contact Us
+----------
+If you'd like to contact us, please email `brad@mempy.org <mailto:brad@mempy.org>`_ or follow us online:
+
+* `Google+ <https://plus.google.com/114050136938768260218>`_
+* `@MemphisPython <http://twitter.com/MemphisPython>`_ on Twitter
+* `MemphisPython <http://facebook.com/MemphisPython>`_ on Facebook
 
 The Zen of Python, by Tim Peters
 --------------------------------
 ::
+
     Beautiful is better than ugly.
     Explicit is better than implicit.
     Simple is better than complex.
@@ -25,3 +41,5 @@ The Zen of Python, by Tim Peters
     If the implementation is hard to explain, it's a bad idea.
     If the implementation is easy to explain, it may be a good idea.
     Namespaces are one honking great idea -- let's do more of those!
+
+

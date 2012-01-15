@@ -1,22 +1,30 @@
+January 16, 2011
+################
+
+:date: 2012-01-15 00:00
+:tags: meetings
+:category: meetings
+:author: Brad Montgomery
+
 Time & Date
 -----------
 Join us at *6:30pm* on *January 16th*!
 
 Location
 --------
+| Fulton Auditorium
+| Southwest Tennessee Community College: 
+| 5983 Macon Cove
+| Memphis, TN 38134
 
-    *Fulton Auditorium* 
-    Southwest Tennessee Community College: 
-    5983 Macon Cove
-    Memphis, TN 38134
-    `Google Map <http://goo.gl/DUKFg>`_
+`Google Map <http://goo.gl/DUKFg>`_
 
 The auditorium is at the West end of the building 
 (just to the left after walking in the front door). 
 
 Agenda
 ------
-* 6:30 - 7:00: Meet &amp; Greet &amp; Food
+* 6:30 - 7:00: Meet & Greet & Food
 * 7:00 - 7:30: pip and virtualenv, by `Douglas Starnes <https://plus.google.com/102288396289474737640/posts>`_.
 * 7:30 - 8:30: A Django Walkthrough, by `Brad Montgomery <http://twitter.com/bkmontgomery>`_.
 
