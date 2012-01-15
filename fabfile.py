@@ -12,8 +12,7 @@ def backup():
     backup_file = "%s/backup-%s.tgz" % (REMOTE_PROJECT_DIR, date.today())
     
     if exists("%s/*tgz" % REMOTE_PROJECT_DIR):
-        result = run("rm *tgz")
-        print(colors.yellow("Removed existing backup files"))
+        rm_file("*tgz")
 
     with cd(REMOTE_PROJECT_DIR):
         cmd = "tar -czf %s *" % backup_file
@@ -30,9 +29,10 @@ def rm_file(filename):
     with cd(REMOTE_PROJECT_DIR):
         if exists(filename):
             run("rm %s" % filename)
+            print(colors.yellow("Removed %s" % filename))
             
 def upload():
-    results = put(local_path="html/*", remote_path="~/sites/mempy.org")
+    results = put(local_path="output/*", remote_path="~/sites/mempy.org")
 
 def deploy():
     """ deploy html content to remote directory """
