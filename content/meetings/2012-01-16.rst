@@ -26,5 +26,5 @@ Agenda
 ------
 * 6:30 - 7:00: Meet & Greet & Food
 * 7:00 - 7:30: pip and virtualenv, by `Douglas Starnes <https://plus.google.com/102288396289474737640/posts>`_.
-* 7:30 - 8:30: A Django Walkthrough, by `Brad Montgomery <http://twitter.com/bkmontgomery>`_.
+* 7:30 - 8:30: `A Django Walkthrough (pdf) <https://github.com/bradmontgomery/mempy-django-walkthru/raw/master/presentation/Django-Walkthrough.pdf>`_, by `Brad Montgomery <http://twitter.com/bkmontgomery>`_ with `sample code <https://github.com/bradmontgomery/mempy-django-walkthru>`_.
 
