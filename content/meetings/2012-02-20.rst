@@ -1,0 +1,28 @@
+February 20, 2012
+#################
+
+:date: 2012-01-17 00:00
+:tags: meetings
+:category: meetings
+:author: Brad Montgomery
+
+Time & Date
+-----------
+Join us at *6:30pm* on *February 20th*!
+
+Location
+--------
+| MAC 186
+| Southwest Tennessee Community College: 
+| 5983 Macon Cove
+| Memphis, TN 38134
+
+Agenda
+------
+* 6:30 - 7:00: Meet & Greet & Food
+* 7:00 - 7:30: **Available**
+* 7:30 - 8:30: Web Scraping Workshop! Bring a laptop and practice turning the web into Data with `Requests <https://github.com/kennethreitz/requests>`_ and `Beautiful Soup <http://www.crummy.com/software/BeautifulSoup/>`_!
+
+
+
+
