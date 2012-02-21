@@ -20,9 +20,5 @@ Location
 Agenda
 ------
 * 6:30 - 7:00: Meet & Greet & Food
-* 7:00 - 7:30: **Available**
-* 7:30 - 8:30: Web Scraping Workshop! Bring a laptop and practice turning the web into Data with `Requests <https://github.com/kennethreitz/requests>`_ and `Beautiful Soup <http://www.crummy.com/software/BeautifulSoup/>`_!
-
-
-
+* 7:00 - 8:30: Web Scraping Workshop! Bring a laptop and practice turning the web into Data with `Requests <https://github.com/kennethreitz/requests>`_ and `Beautiful Soup <http://www.crummy.com/software/BeautifulSoup/>`_! Here's how to get started: `https://gist.github.com/1872970 <https://gist.github.com/1872970>`_.
 
