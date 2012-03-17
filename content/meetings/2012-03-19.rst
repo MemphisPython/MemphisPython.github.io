@@ -1,0 +1,33 @@
+March 19, 2012
+#################
+
+:date: 2012-03-16 00:00
+:tags: meetings
+:category: meetings
+:author: Brad Montgomery
+
+We're mixing things up a bit for the next meeting! Join us at the `Simple Focus HQ <http://simplefocus.com/>`_ for a round of Lightening Talks. Have you got something you can share for 10-15 minutes? Bring your laptop and show us what you've been working on!
+
+Time & Date
+-----------
+Join us at *6:30pm* on *March 19th*! Please RSVP on `Facebook <http://www.facebook.com/events/316239161763999/>`_ or `Meetup.com <http://www.meetup.com/MidsouthTechCorner/events/53059322/>`_. That way we know how much Pizza to bring!
+
+Location
+--------
+| Simple Focus
+| 2130 West Street
+| Germantown, TN 38138
+
+
+Agenda
+------
+* 6:30 - 7:00: Meet & Greet & Food
+
+* 7:00 - 8:30: Lightening Talks
+
+    - GUI Apps with wxPython by Douglas Starnes
+    - Deploying to Heroku by Daniel Pritchett
+    - Working with logstash by Kevin Nuckolls
+    - Fun with Tabular Data (csv and tablib) by Brad Montgomery
+    - Your talk here!
+
