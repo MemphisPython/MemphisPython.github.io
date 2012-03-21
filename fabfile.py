@@ -1,5 +1,5 @@
 from datetime import date
-from fabric.api import env, run, cd 
+from fabric.api import env, run, cd, local
 from fabric.operations import put
 from fabric import colors 
 from fabric.contrib.files import exists
@@ -36,5 +36,6 @@ def upload():
 
 def deploy():
     """ deploy html content to remote directory """
+    local("make clean && make html")
     backup() 
     upload() 
