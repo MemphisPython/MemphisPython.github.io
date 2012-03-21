@@ -12,8 +12,10 @@ REVERSE_CATEGORY_ORDER = True
 LOCALE = ""
 DEFAULT_PAGINATION = 2
 
+TWITTER_USERNAME = 'MemphisPython'
 SOCIAL = (
     ('Email', 'mailto:brad@mempy.org'),
+    ('Mailing List', 'http://bit.ly/mempy-google-group'),
     ('Google+', 'https://plus.google.com/114050136938768260218'),
     ('Twitter', 'http://twitter.com/MemphisPython'),
     ('Facebook', 'http://facebook.com/MemphisPython'),
