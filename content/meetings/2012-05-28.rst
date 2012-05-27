@@ -16,10 +16,14 @@ Date: Monday, May 28th, 2012
 
 Location
 --------
-We're still trying to figure this out!
+| Greater Memphis Chess Center
+| 5796 Shelby Oaks Drive Suite 11
+| Memphis, TN 38134
+
+Here's a `Google Map <http://goo.gl/maps/Q6wd>`_.
 
 Agenda
 ------
 * 6:30 - 7:00: Meet & Greet & Food
-* 7:00 - 8:00: ?
-* 8:00 - 8:30: ?
+* 7:00 - 8:00: MongoDB and PyMongo by Douglas Starnes
+* 8:00 - 8:30: Super-simple guided Flask tutorial (time-permitting)
