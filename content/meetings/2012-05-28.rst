@@ -27,7 +27,6 @@ Agenda
 * 6:30 - 7:00: Meet & Greet & Food
 * 7:00 - 8:00: MongoDB and PyMongo by Douglas Starnes; 
   `Video on YouTube <http://www.youtube.com/watch?v=AL_yrKl90CE>`_
-* 8:00 - 8:30: `Super-simple guided Flask tutorial 
-    <https://github.com/bradmontgomery/mempy-flask-tutorial/>`_
-    `Video, part 1 <http://youtu.be/4nzfJvjKfJI>`_ and 
-    `Video, part 2 <http://youtu.be/O-MeUgvQzqA>`_.
+* 8:00 - 8:30: 
+  `Super-simple guided Flask tutorial <https://github.com/bradmontgomery/mempy-flask-tutorial/>`_
+  with `Video, part 1 <http://youtu.be/4nzfJvjKfJI>`_ and `Video, part 2 <http://youtu.be/O-MeUgvQzqA>`_.
