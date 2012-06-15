@@ -1,0 +1,26 @@
+June 18, 2012
+#################
+
+:date: 2012-06-15 16:30 
+:tags: meetings
+:category: meetings
+:author: Brad Montgomery
+
+Please RSVP on `Facebook <http://www.facebook.com/events/171660256297462/>`_ or 
+`Meetup.com <http://www.meetup.com/MidsouthTechCorner/events/68044212/>`_. 
+
+Time & Date
+-----------
+Time: 6:30pm - 8:30pm
+Date: Monday, June 18th, 2012
+
+Location
+--------
+TBD
+
+
+Agenda
+------
+* 6:30 - 7:00: Meet & Greet & Food
+* 7:00 - 8:00: TBA (rumors say something about logging and commond line tools!)
+* 8:00 - 8:30: TBA (rumors say something about git!)
