@@ -16,11 +16,18 @@ Date: Monday, June 18th, 2012
 
 Location
 --------
-TBD
+| Mosaik Solutions
+| 6423 Shelby View Drive, Suite 101 
+| Memphis, Tennessee, 38134
 
+Here's a `Google Map <http://goo.gl/X8TZ9>`_.
+
+**NOTE**: The doors lock after hours, so if you show up, and there's nobody
+to let you in, either tweet to 
+`@MemphisPython <https://twitter.com/memphispython>`_ or give call 901-730-6835.
 
 Agenda
 ------
 * 6:30 - 7:00: Meet & Greet & Food
-* 7:00 - 8:00: TBA (rumors say something about logging and commond line tools!)
-* 8:00 - 8:30: TBA (rumors say something about git!)
+* 7:00 - 8:00: Logging, with email notifications (and other goodness)
+* 8:00 - 8:30: Collaborating with Git
