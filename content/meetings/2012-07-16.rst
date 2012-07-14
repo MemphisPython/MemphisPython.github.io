@@ -1,0 +1,43 @@
+July 16, 2012
+#################
+
+:date: 2012-07-16 16:30 
+:tags: meetings
+:category: meetings
+:author: Brad Montgomery
+
+Please RSVP at one of these:
+* `Facebook <http://www.facebook.com/events/133302023476454/>`_
+* `Meetup.com <http://www.meetup.com/MidsouthTechCorner/events/70711972/>`_
+* `Google Plus <https://plus.google.com/events/cu4pm1gj1196sv96fgdt451lies/114050136938768260218>`_
+
+Time & Date
+-----------
+Time: 6:30pm - 8:30pm
+Date: Monday, July 16th, 2012
+
+Location
+--------
+Welcome to our first Downtown Meeting! We'll be in the 
+`Launchpad <http://www.launchmemphis.com/launchpad/>`_ inside 
+`EmergeMemphis <http://www.emergememphis.org/>`_. There is free on-street
+parking along Tennessee Street, both North and South of the EmergeMemphis
+building.
+
+| The Launchpad, Emerge Memphis
+| 516 Tennessee St. Suite 127
+| Memphis, Tennessee, 38103
+
+Here's a `Google Map <http://goo.gl/PHZ3P>`_.
+
+**NOTE**: If the outside doors are locked when you get here, tweet us at
+@MemphisPython_ or call 901-730-6835.
+
+Agenda
+------
+TBD - There's still time to get your talk heard! Just send a quick message to 
+@MemphisPython_ or email 
+`brad@mempy.org <mailto:brad@mempy.org>`_. 
+
+
+.. _@MemphisPython: http://twitter.com/MemphisPython
