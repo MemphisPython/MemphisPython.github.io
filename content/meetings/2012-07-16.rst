@@ -40,9 +40,7 @@ We'll provide pizza and drinks, so please RSVP at one of these:
 
 Agenda
 ------
-TBD - There's still time to get your talk heard! Just send a quick message to 
-MemphisPython_ or email 
-`brad@mempy.org <mailto:brad@mempy.org>`_. 
-
+* `A quick intro to PIL <https://gist.github.com/3125124>`_
+* `Building RESTful APIs <https://github.com/douglasstarnes/mempyjuly2012>`_
 
 .. _MemphisPython: http://twitter.com/MemphisPython
