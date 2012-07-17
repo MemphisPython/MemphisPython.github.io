@@ -1,0 +1,40 @@
+August 20, 2012
+#################
+
+:date: 2012-07-16 16:30 
+:tags: meetings
+:category: meetings
+:author: Brad Montgomery
+
+Time & Date
+-----------
+| Time: 6:30pm - 8:30pm
+| Date: Monday, August 20th, 2012
+
+Location
+--------
+
+| FedEx Institute of Technology
+| University of Memphis 
+
+Exact room and parking details TBA.
+
+RSVP
+----
+
+*Please* let us know as early as possible if you're attending. We'll provide
+parking passes, but we need to know in advance how many to pick up (otherwise
+parking is not free). Oh, and we'll buy the pizza and drinks.
+
+* `Facebook <http://www.facebook.com/events/396160690431032/>`_
+* `Meetup.com <http://www.meetup.com/MidsouthTechCorner/events/73661732/>`_
+* `Google Plus <https://plus.google.com/events/csslpm4v4cmnc5n9u9g5p9a71qk/114050136938768260218>`_
+
+Agenda
+------
+
+TBD! Submit your talk idea on the `mailing list`_ or reach out to 
+`MemphisPython`_ on twitter.
+
+.. _MemphisPython: http://twitter.com/MemphisPython
+.. _mailing list:  http://bit.ly/mempy-google-group
