@@ -29,6 +29,8 @@ parking is not free). Oh, and we'll buy the pizza and drinks.
 * `Facebook <http://www.facebook.com/events/396160690431032/>`_
 * `Meetup.com <http://www.meetup.com/MidsouthTechCorner/events/73661732/>`_
 * `Google Plus <https://plus.google.com/events/csslpm4v4cmnc5n9u9g5p9a71qk/114050136938768260218>`_
+* Mention `@MemphisPython on Twitter <http://twitter.com/memphispython>`_
+* Send an email to `brad@mempy.org <mailto:brad@mempy.org>`_
 
 Agenda
 ------
