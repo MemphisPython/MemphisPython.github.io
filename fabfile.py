@@ -32,7 +32,7 @@ def rm_file(filename):
             print(colors.yellow("Removed %s" % filename))
             
 def upload():
-    results = put(local_path="output/*", remote_path="~/sites/mempy.org")
+    results = put(local_path="output/*", remote_path=REMOTE_PROJECT_DIR)
 
 def deploy():
     """ deploy html content to remote directory """
