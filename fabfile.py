@@ -4,8 +4,8 @@ from fabric.operations import put
 from fabric import colors 
 from fabric.contrib.files import exists
 
-REMOTE_PROJECT_DIR = '/kunden/homepages/25/d191953947/htdocs/sites/mempy.org'
-env.hosts = ['u43760566@s191953969.onlinehome.us', ]
+REMOTE_PROJECT_DIR = '/var/www/mempy.org'
+env.hosts = ['root@mempy.org', ]
 
 def backup():
     """ make a .tgz of existing content """
