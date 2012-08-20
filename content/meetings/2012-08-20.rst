@@ -13,23 +13,16 @@ Time & Date
 
 Location
 --------
-| Room 430
-| FedEx Institute of Technology
-| University of Memphis 
+| The Launchpad, Emerge Memphis
+| 516 Tennessee St. Suite 127
+| Memphis, TN  38103
 
-Park in the
-`Deloach Parking Garage <http://map.memphis.edu/bldg.php?Building_Id=64>`_,
-right across the street from the Fedex Institute:
-
-| 340 Innovation Drive
-| Memphis, TN 38152
+Here's a `Google Map <http://goo.gl/PHZ3P>`_.
 
 RSVP
 ----
 
-*Please* let us know as early as possible if you're attending. We'll provide
-parking passes, but we need to know in advance how many to pick up (otherwise
-parking is not free). Oh, and we'll buy the pizza and drinks.
+We'll provide pizza and drinks!
 
 * `Facebook <http://www.facebook.com/events/396160690431032/>`_
 * `Meetup.com <http://www.meetup.com/MidsouthTechCorner/events/73661732/>`_
@@ -40,8 +33,8 @@ parking is not free). Oh, and we'll buy the pizza and drinks.
 Agenda
 ------
 
-TBD! Submit your talk idea on the `mailing list`_ or reach out to 
-`MemphisPython`_ on twitter.
+Bring your laptop and any projects on which you're working! We'll do a short
+web-dev workshop followed with some "open hack" time.
 
 .. _MemphisPython: http://twitter.com/MemphisPython
 .. _mailing list:  http://bit.ly/mempy-google-group
