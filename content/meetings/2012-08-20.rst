@@ -13,11 +13,16 @@ Time & Date
 
 Location
 --------
-
+| Room 430
 | FedEx Institute of Technology
 | University of Memphis 
 
-Exact room and parking details TBA.
+Park in the
+`Deloach Parking Garage <http://map.memphis.edu/bldg.php?Building_Id=64>`_,
+right across the street from the Fedex Institute:
+
+| 340 Innovation Drive
+| Memphis, TN 38152
 
 RSVP
 ----
