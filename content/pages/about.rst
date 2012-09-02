@@ -17,6 +17,8 @@ If you'd like to contact us, please email `brad@mempy.org <mailto:brad@mempy.org
 * `Google+ <https://plus.google.com/114050136938768260218>`_
 * `@MemphisPython <http://twitter.com/MemphisPython>`_ on Twitter
 * `MemphisPython <http://facebook.com/MemphisPython>`_ on Facebook
+* `Meetup.com <http://www.meetup.com/MidsouthTechCorner/events/calendar/>`_ as
+  part of the MidSouth Tech Corner.
 
 We also have a mailing list! You can find it at `http://bit.ly/mempy-google-group <http://bit.ly/mempy-google-group>`_.
 
