@@ -1,0 +1,34 @@
+October 15, 2012
+#################
+
+:date: 2012-10-09 21:55
+:tags: meetings
+:category: meetings
+:author: Brad Montgomery
+
+Time & Date
+-----------
+| Time: 6:30pm - 8:30pm
+| Date: Monday, October 15th, 2012
+
+Location
+--------
+
+TBA
+
+RSVP
+----
+
+We'll provide pizza and drinks! Let us know if you plan to attend:
+
+* `Facebook <http://www.facebook.com/events/215080865290188/>`_
+* `Meetup.com <http://www.meetup.com/MidsouthTechCorner/events/82547102/>`_
+* `Google Plus <https://plus.google.com/events/cm0hbfeg46sd0us76935cs4n6hk>`_
+* Mention `@MemphisPython on Twitter <http://twitter.com/memphispython>`_
+* Send an email to `brad@mempy.org <mailto:brad@mempy.org>`_
+
+Agenda
+------
+
+TBD
+
