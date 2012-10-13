@@ -13,8 +13,12 @@ Time & Date
 
 Location
 --------
+| The Launchpad, Emerge Memphis
+| 516 Tennessee St. Suite 127
+| Memphis, TN  38103
 
-TBA
+Here's a `Google Map <http://goo.gl/PHZ3P>`_.
+
 
 RSVP
 ----
@@ -30,5 +34,7 @@ We'll provide pizza and drinks! Let us know if you plan to attend:
 Agenda
 ------
 
-TBD
+Bring a laptop & work on a project.
+Have a lightening talk? Bring it.
+Have any other kind of talk or presentation? Bring it!
 
