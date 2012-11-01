@@ -14,6 +14,7 @@ Time & Date
 Location
 --------
 | Southwest Tennessee Community College
+| Room MAC-171 (Macon Academic Building C, room 171)
 | 5983 Macon Cove
 | Memphis, TN  38103
 
