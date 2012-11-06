@@ -36,7 +36,7 @@ Agenda
 
 Join us for the Special GEEK-week edition of MEMpy!
 
-We'll be running a Coding Dojo or a Project night (depending on interest).
-Bring a laptop, either way :)
+We'll be treated to a Coding Dojo run by Thomas Langston (who also happens to 
+lead up the `Memphis/Mid-South JUG <http://www.memphisjug.org/>`_.
 
-
+Thanks Thomas!
