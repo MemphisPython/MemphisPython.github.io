@@ -1,0 +1,41 @@
+January 21, 2013
+################
+
+:date: 2013-01-06 12:30
+:tags: meetings
+:category: meetings
+:author: Brad Montgomery
+
+Time & Date
+-----------
+| Time: 6:30pm - 8:30pm
+| Date: Monday, January 21st, 2012
+
+Location
+--------
+| Emerge Memphis: The Tennessee Room
+| 516 Tennessee St. Suite 127
+| Memphis, TN  38103
+
+Here's a `Google Map to Emerge <http://goo.gl/PHZ3P>`_.
+
+
+RSVP
+----
+
+We'll provide food and drinks! Let us know if you plan to attend:
+
+* `Facebook <http://www.facebook.com/events/130701340424159/>`_
+* `Google Plus <https://plus.google.com/events/cm26arovaviivq0ua6452rsignc>`_
+* `Meetup.com <http://www.meetup.com/memphis-technology-user-groups/events/98210452/>`_
+* Mention `@MemphisPython on Twitter <http://twitter.com/memphispython>`_
+* Send an email to `brad@mempy.org <mailto:brad@mempy.org>`_
+
+Agenda
+------
+
+Join us for our first meeting of the New Year! We'll kick things off this
+year with a special guest:  `Jason A Myers <https://twitter.com/jasonamyers>`_.
+
+* 6:30 - 7:00: Food!
+* 7:00 - 8:30: Jason Myers presents (something awesome)!
