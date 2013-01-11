@@ -38,4 +38,4 @@ Join us for our first meeting of the New Year! We'll kick things off this
 year with a special guest:  `Jason A Myers <https://twitter.com/jasonamyers>`_.
 
 * 6:30 - 7:00: Food!
-* 7:00 - 8:30: Jason Myers presents (something awesome)!
+* 7:00 - 8:30: Jason Myers presents Testing with Selenium.
