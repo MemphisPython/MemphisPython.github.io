@@ -1,5 +1,5 @@
-Febrary 18, 2013
-################
+February 18, 2013
+#################
 
 :date: 2013-02-18 12:30
 :tags: meetings
@@ -9,7 +9,7 @@ Febrary 18, 2013
 Time & Date
 -----------
 | Time: 6:30pm - 8:30pm
-| Date: Monday, Febrary 18th, 2013
+| Date: Monday, February 18th, 2013
 
 Location
 --------
