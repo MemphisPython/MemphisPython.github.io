@@ -8,12 +8,20 @@ February 18, 2013
 
 Time & Date
 -----------
+
 | Time: 6:30pm - 8:30pm
 | Date: Monday, February 18th, 2013
 
 Location
 --------
-TBA (probably East-Memphis or Cordova)
+
+This month's meeting is graciously hosted by `Mosaik Solutions <http://www.mosaik.com/>`_.
+(`Google Map <http://goo.gl/maps/H5x6L>`_.)
+
+| Mosaik Solutions
+| 6423 Shelby View Drive, Suite 101
+| Memphis, Tennessee, 38134
+
 
 RSVP
 ----
@@ -31,6 +39,6 @@ Agenda
 ------
 
 * 6:30 - 7:00: Food!
-* 7:00 - 7:30: Learn to Count this with Brad Montgomery
+* 7:00 - 7:30: `Learn to Count <https://speakerdeck.com/bkmontgomery/pythons-counter-collection>`_ with `Brad Montgomery <http://twitter.com/bkmontgomery>`_
 * 7:30 - 8:30: Douglas Starnes
 
