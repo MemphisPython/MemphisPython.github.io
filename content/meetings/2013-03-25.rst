@@ -1,0 +1,71 @@
+March 25, 2013
+################
+
+:date: 2013-03-12 10:30
+:tags: meetings
+:category: meetings
+:author: Brad Montgomery
+
+Time & Date
+-----------
+| Time: 6:30pm - 8:30pm
+| Date: Monday, March 25th, 2013
+
+Location
+--------
+| Room 405
+| FedEx Institute of Technology
+| 365 Innovation Drive
+| Memphis, TN 38152
+
+Parking
+-------
+Park in the Garage right across the street from the FedEx Institute on Innovation
+Drive. Parking will be free for attendees of this event.
+
+RSVP
+----
+
+I'm happy to announce that this month's meeting is sponsored by the Institute
+for Intelligent Systems (IIS) and FedEx Institute of Technology. They're
+providing both the venue and the food for this month's meeting, so please RSVP
+if you plan to attend:
+
+* `Facebook <http://www.facebook.com/events/586942007984860/>`_
+* `Google Plus <https://plus.google.com/events/cgts7hhn90agqmscaqo4sgcc0s8>`_
+* `Meetup.com <http://www.meetup.com/memphis-technology-user-groups/events/108875962/>`_
+* Mention `@MemphisPython on Twitter <http://twitter.com/memphispython>`_
+* Send an email to `brad@mempy.org <mailto:brad@mempy.org>`_
+
+Details
+-------
+
+I'm happy to announce our guest speaker, Matt Makai. Join us as he talks
+about Development Workflows with Github.
+
+**Github Development Team Workflows**:
+What are the strengths and weaknesses of using Github for varying
+development team configurations? This talk will cover topics such as
+creating a canonical repository to have development team members fork
+from, handling code reviews through pull requests, and creating
+separate branches for testing and production deployments. This
+programming language-agnostic talk draws upon work with both
+co-located and geographically dispersed teams at the Consumer
+Financial Protection Bureau, the George Washington University, and
+Motley Fool, some of which was recently covered in an article by Wired
+(`<http://www.wired.com/wiredenterprise/2013/01/hack-the-government/>`_)
+
+**About the Speaker**:
+Matt Makai is a traveling software developer visiting thirty cities in
+five months from March through August 2013. He remotely develops
+software with Python for two clients: the Motley Fool and George
+Washington University. He has previously developed software for the
+Consumer Financial Protection Bureau, Marriott International, the FBI,
+Department of Defense, and Freddie Mac. In addition to his undergrad
+Computer Science B.S. from James Madison University, Matt has an M.S.
+in Computer Science and Applications from Virginia Tech and an M.S. in
+Management of Information Technology from the University of Virginia.
+Matt writes two blogs, one on software development and
+entrepreneurship at `<http://www.mattmakai.com/>`_ and another on his
+current Coding Across America trip around the United States to visit
+with technology companies at `<http://www.codingacrossamerica.com/>`_.
