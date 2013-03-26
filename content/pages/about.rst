@@ -3,24 +3,23 @@ About MEMpy
 
 :date: 2011-11-01 00:00
 :tags: about
-:category: about 
+:category: about
 :author: Brad montgomery
 
 We want to promote the use of the Python programming language in the Mid-South. Our primary purpose is
-to share knowlege and to nurture a community of Python professionals and enthusiasts. Each meeting is 
+to share knowlege and to nurture a community of Python professionals and enthusiasts. Each meeting is
 open to the public and aims to provide useful content for both novices and professionals.
 
 Contact Us
 ----------
 If you'd like to contact us, please email `brad@mempy.org <mailto:brad@mempy.org>`_ or follow us online:
 
+* Join our Google Group: `http://bit.ly/mempy-google-group <http://bit.ly/mempy-google-group>`_.
 * `Google+ <https://plus.google.com/114050136938768260218>`_
 * `@MemphisPython <http://twitter.com/MemphisPython>`_ on Twitter
 * `MemphisPython <http://facebook.com/MemphisPython>`_ on Facebook
-* `Meetup.com <http://www.meetup.com/MidsouthTechCorner/events/calendar/>`_ as
-  part of the MidSouth Tech Corner.
-
-We also have a mailing list! You can find it at `http://bit.ly/mempy-google-group <http://bit.ly/mempy-google-group>`_.
+* `Meetup.com <http://www.meetup.com/memphis-technology-user-groups/>`_ as a
+  member of the *Memphis Technology User Groups*.
 
 The Zen of Python, by Tim Peters
 --------------------------------
