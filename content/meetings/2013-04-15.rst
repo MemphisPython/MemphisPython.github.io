@@ -1,0 +1,47 @@
+April 15, 2013
+################
+
+:date: 2013-04-09 21:00
+:tags: meetings
+:category: meetings
+:author: Brad Montgomery
+
+
+Time & Date
+-----------
+| Time: 6:30pm - 8:30pm
+| Date: Monday, April 15th, 2013
+
+
+Location
+--------
+| TBD
+
+
+RSVP
+----
+
+Pizza and Drinks will be provided, so please let us know if you plan to attend.
+
+* `Facebook <>`_
+* `Google Plus <>`_
+* `Meetup.com <>`_
+* Mention `@MemphisPython on Twitter <http://twitter.com/memphispython>`_
+* Send an email to `brad@mempy.org <mailto:brad@mempy.org>`_
+
+
+
+Presentations
+-------------
+
+This month's meeting will consist of a round of short talks on various topics,
+potentially including (but not limited to):
+
+* PiCloud
+* backbone.js
+* Font Awesome
+* Things that power genenetwork.org
+* Mock
+
+Feel free to show up with a presentation ready to go, and we'll add yours to
+the list!  :-)
