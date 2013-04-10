@@ -23,9 +23,9 @@ RSVP
 
 Pizza and Drinks will be provided, so please let us know if you plan to attend.
 
-* `Facebook <>`_
-* `Google Plus <>`_
-* `Meetup.com <>`_
+* `Facebook <http://www.facebook.com/events/495366087188071/>`_
+* `Google Plus <https://plus.google.com/events/clu3lj9886i2bo06g8itinin2gs>`_
+* `Meetup.com <http://www.meetup.com/memphis-technology-user-groups/events/109123262/>`_
 * Mention `@MemphisPython on Twitter <http://twitter.com/memphispython>`_
 * Send an email to `brad@mempy.org <mailto:brad@mempy.org>`_
 
