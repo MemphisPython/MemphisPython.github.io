@@ -15,7 +15,12 @@ Time & Date
 
 Location
 --------
-| TBD
+| Southwest Tennessee Community College
+| 5983 Macon Cove, Memphis TN  38134
+| MAB - 149
+
+Here's a `Google Map <http://goo.gl/maps/Yu2NS>`_ depicting the building and
+parking locations.
 
 
 RSVP
@@ -28,7 +33,6 @@ Pizza and Drinks will be provided, so please let us know if you plan to attend.
 * `Meetup.com <http://www.meetup.com/memphis-technology-user-groups/events/109123262/>`_
 * Mention `@MemphisPython on Twitter <http://twitter.com/memphispython>`_
 * Send an email to `brad@mempy.org <mailto:brad@mempy.org>`_
-
 
 
 Presentations
