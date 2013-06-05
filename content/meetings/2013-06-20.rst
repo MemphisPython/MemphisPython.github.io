@@ -21,7 +21,7 @@ will be multiple talks covering various tech, including:
 * Redis.io
 * Creating HTML5 Games
 
-For full details, visit `http://www.memphisjug.org/2013/05/java-user-group-meeting-thursday-june.html`_
+For full details, visit `<http://www.memphisjug.org/2013/05/java-user-group-meeting-thursday-june.html>`_
 
 Time & Date
 -----------
