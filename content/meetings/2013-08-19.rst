@@ -38,5 +38,5 @@ Food and Drinks will be provided, so please let us know if you plan to attend.
 Presentations
 -------------
 
-TBA.
-
+* `Daniel Bozeman <https://twitter.com/dboze>`_ -- Geospatial Goodies.
+* `Douglas Starnes <https://twitter.com/poweredbyaltnet>`_ -- Google App Engine
