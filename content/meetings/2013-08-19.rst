@@ -1,7 +1,7 @@
-August 19, 1513
+August 19, 2013
 ###############
 
-:date: 2013-08-16 22:00
+:date: 2013-08-19 22:00
 :tags: meetings
 :category: meetings
 :author: Brad Montgomery
