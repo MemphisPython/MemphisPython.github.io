@@ -1,0 +1,35 @@
+September 16, 2013
+##################
+
+:date: 2013-09-16 18:30
+:tags: meetings
+:category: meetings
+:author: Brad Montgomery
+
+
+Time & Date
+-----------
+| Time: 6:30pm - 8:30pm
+| Date: Monday, September 16th, 2013
+
+
+Location
+--------
+TBA (*maybe the University of Memphis area*)
+
+RSVP
+----
+
+Food and Drinks will be provided, so please let us know if you plan to attend.
+
+*Additional RSVP details coming soon*
+
+* Mention `@MemphisPython on Twitter <http://twitter.com/memphispython>`_
+* Send an email to `brad@mempy.org <mailto:brad@mempy.org>`_
+
+
+Presentations
+-------------
+
+Maybe yours? Give us a holler via `email <mailto:brad@mempy.org>`_ or `twitter <http://twitter.com/memphispython>`_.
+
