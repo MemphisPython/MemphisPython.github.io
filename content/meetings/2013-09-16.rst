@@ -15,21 +15,36 @@ Time & Date
 
 Location
 --------
-TBA (*maybe the University of Memphis area*)
+| Room 225
+| Fedex Institute of Technology,
+| University of Memphis
+
+Here's a `Google Map <https://mapsengine.google.com/map/edit?mid=z7eJgDchpI68.kevkGtJ3KYwo>`_
+
+
+Parking
+-------
+
+Park in the Garage right across the street from the Fedex Institute (see the
+map above). If you RSVP before Monday, we'll have parking validation for you
+(that means *free* parking).
+
 
 RSVP
 ----
 
-Food and Drinks will be provided, so please let us know if you plan to attend.
+Pizza and Drinks (and parking!) will be provided, so please let us know if you
+plan to attend.
 
-*Additional RSVP details coming soon*
-
-* Mention `@MemphisPython on Twitter <http://twitter.com/memphispython>`_
-* Send an email to `brad@mempy.org <mailto:brad@mempy.org>`_
+* `Facebook <https://www.facebook.com/events/163856367152932/>`_
+* `Google Plus <https://plus.google.com/b/114050136938768260218/events/cdcot232d4rip03iik9m1cv37vs>`_
+* `Meetup.com <http://meetu.ps/1Zgpqg>`_
+* Or, just mention `@MemphisPython on Twitter <http://twitter.com/memphispython>`_
+* Or, send an email to `brad@mempy.org <mailto:brad@mempy.org>`_
 
 
 Presentations
 -------------
 
-Maybe yours? Give us a holler via `email <mailto:brad@mempy.org>`_ or `twitter <http://twitter.com/memphispython>`_.
-
+* Joe Ferguson (`@svpernova09 <http://twitter.com/svpernova09>`_) will be
+  presenting: **Up and Running with Vagrant + Basic Provisioning**
