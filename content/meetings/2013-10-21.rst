@@ -1,0 +1,39 @@
+October 21, 2013
+################
+
+:date: 2013-10-21 10:00
+:tags: meetings
+:category: meetings
+:author: Brad Montgomery
+
+
+Time & Date
+-----------
+| Time: 6:30pm - 8:30pm
+| Date: Monday, October 21th, 2013
+
+
+Location
+--------
+| Mosaik Solutions
+| 6423 Shelby View Drive, Suite 101
+| Memphis, Tennessee, 38134
+
+
+RSVP
+----
+
+Food and Drinks will be provided, so please let us know if you plan to attend.
+
+* `Facebook <https://www.facebook.com/events/219853514856919/>`_
+* `Google Plus <https://plus.google.com/b/114050136938768260218/events/cg7i7nr89t3t726rb4kqoi49ca4>`_
+* `Meetup.com <http://www.meetup.com/memphis-technology-user-groups/events/143261172/>`_
+* Mention `@MemphisPython on Twitter <http://twitter.com/memphispython>`_
+* Send an email to `brad@mempy.org <mailto:brad@mempy.org>`_
+
+
+Presentations
+-------------
+
+* `Joey Brown <http://www.meetup.com/memphis-technology-user-groups/members/76692972/>`_ will be talking about Angular.js
+
