@@ -15,7 +15,9 @@ Time & Date
 
 Location
 --------
-TBD
+| Cowork Memphis
+| 902 S. Cooper Street
+| Memphis, TN 38104
 
 
 RSVP
@@ -33,4 +35,7 @@ Food and Drinks will be provided, so please let us know if you plan to attend. J
 Presentations
 -------------
 
-TBD
+This meeting will be an **open meething**. We'll have open discussions about
+project workflow, current tools, and anything else you want to talk about.
+
+Bring a laptop and some code!
