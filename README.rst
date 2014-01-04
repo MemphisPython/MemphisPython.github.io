@@ -11,7 +11,7 @@ This site is hosted in cloud files. To generate the site and deploy:
 ::
 
     # Generate any new content
-	pelican -s settings.py content
+	make html
 
     # upload to the correct container
 	swiftcontainer mempy

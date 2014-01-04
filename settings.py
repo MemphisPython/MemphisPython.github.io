@@ -5,6 +5,7 @@ SITEURL = 'http://www.mempy.org'
 DEFAULT_CATEGORY = u'meetings'
 GITHUB_URL = 'https://github.com/bradmontgomery/mempy.org'
 PDF_GENERATOR = False
+TIMEZONE = "America/Chicago"
 
 FEED_RSS = 'feeds/all.rss.xml'
 CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
@@ -16,7 +17,7 @@ TWITTER_USERNAME = 'MemphisPython'
 SOCIAL = (
     ('Email', 'mailto:brad@mempy.org'),
     ('Mailing List', 'http://bit.ly/mempy-google-group'),
-    ('Google+', 'https://plus.google.com/114050136938768260218'),
+    ('Google+', 'https://plus.google.com/+MempyOrg/'),
     ('Twitter', 'http://twitter.com/MemphisPython'),
     ('Facebook', 'http://facebook.com/MemphisPython'),
 )
