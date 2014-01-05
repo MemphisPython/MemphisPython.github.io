@@ -21,3 +21,5 @@ SOCIAL = (
     ('Twitter', 'http://twitter.com/MemphisPython'),
     ('Facebook', 'http://facebook.com/MemphisPython'),
 )
+
+GOOGLE_ANALYTICS = 'UA-46826960-1'
