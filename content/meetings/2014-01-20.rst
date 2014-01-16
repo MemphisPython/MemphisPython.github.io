@@ -13,8 +13,24 @@ Time & Date
 
 Location
 --------
-| TBD
+| Cowork Memphis
+| 902 S. Cooper Street
+| Memphis, TN 38104
+
+RSVP
+----
+
+Food and Drinks will be provided, so please let us know if you plan to attend.
+Just RSVP at one of the following:
+
+* `Facebook <https://www.facebook.com/events/1391828531075310/>`_
+* `Google Plus <http://goo.gl/A5kgbA>`_
+* `Meetup.com <http://www.meetup.com/memphis-technology-user-groups/events/155905182/>`_
+* Mention `@MemphisPython on Twitter <http://twitter.com/memphispython>`_
+* Send an email to `brad@mempy.org <mailto:brad@mempy.org>`_
 
 
-Happy New Year, everyone! Save the date, because our first meeting of the
-year will happen on the 20th. More details coming soon!
+Presentations
+-------------
+
+* `Ed Anderson <https://twitter.com/edyesed>`_ presents: from Operations import automation
