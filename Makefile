@@ -3,3 +3,6 @@ html:
 
 clean:
 	rm -rf output
+
+deploy:
+	source ~/.rackspace_brad && cd output && swiftcontainer mempy && swiftupload .
