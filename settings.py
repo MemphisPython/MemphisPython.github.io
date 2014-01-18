@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 AUTHOR = u'Brad Montgomery'
 SITENAME = u'MEMpy'
-SITEURL = 'http://mempy.org'
+SITEURL = 'http://www.mempy.org'
 DEFAULT_CATEGORY = u'meetings'
 GITHUB_URL = 'https://github.com/bradmontgomery/mempy.org'
 PDF_GENERATOR = False
