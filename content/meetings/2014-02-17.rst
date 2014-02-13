@@ -1,0 +1,39 @@
+February 17, 2014
+#################
+
+:date: 2014-02-13 11:00
+:tags: meetings
+:category: meetings
+:author: Brad Montgomery
+
+Time & Date
+-----------
+
+| Time: 6:30pm - 8:30pm
+| Date: Monday, February 17th, 2014
+
+Location
+--------
+
+| Cowork Memphis
+| 902 S. Cooper Street
+| Memphis, TN 38104
+
+RSVP
+----
+
+Food and Drinks will be provided, so please let us know if you plan to attend.
+Just RSVP at one of the following:
+
+* `Facebook <https://www.facebook.com/events/597490413679258/>`_
+* `Google Plus <http://goo.gl/pJhGXv>`_
+* `Meetup.com <http://www.meetup.com/memphis-technology-user-groups/events/165368542/>`_
+* Mention `@MemphisPython on Twitter <http://twitter.com/memphispython>`_
+* Send an email to `brad@mempy.org <mailto:brad@mempy.org>`_
+
+
+Presentations
+-------------
+
+We'll have several short (aka Lighnting talks) during this meeting. Bring one
+and practice for PyTennessee!
