@@ -1,0 +1,45 @@
+May 19, 2014
+############
+
+:date: 2014-05-15 22:30
+:tags: meetings
+:category: meetings
+:author: Brad Montgomery
+
+Time & Date
+-----------
+
+| Time: 6:30pm - 8:30pm
+| Date: Monday, May 19, 2014
+
+Location
+--------
+
+This month's meeting is graciously hosted by `Mosaik Solutions <http://www.mosaik.com/>`_.
+(`Google Map <http://goo.gl/maps/H5x6L>`_.)
+
+| Mosaik Solutions
+| 6423 Shelby View Drive, Suite 101
+| Memphis, Tennessee, 38134
+
+RSVP
+----
+
+Food and Drinks will be provided, so please let us know if you plan to attend. Just RSVP at one of the following:
+
+* `Meetup.com <http://www.meetup.com/memphis-technology-user-groups/events/180936642/>`_
+* `Facebook <https://www.facebook.com/events/296501410512525/>`_
+* `Google Plus <http://goo.gl/kc7vMB>`_
+* Mention `@MemphisPython on Twitter <http://twitter.com/memphispython>`_
+* Send an email to `brad@mempy.org <mailto:brad@mempy.org>`_
+
+
+Presentations
+-------------
+
+We'll have a number of short talks this month from some new faces!
+
+* Stuart McCloy: Intro to Python
+* `Tony Colston <http://goo.gl/nR3zYx>`_: web.py and *How we use Python*
+* `Jeffrey Skonhovd <https://twitter.com/jskonhovd>`_: Machine Learning in Python using sklearn
+
