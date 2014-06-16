@@ -5,4 +5,4 @@ clean:
 	rm -rf output
 
 deploy:
-	source ~/.rackspace_brad && cd output && swiftcontainer mempy && swiftupload .
+	make html; source ~/.rackspace_brad && cd output && swiftcontainer mempy && swiftupload .
