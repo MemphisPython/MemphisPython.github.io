@@ -37,7 +37,7 @@ Meeting Roundup
 Tonight's meeting was a little different, but there were great conversations
 covering many topics. Here are just a few:
 
-    * General discussion on application stacks (with a nod to `Web Operations by John Allspaw and Jesse Robbins <http://www.amazon.com/Web-Operations-Keeping-Data-Time/dp/1449377440>`).
+    * General discussion on application stacks (with a nod to `Web Operations by John Allspaw and Jesse Robbins <http://www.amazon.com/Web-Operations-Keeping-Data-Time/dp/1449377440>`_).
     * Python's ``__dict__`` attribute (see `Python's docs on special attributes <https://docs.python.org/2/library/stdtypes.html#special-attributes>`_ and `Controlling Attribute Access <http://www.rafekettler.com/magicmethods.html#access>`_).
     * One of the top-ten `Common mistakes that python programmer's make <http://www.toptal.com/python/top-10-mistakes-that-python-programmers-make#common-mistake-1-misusing-expressions-as-defaults-for-function-arguments>`_.
     * `@dboze <https://twitter.com/dboze>`_'s simple nearest-neighbor inpainting implementation: `innpain <https://github.com/dboze/innpaint>`_.
