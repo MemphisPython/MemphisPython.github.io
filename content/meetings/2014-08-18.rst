@@ -1,0 +1,36 @@
+August 18, 2014
+###############
+
+:date: 2014-08-01 10:00
+:tags: meetings
+:category: meetings
+:author: Brad Montgomery
+
+We'll resume our regular meetings in August, with a couple of interesting new
+talks (which will be revealed once we get them confirmed!)
+
+Time & Date
+-----------
+
+| Time: 6:30pm - 8:30pm
+| Date: Monday, August 18, 2014
+
+Location
+--------
+
+TBA.
+
+RSVP
+----
+
+Food and Drinks will be provided, so please let us know if you plan to attend. Just RSVP at one of the following:
+
+* `Meetup.com <http://www.meetup.com/memphis-technology-user-groups/events/195561522/>`_.
+* Mention `@MemphisPython on Twitter <http://twitter.com/memphispython>`_
+* Send an email to `brad@mempy.org <mailto:brad@mempy.org>`_
+
+
+Agenda
+------
+
+TBA.
