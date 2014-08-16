@@ -37,4 +37,5 @@ Food and Drinks will be provided, so please let us know if you plan to attend. J
 Agenda
 ------
 
-TBA.
+**Scott Umsted**: CSRF, XSS, and Flask.
+**Christian Catlin**: Intro Python.
