@@ -37,5 +37,5 @@ Food and Drinks will be provided, so please let us know if you plan to attend. J
 Agenda
 ------
 
-**Scott Umsted**: CSRF, XSS, and Flask.
-**Christian Catlin**: Intro Python.
+**Scott Umsted**: CSRF, XSS, and Flask (`slides <http://bank.ezpz.gs/static/presentation/index.html>`_ and `code <https://github.com/sumsted/csrf_example>`_)
+**Christian Catlin**: Basic Python Package Management (`slides <http://goo.gl/lUN3bx>`_)
