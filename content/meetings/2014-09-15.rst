@@ -1,0 +1,53 @@
+September 15, 2014
+##################
+
+:date: 2014-09-08 7:00
+:tags: meetings
+:category: meetings
+:author: Brad Montgomery
+
+Wow! September already upon us and is jam-packed with lots of amazing tech
+events happening, locally. This month with see something a little different
+for us, too, and our meeting will be at Rhodes.
+
+Time & Date
+-----------
+
+| Time: 6:30pm - 8:30pm
+| Date: Monday, August 18, 2014
+
+Location
+--------
+
+| `Rhodes College (link to google maps) <http://goo.gl/nes87Y>`_.
+| 2000 N. Parkway
+| Memphis, TN
+
+We'll meet in Lecture Hall B in the Frazier-Jelke science center (It's underground,
+so look for Ohlendorf Hall, then go downstairs). There should be signs on campus
+directing us.
+
+Parking is free on campus, but the campus is gated, and evening access is only
+available through the entrance that is marked on the map (off of University). There
+is a guard posted at the entrance, but they should be expecting visitors for the
+Memphis Python Users Group meeting.
+
+See `this campus map (pdf) <https://www.dropbox.com/s/dq80iou9ui37r6n/Rhodes_Campus_Map.pdf?dl=0>`_ for directions.
+
+
+RSVP
+----
+
+Food and Drinks will be provided, so please let us know if you plan to attend.
+Just RSVP at one of the following:
+
+* `Meetup.com <http://www.meetup.com/memphis-technology-user-groups/events/204199392/>`_
+* `Facebook <https://www.facebook.com/events/830175527016603/>`_
+* Mention `@MemphisPython on Twitter <http://twitter.com/memphispython>`_
+* Send an email to `brad@mempy.org <mailto:brad@mempy.org>`_
+
+
+Agenda
+------
+
+We'll plan on three or four short (10-15 minute) talks. Please `get in touch <mailto:brad@mempy.org>`_ if you'd like to present!
