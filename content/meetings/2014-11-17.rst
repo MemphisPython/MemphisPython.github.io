@@ -1,0 +1,41 @@
+November 17, 2014
+################
+
+:date: 2014-11-17 6:30
+:tags: meetings
+:category: meetings
+:author: Douglas Starnes
+
+Join us for the November installation of the Memphis Python User Group!
+
+This is our third anniversary!
+
+Time & Date
+-----------
+
+| Time: 6:30pm - 8:30pm
+| Date: Monday, Novemeber 17, 2014
+
+Location
+--------
+
+This month's meeting is graciously hosted by `Mosaik Solutions <http://mosaik.com/>`_.
+
+| Mosaik Solutions
+| 6423 Shelby View Drive, #101
+| Memphis, TN 38314
+
+RSVP
+----
+
+Food and Drinks will be provided, so please let us know if you plan to attend. Just RSVP at one of the following:
+
+* `Meetup.com <http://www.meetup.com/memphis-technology-user-groups/events/210591192/>`_
+* Mention `@MemphisPython on Twitter <http://twitter.com/memphispython>`_
+* Send an email to `brad@mempy.org <mailto:brad@mempy.org>`_
+
+
+Agenda
+------
+
+* TBD
