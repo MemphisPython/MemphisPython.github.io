@@ -28,7 +28,7 @@ RSVP
 
 Food and Drinks will be provided, so please let us know if you plan to attend. Just RSVP at one of the following:
 
-* `Meetup.com <http://www.meetup.com/memphis-technology-user-groups/events/218910608/`_
+* `Meetup.com <http://www.meetup.com/memphis-technology-user-groups/events/218910608/>`_
 * Mention `@MemphisPython on Twitter <http://twitter.com/memphispython>`_
 * Send an email to `brad@mempy.org <mailto:brad@mempy.org>`_
 
