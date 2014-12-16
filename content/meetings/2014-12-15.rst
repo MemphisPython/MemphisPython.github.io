@@ -36,4 +36,4 @@ Food and Drinks will be provided, so please let us know if you plan to attend. J
 Agenda
 ------
 
-* TBD
+* `Python Decorators <https://speakerdeck.com/bkmontgomery/python-decorators>`_ by `Brad Montgomery <https://twitter.com/bkmontgomery>`_
