@@ -1,5 +1,5 @@
 html:
-	pelican -o html -s settings.py content
+	pelican -o site -s settings.py content
 
 clean:
-	rm -rf html
+	rm -rf site
