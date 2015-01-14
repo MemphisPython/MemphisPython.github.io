@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>MEMpy</title><link href="http://www.mempy.org/" rel="alternate"></link><link href="http://www.mempy.org/feeds/meetings.atom.xml" rel="self"></link><id>http://www.mempy.org/</id><updated>2014-12-14T21:10:00-06:00</updated><entry><title>December 15, 2014</title><link href="http://www.mempy.org/december-15-2014.html" rel="alternate"></link><updated>2014-12-14T21:10:00-06:00</updated><author><name>Brad Montgomery</name></author><id>tag:www.mempy.org,2014-12-14:december-15-2014.html</id><summary type="html">&lt;p&gt;Join us for the December Memphis Python User Group!&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>MEMpy</title><link href="http://www.mempy.org/" rel="alternate"></link><link href="http://www.mempy.org/feeds/meetings.atom.xml" rel="self"></link><id>http://www.mempy.org/</id><updated>2015-01-13T22:45:00-06:00</updated><entry><title>January 19, 2015</title><link href="http://www.mempy.org/january-19-2015.html" rel="alternate"></link><updated>2015-01-13T22:45:00-06:00</updated><author><name>Brad Montgomery</name></author><id>tag:www.mempy.org,2015-01-13:january-19-2015.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;Happy New Year!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;It's a new year, and we're kicking it off with something different. This will
+be our first &lt;em&gt;hack night&lt;/em&gt; meeting.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Bring a laptop and a project, and spend a couple of hours working among friends.&lt;/li&gt;
+&lt;li&gt;Don't have a project? Jump in with someone else.&lt;/li&gt;
+&lt;li&gt;New to python, and not sure where to start? This will be an excellent time to
+find a mentor!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="section" id="time-date"&gt;
+&lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
+&lt;div class="line"&gt;Date: Monday, January 19th, 2015&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Cowork Memphis&lt;/div&gt;
+&lt;div class="line"&gt;902 S. Cooper Street&lt;/div&gt;
+&lt;div class="line"&gt;Memphis, TN 38104&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="rsvp"&gt;
+&lt;h2&gt;RSVP&lt;/h2&gt;
+&lt;p&gt;Pizza and Drinks will be provided, so please let us know if you plan to attend.&lt;/p&gt;
+&lt;p&gt;Please RSVP at one of the following:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.meetup.com/memphis-technology-user-groups/events/219015182/"&gt;Meetup.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mention &lt;a class="reference external" href="http://twitter.com/memphispython"&gt;&amp;#64;MemphisPython on Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Send an email to &lt;a class="reference external" href="mailto:brad&amp;#64;mempy.org"&gt;brad&amp;#64;mempy.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary><category term="meetings"></category></entry><entry><title>December 15, 2014</title><link href="http://www.mempy.org/december-15-2014.html" rel="alternate"></link><updated>2014-12-14T21:10:00-06:00</updated><author><name>Brad Montgomery</name></author><id>tag:www.mempy.org,2014-12-14:december-15-2014.html</id><summary type="html">&lt;p&gt;Join us for the December Memphis Python User Group!&lt;/p&gt;
 &lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;

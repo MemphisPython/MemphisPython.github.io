@@ -1,0 +1,40 @@
+January 19, 2015
+################
+
+:date: 2015-01-13 22:45
+:tags: meetings
+:category: meetings
+:author: Brad Montgomery
+
+**Happy New Year!**
+
+It's a new year, and we're kicking it off with something different. This will
+be our first *hack night* meeting.
+
+* Bring a laptop and a project, and spend a couple of hours working among friends.
+* Don't have a project? Jump in with someone else.
+* New to python, and not sure where to start? This will be an excellent time to
+  find a mentor!
+
+
+Time & Date
+-----------
+| Time: 6:30pm - 8:30pm
+| Date: Monday, January 19th, 2015
+
+Location
+--------
+| Cowork Memphis
+| 902 S. Cooper Street
+| Memphis, TN 38104
+
+RSVP
+----
+
+Pizza and Drinks will be provided, so please let us know if you plan to attend.
+
+Please RSVP at one of the following:
+
+* `Meetup.com <http://www.meetup.com/memphis-technology-user-groups/events/219015182/>`_
+* Mention `@MemphisPython on Twitter <http://twitter.com/memphispython>`_
+* Send an email to `brad@mempy.org <mailto:brad@mempy.org>`_
