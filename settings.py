@@ -3,7 +3,7 @@ AUTHOR = u'Brad Montgomery'
 SITENAME = u'MEMpy'
 SITEURL = 'http://www.mempy.org'
 DEFAULT_CATEGORY = u'meetings'
-GITHUB_URL = 'https://github.com/bradmontgomery/mempy.org'
+GITHUB_URL = 'https://github.com/MemphisPython/MemphisPython.github.io'
 PDF_GENERATOR = False
 TIMEZONE = "America/Chicago"
 

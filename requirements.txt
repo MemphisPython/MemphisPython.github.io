@@ -1,2 +1,1 @@
 pelican==3.3
-python-swiftclient==1.8.0
