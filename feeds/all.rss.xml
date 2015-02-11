@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MEMpy</title><link>http://www.mempy.org/</link><description></description><atom:link href="http://www.mempy.org/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 10 Feb 2015 08:05:00 -0600</lastBuildDate><item><title>February 16, 2015</title><link>http://www.mempy.org/february-16-2015.html</link><description>&lt;div class="section" id="time-date"&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MEMpy</title><link>http://www.mempy.org/</link><description></description><atom:link href="http://www.mempy.org/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 10 Feb 2015 08:05:00 -0600</lastBuildDate><item><title>February 16, 2015</title><link>http://www.mempy.org/february-16-2015.html</link><description>&lt;p&gt;Welcome to the February 2015 python meetup! We're trying something new again
+this month with a &lt;em&gt;mini workshop&lt;/em&gt;. So, if you've never written a line of python,
+but you'd like to learn, this would be a great meeting to attend!&lt;/p&gt;
+&lt;p&gt;Read on for more details.&lt;/p&gt;
+&lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
@@ -28,7 +32,10 @@
 &lt;/div&gt;
 &lt;div class="section" id="agenda"&gt;
 &lt;h2&gt;Agenda&lt;/h2&gt;
-&lt;p&gt;We're still working on a list of speakers. Want to give a 5 or 10-minute talk? Get in touch with &amp;#64;MemphisPython on twitter or email &lt;a class="reference external" href="mailto:brad&amp;#64;mempy.org"&gt;brad&amp;#64;mempy.org&lt;/a&gt;.&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Fun with Markov Chains, by &lt;a class="reference external" href="https://twitter.com/bkmontgomery"&gt;Brad Montgomery&lt;/a&gt;: A short talk about generating funny text.&lt;/li&gt;
+&lt;li&gt;Mini Workshop: Build a command-line ToDo app, by &lt;a class="reference external" href="https://twitter.com/poweredbyaltnet"&gt;Douglas Starnes&lt;/a&gt;: A hands-on workshop that guides you in building a simple python application. Bring a laptop, and we'll help with the rest.&lt;/li&gt;
+&lt;/ol&gt;
 &lt;/div&gt;
 </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Tue, 10 Feb 2015 08:05:00 -0600</pubDate><guid>tag:www.mempy.org,2015-02-10:february-16-2015.html</guid><category>meetings</category></item><item><title>January 19, 2015</title><link>http://www.mempy.org/january-19-2015.html</link><description>&lt;p&gt;&lt;strong&gt;Happy New Year!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;It's a new year, and we're kicking it off with something different. This will
