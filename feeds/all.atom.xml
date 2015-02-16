@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>MEMpy</title><link href="http://www.mempy.org/" rel="alternate"></link><link href="http://www.mempy.org/feeds/all.atom.xml" rel="self"></link><id>http://www.mempy.org/</id><updated>2015-02-10T08:05:00-06:00</updated><entry><title>February 16, 2015</title><link href="http://www.mempy.org/february-16-2015.html" rel="alternate"></link><updated>2015-02-10T08:05:00-06:00</updated><author><name>Brad Montgomery</name></author><id>tag:www.mempy.org,2015-02-10:february-16-2015.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;Weather Update&lt;/strong&gt;: It looks as if there's bad weather in the forecast for
+<feed xmlns="http://www.w3.org/2005/Atom"><title>MEMpy</title><link href="http://www.mempy.org/" rel="alternate"></link><link href="http://www.mempy.org/feeds/all.atom.xml" rel="self"></link><id>http://www.mempy.org/</id><updated>2015-02-10T08:05:00-06:00</updated><entry><title>February 16, 2015</title><link href="http://www.mempy.org/february-16-2015.html" rel="alternate"></link><updated>2015-02-10T08:05:00-06:00</updated><author><name>Brad Montgomery</name></author><id>tag:www.mempy.org,2015-02-10:february-16-2015.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;Meeting Postponed&lt;/strong&gt;: We're moving this month's meeting to next week, Feb 23rd.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Weather Update&lt;/strong&gt;: It looks as if there's bad weather in the forecast for
 Monday. If we do get inclement weather, we'll postpone this meeting. Watch our
 &lt;a class="reference external" href="https://twitter.com/memphispython"&gt;twitter feed (&amp;#64;MemphisPython)&lt;/a&gt; on Monday
 for further details.&lt;/p&gt;
@@ -12,7 +13,7 @@ but you'd like to learn, this would be a great meeting to attend!&lt;/p&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
-&lt;div class="line"&gt;Date: Monday, February 16th, 2015&lt;/div&gt;
+&lt;div class="line"&gt;Date: Monday, February 23rd, 2015&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="section" id="location"&gt;
