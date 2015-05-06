@@ -1,79 +1,402 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en"
+>
 <head>
-        <meta charset="utf-8" />
-        <title>MEMpy - Tags</title>
-        <link rel="stylesheet" href="http://www.mempy.org/theme/css/main.css" />
-        <link href="http://www.mempy.org/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="MEMpy Atom Feed" />
+    <title>Tags - MEMpy</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        <!--[if IE]>
-            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-        <![endif]-->
+
+
+
+        <meta name="author" content="Brad Montgomery" />
+
+    <!-- Open Graph tags -->
+        <meta property="og:site_name" content="MEMpy" />
+        <meta property="og:type" content="website"/>
+        <meta property="og:title" content="MEMpy"/>
+        <meta property="og:url" content="http://www.mempy.org"/>
+        <meta property="og:description" content="MEMpy"/>
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="http://www.mempy.org/theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="http://www.mempy.org/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="http://www.mempy.org/theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="http://www.mempy.org/theme/css/style.css" type="text/css"/>
+
+        <link href="http://www.mempy.org/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="MEMpy ATOM Feed"/>
+
 </head>
+<body>
 
-<body id="index" class="home">
-<a href="https://github.com/MemphisPython">
-<img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub" />
-</a>
-        <header id="banner" class="body">
-                <h1><a href="http://www.mempy.org/">MEMpy </a></h1>
-                <nav><ul>
-                    <li><a href="http://www.mempy.org/pages/about-mempy.html">About MEMpy</a></li>
-                    <li><a href="http://www.mempy.org/category/meetings.html">meetings</a></li>
-                    <li><a href="http://www.mempy.org/category/announcements.html">announcements</a></li>
-                </ul></nav>
-        </header><!-- /#banner -->
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+	<div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="http://www.mempy.org/" class="navbar-brand">
+MEMpy            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                         <li><a href="http://www.mempy.org/pages/about-mempy.html">
+                             About MEMpy
+                          </a></li>
+                         <li><a href="http://www.mempy.org/pages/jobs.html">
+                             Jobs
+                          </a></li>
+                        <li >
+                            <a href="http://www.mempy.org/category/meetings.html">Meetings</a>
+                        </li>
+                        <li >
+                            <a href="http://www.mempy.org/category/announcements.html">Announcements</a>
+                        </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="http://www.mempy.org/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<!-- End Banner -->
+<div class="container">
+    <div class="row">
+        <div class="col-sm-9">
 
-<section id="content" class="body">
-    <h1>Tags for MEMpy</h1>
-    <ul>
-        <li><a href="http://www.mempy.org/tag/code.html">code</a> (2)</li>
-        <li><a href="http://www.mempy.org/tag/community.html">community</a> (1)</li>
-        <li><a href="http://www.mempy.org/tag/conference.html">conference</a> (2)</li>
-        <li><a href="http://www.mempy.org/tag/hackathon.html">hackathon</a> (1)</li>
-        <li><a href="http://www.mempy.org/tag/meetings.html">meetings</a> (42)</li>
-        <li><a href="http://www.mempy.org/tag/memphis.html">memphis</a> (1)</li>
-        <li><a href="http://www.mempy.org/tag/nashville.html">nashville</a> (2)</li>
-        <li><a href="http://www.mempy.org/tag/pytennessee.html">pytennessee</a> (1)</li>
-        <li><a href="http://www.mempy.org/tag/python.html">python</a> (1)</li>
-        <li><a href="http://www.mempy.org/tag/talks.html">talks</a> (1)</li>
-        <li><a href="http://www.mempy.org/tag/technology.html">technology</a> (1)</li>
-        <li><a href="http://www.mempy.org/tag/tennessee.html">tennessee</a> (2)</li>
+    <section id="tags">
+        <h1>Tags for MEMpy</h1>
+        <div class="panel-group" id="accordion">            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse-code">code <span class="badge pull-right">2</span></a>
+                    </h4>
+                </div>
+                <div id="collapse-code" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <p><span class="categories-timestamp"><time datetime="2013-04-03T10:40:00-05:00">Wed 03 April 2013</time></span> <a href="http://www.mempy.org/hack-nashville.html">Hack Nashville</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2013-03-25T21:45:00-05:00">Mon 25 March 2013</time></span> <a href="http://www.mempy.org/nashville-code-cooperative-talk-day.html">Nashville Code Cooperative Talk Day</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse-community">community <span class="badge pull-right">1</span></a>
+                    </h4>
+                </div>
+                <div id="collapse-community" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <p><span class="categories-timestamp"><time datetime="2014-09-27T15:45:00-05:00">Sat 27 September 2014</time></span> <a href="http://www.mempy.org/techcamp-memphis-2014-cfp.html">TechCamp Memphis, 2014 CFP</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse-conference">conference <span class="badge pull-right">3</span></a>
+                    </h4>
+                </div>
+                <div id="collapse-conference" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <p><span class="categories-timestamp"><time datetime="2015-05-05T21:00:00-05:00">Tue 05 May 2015</time></span> <a href="http://www.mempy.org/pyohio-2015.html">PyOhio 2015</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2013-09-24T21:40:00-05:00">Tue 24 September 2013</time></span> <a href="http://www.mempy.org/pytennessee-2014.html">PyTennessee 2014</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2014-09-27T15:45:00-05:00">Sat 27 September 2014</time></span> <a href="http://www.mempy.org/techcamp-memphis-2014-cfp.html">TechCamp Memphis, 2014 CFP</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse-hackathon">hackathon <span class="badge pull-right">1</span></a>
+                    </h4>
+                </div>
+                <div id="collapse-hackathon" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <p><span class="categories-timestamp"><time datetime="2013-04-03T10:40:00-05:00">Wed 03 April 2013</time></span> <a href="http://www.mempy.org/hack-nashville.html">Hack Nashville</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse-meetings">meetings <span class="badge pull-right">42</span></a>
+                    </h4>
+                </div>
+                <div id="collapse-meetings" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <p><span class="categories-timestamp"><time datetime="2013-04-09T21:00:00-05:00">Tue 09 April 2013</time></span> <a href="http://www.mempy.org/april-15-2013.html">April 15, 2013</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2012-04-15T15:25:00-05:00">Sun 15 April 2012</time></span> <a href="http://www.mempy.org/april-16-2012.html">April 16, 2012</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2015-04-16T10:00:00-05:00">Thu 16 April 2015</time></span> <a href="http://www.mempy.org/april-20-2015.html">April 20, 2015</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2014-04-17T21:30:00-05:00">Thu 17 April 2014</time></span> <a href="http://www.mempy.org/april-21-2014.html">April 21, 2014</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2014-08-01T10:00:00-05:00">Fri 01 August 2014</time></span> <a href="http://www.mempy.org/august-18-2014.html">August 18, 2014</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2013-08-19T22:00:00-05:00">Mon 19 August 2013</time></span> <a href="http://www.mempy.org/august-19-2013.html">August 19, 2013</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2012-07-24T16:00:00-05:00">Tue 24 July 2012</time></span> <a href="http://www.mempy.org/august-20-2012.html">August 20, 2012</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2014-12-14T21:10:00-06:00">Sun 14 December 2014</time></span> <a href="http://www.mempy.org/december-15-2014.html">December 15, 2014</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2013-12-10T22:40:00-06:00">Tue 10 December 2013</time></span> <a href="http://www.mempy.org/december-16-2013.html">December 16, 2013</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2012-12-06T09:30:00-06:00">Thu 06 December 2012</time></span> <a href="http://www.mempy.org/december-17-2012.html">December 17, 2012</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2011-12-19T00:00:00-06:00">Mon 19 December 2011</time></span> <a href="http://www.mempy.org/december-19-2011.html">December 19, 2011</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2015-02-10T08:05:00-06:00">Tue 10 February 2015</time></span> <a href="http://www.mempy.org/february-16-2015.html">February 16, 2015</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2014-02-13T11:00:00-06:00">Thu 13 February 2014</time></span> <a href="http://www.mempy.org/february-17-2014.html">February 17, 2014</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2013-02-18T12:30:00-06:00">Mon 18 February 2013</time></span> <a href="http://www.mempy.org/february-18-2013.html">February 18, 2013</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2012-02-20T00:00:00-06:00">Mon 20 February 2012</time></span> <a href="http://www.mempy.org/february-20-2012.html">February 20, 2012</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2012-01-15T00:00:00-06:00">Sun 15 January 2012</time></span> <a href="http://www.mempy.org/january-16-2012.html">January 16, 2012</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2015-01-13T22:45:00-06:00">Tue 13 January 2015</time></span> <a href="http://www.mempy.org/january-19-2015.html">January 19, 2015</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2014-01-04T17:30:00-06:00">Sat 04 January 2014</time></span> <a href="http://www.mempy.org/january-20-2014.html">January 20, 2014</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2013-01-06T12:30:00-06:00">Sun 06 January 2013</time></span> <a href="http://www.mempy.org/january-21-2013.html">January 21, 2013</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2013-07-10T23:30:00-05:00">Wed 10 July 2013</time></span> <a href="http://www.mempy.org/july-15-1513.html">July 15, 1513</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2012-07-16T16:30:00-05:00">Mon 16 July 2012</time></span> <a href="http://www.mempy.org/july-16-2012.html">July 16, 2012</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2014-06-16T11:00:00-05:00">Mon 16 June 2014</time></span> <a href="http://www.mempy.org/june-16-2014.html">June 16, 2014</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2012-06-15T16:30:00-05:00">Fri 15 June 2012</time></span> <a href="http://www.mempy.org/june-18-2012.html">June 18, 2012</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2013-06-04T21:30:00-05:00">Tue 04 June 2013</time></span> <a href="http://www.mempy.org/june-20-2013.html">June 20, 2013</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2015-03-16T08:00:00-05:00">Mon 16 March 2015</time></span> <a href="http://www.mempy.org/march-16-2015.html">March 16, 2015</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2014-03-13T19:00:00-05:00">Thu 13 March 2014</time></span> <a href="http://www.mempy.org/march-17-2014.html">March 17, 2014</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2012-03-16T00:00:00-05:00">Fri 16 March 2012</time></span> <a href="http://www.mempy.org/march-19-2012.html">March 19, 2012</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2013-03-12T10:30:00-05:00">Tue 12 March 2013</time></span> <a href="http://www.mempy.org/march-25-2013.html">March 25, 2013</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2014-05-15T22:30:00-05:00">Thu 15 May 2014</time></span> <a href="http://www.mempy.org/may-19-2014.html">May 19, 2014</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2013-05-17T16:30:00-05:00">Fri 17 May 2013</time></span> <a href="http://www.mempy.org/may-20-2013.html">May 20, 2013</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2012-05-25T11:12:00-05:00">Fri 25 May 2012</time></span> <a href="http://www.mempy.org/may-28-2012.html">May 28, 2012</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2014-08-01T09:30:00-05:00">Fri 01 August 2014</time></span> <a href="http://www.mempy.org/memtech-super-user-group.html">#memtech Super User Group</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2014-11-17T06:30:00-06:00">Mon 17 November 2014</time></span> <a href="http://www.mempy.org/november-17-2014.html">November 17, 2014</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2013-11-15T13:25:00-06:00">Fri 15 November 2013</time></span> <a href="http://www.mempy.org/november-18-2013.html">November 18, 2013</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2011-11-21T00:00:00-06:00">Mon 21 November 2011</time></span> <a href="http://www.mempy.org/november-21-2011.html">November 21, 2011</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2012-10-24T23:20:00-05:00">Wed 24 October 2012</time></span> <a href="http://www.mempy.org/november-5-2012.html">November 5, 2012</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2012-10-09T21:55:00-05:00">Tue 09 October 2012</time></span> <a href="http://www.mempy.org/october-15-2012.html">October 15, 2012</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2014-10-20T07:00:00-05:00">Mon 20 October 2014</time></span> <a href="http://www.mempy.org/october-20-2014.html">October 20, 2014</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2013-10-21T10:00:00-05:00">Mon 21 October 2013</time></span> <a href="http://www.mempy.org/october-21-2013.html">October 21, 2013</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2014-09-08T07:00:00-05:00">Mon 08 September 2014</time></span> <a href="http://www.mempy.org/september-15-2014.html">September 15, 2014</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2013-09-16T18:30:00-05:00">Mon 16 September 2013</time></span> <a href="http://www.mempy.org/september-16-2013.html">September 16, 2013</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2012-09-17T09:00:00-05:00">Mon 17 September 2012</time></span> <a href="http://www.mempy.org/september-17-2012.html">September 17, 2012</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse-memphis">memphis <span class="badge pull-right">1</span></a>
+                    </h4>
+                </div>
+                <div id="collapse-memphis" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <p><span class="categories-timestamp"><time datetime="2014-09-27T15:45:00-05:00">Sat 27 September 2014</time></span> <a href="http://www.mempy.org/techcamp-memphis-2014-cfp.html">TechCamp Memphis, 2014 CFP</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse-nashville">nashville <span class="badge pull-right">2</span></a>
+                    </h4>
+                </div>
+                <div id="collapse-nashville" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <p><span class="categories-timestamp"><time datetime="2013-04-03T10:40:00-05:00">Wed 03 April 2013</time></span> <a href="http://www.mempy.org/hack-nashville.html">Hack Nashville</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2013-03-25T21:45:00-05:00">Mon 25 March 2013</time></span> <a href="http://www.mempy.org/nashville-code-cooperative-talk-day.html">Nashville Code Cooperative Talk Day</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse-pyohio">pyohio <span class="badge pull-right">1</span></a>
+                    </h4>
+                </div>
+                <div id="collapse-pyohio" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <p><span class="categories-timestamp"><time datetime="2015-05-05T21:00:00-05:00">Tue 05 May 2015</time></span> <a href="http://www.mempy.org/pyohio-2015.html">PyOhio 2015</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse-pytennessee">pytennessee <span class="badge pull-right">1</span></a>
+                    </h4>
+                </div>
+                <div id="collapse-pytennessee" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <p><span class="categories-timestamp"><time datetime="2013-09-24T21:40:00-05:00">Tue 24 September 2013</time></span> <a href="http://www.mempy.org/pytennessee-2014.html">PyTennessee 2014</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse-python">python <span class="badge pull-right">2</span></a>
+                    </h4>
+                </div>
+                <div id="collapse-python" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <p><span class="categories-timestamp"><time datetime="2015-05-05T21:00:00-05:00">Tue 05 May 2015</time></span> <a href="http://www.mempy.org/pyohio-2015.html">PyOhio 2015</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2013-09-24T21:40:00-05:00">Tue 24 September 2013</time></span> <a href="http://www.mempy.org/pytennessee-2014.html">PyTennessee 2014</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse-talks">talks <span class="badge pull-right">1</span></a>
+                    </h4>
+                </div>
+                <div id="collapse-talks" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <p><span class="categories-timestamp"><time datetime="2013-03-25T21:45:00-05:00">Mon 25 March 2013</time></span> <a href="http://www.mempy.org/nashville-code-cooperative-talk-day.html">Nashville Code Cooperative Talk Day</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse-technology">technology <span class="badge pull-right">1</span></a>
+                    </h4>
+                </div>
+                <div id="collapse-technology" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <p><span class="categories-timestamp"><time datetime="2014-09-27T15:45:00-05:00">Sat 27 September 2014</time></span> <a href="http://www.mempy.org/techcamp-memphis-2014-cfp.html">TechCamp Memphis, 2014 CFP</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse-tennessee">tennessee <span class="badge pull-right">2</span></a>
+                    </h4>
+                </div>
+                <div id="collapse-tennessee" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <p><span class="categories-timestamp"><time datetime="2013-09-24T21:40:00-05:00">Tue 24 September 2013</time></span> <a href="http://www.mempy.org/pytennessee-2014.html">PyTennessee 2014</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2014-09-27T15:45:00-05:00">Sat 27 September 2014</time></span> <a href="http://www.mempy.org/techcamp-memphis-2014-cfp.html">TechCamp Memphis, 2014 CFP</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+        </div>
+        <div class="col-sm-3" id="sidebar">
+            <aside>
+
+<section class="well well-sm">
+    <ul class="list-group list-group-flush">
+            <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Social</span></h4>
+              <ul class="list-group" id="social">
+                <li class="list-group-item"><a href="http://www.meetup.com/memphis-technology-user-groups/"><i class="fa fa-meetup.com-square fa-lg"></i> Meetup.com</a></li>
+                <li class="list-group-item"><a href="http://twitter.com/MemphisPython"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a></li>
+                <li class="list-group-item"><a href="http://facebook.com/MemphisPython"><i class="fa fa-facebook-square fa-lg"></i> Facebook</a></li>
+                <li class="list-group-item"><a href="https://plus.google.com/+MempyOrg/"><i class="fa fa-google-plus-square fa-lg"></i> Google+</a></li>
+                <li class="list-group-item"><a href="http://bit.ly/mempy-google-group"><i class="fa fa-mailing-list-square fa-lg"></i> Mailing List</a></li>
+                <li class="list-group-item"><a href="mailto:brad@mempy.org"><i class="fa fa-email-us-square fa-lg"></i> Email Us</a></li>
+              </ul>
+            </li>
+
+
+
+            <li class="list-group-item"><a href="http://www.mempy.org/"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
+                <ul class="list-group " id="tags">
+                    <li class="list-group-item tag-1">
+                        <a href="http://www.mempy.org/tag/meetings.html">
+                            meetings
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://www.mempy.org/tag/code.html">
+                            code
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://www.mempy.org/tag/nashville.html">
+                            nashville
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://www.mempy.org/tag/python.html">
+                            python
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://www.mempy.org/tag/tennessee.html">
+                            tennessee
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://www.mempy.org/tag/conference.html">
+                            conference
+                        </a>
+                    </li>
+                </ul>
+            </li>
+    <li class="list-group-item"><h4><i class="fa fa-external-link-square fa-lg"></i><span class="icon-label">Links</span></h4>
+      <ul class="list-group" id="links">
+        <li class="list-group-item">
+            <a href="https://www.pytennessee.org/" target="_blank">
+                PyTN
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="http://memphistechnology.org" target="_blank">
+                MTF
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="http://hackmemphis.com/" target="_blank">
+                HACKmemphis
+            </a>
+        </li>
+      </ul>
+    </li>
     </ul>
 </section>
+            </aside>
+        </div>
+    </div>
+</div>
+<footer>
+   <div class="container">
+      <hr>
+      <div class="row">
+         <div class="col-xs-10">&copy; 2015 Brad Montgomery
+            &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+   </div>
+</footer>
+<script src="http://www.mempy.org/theme/js/jquery.min.js"></script>
 
-        <section id="extras" class="body">
-                <div class="social">
-                        <h2>social</h2>
-                        <ul>
-                            <li><a href="http://www.mempy.org/feeds/all.atom.xml" type="application/atom+xml" rel="alternate">atom feed</a></li>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="http://www.mempy.org/theme/js/bootstrap.min.js"></script>
 
-                            <li><a href="mailto:brad@mempy.org">Email</a></li>
-                            <li><a href="http://bit.ly/mempy-google-group">Mailing List</a></li>
-                            <li><a href="https://plus.google.com/+MempyOrg/">Google+</a></li>
-                            <li><a href="http://twitter.com/MemphisPython">Twitter</a></li>
-                            <li><a href="http://facebook.com/MemphisPython">Facebook</a></li>
-                        </ul>
-                </div><!-- /.social -->
-        </section><!-- /#extras -->
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="http://www.mempy.org/theme/js/respond.min.js"></script>
 
-        <footer id="contentinfo" class="body">
-                <address id="about" class="vcard body">
-                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
-                </address><!-- /#about -->
-
-                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
-        </footer><!-- /#contentinfo -->
-
+    <!-- Google Analytics -->
     <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-46826960-1']);
-    _gaq.push(['_trackPageview']);
-    (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-46826960-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
     </script>
+    <!-- End Google Analytics Code -->
+
 </body>
 </html>

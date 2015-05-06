@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MEMpy</title><link>http://www.mempy.org/</link><description></description><atom:link href="http://www.mempy.org/feeds/announcements.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 27 Sep 2014 15:45:00 -0500</lastBuildDate><item><title>TechCamp Memphis, 2014 CFP</title><link>http://www.mempy.org/techcamp-memphis-2014-cfp.html</link><description>&lt;p&gt;The TECHcamp Memphis &lt;a class="reference external" href="http://cfp.techcampmemphis.com/"&gt;Call for Presenters&lt;/a&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MEMpy</title><link>http://www.mempy.org/</link><description></description><atom:link href="http://www.mempy.org/feeds/announcements.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 05 May 2015 21:00:00 -0500</lastBuildDate><item><title>PyOhio 2015</title><link>http://www.mempy.org/pyohio-2015.html</link><description>&lt;p&gt;&lt;a class="reference external" href="http://www.pyohio.org/"&gt;PyOhio 2015&lt;/a&gt; has recently been announced, and
+registration is now open! In their own words, PyOhio is:&lt;/p&gt;
+&lt;blockquote&gt;
+A free annual conference for Python programmers in and around Ohio,
+the entire Midwest, maybe even the whole world.&lt;/blockquote&gt;
+&lt;p&gt;Having attended for the past few years, I highly recommend this conference.
+You'll see high-quality talks, and meet great pythonistas from around
+the world (really!).&lt;/p&gt;
+&lt;p&gt;To keep up with what's happening with the conference, be sure to follow
+them on twitter at &lt;a class="reference external" href="https://twitter.com/pyohio"&gt;&amp;#64;pyohio&lt;/a&gt;.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Tue, 05 May 2015 21:00:00 -0500</pubDate><guid>tag:www.mempy.org,2015-05-05:pyohio-2015.html</guid><category>python</category><category>conference</category><category>pyohio</category></item><item><title>TechCamp Memphis, 2014 CFP</title><link>http://www.mempy.org/techcamp-memphis-2014-cfp.html</link><description>&lt;p&gt;The TECHcamp Memphis &lt;a class="reference external" href="http://cfp.techcampmemphis.com/"&gt;Call for Presenters&lt;/a&gt;
 is now open and accepting submission through October 15!&lt;/p&gt;
 &lt;p&gt;TECHcamp is the annual Memphis technology, social media, and online marketing
 conference for designers, entrepreneurs, content creators and software developers.
