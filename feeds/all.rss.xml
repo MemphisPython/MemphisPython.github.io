@@ -18,9 +18,13 @@
 &lt;/div&gt;
 &lt;div class="section" id="agenda"&gt;
 &lt;h2&gt;Agenda&lt;/h2&gt;
-&lt;p&gt;TBD: We plan to have a number of short, 10-15 minute talks this month. If you'd
+&lt;p&gt;We plan to have a number of short, 10-15 minute talks this month. If you'd
 like to give a talk, join our &lt;a class="reference external" href="http://bit.ly/mempy-google-group"&gt;google group&lt;/a&gt;
 and post your talk idea.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Joey Brown: &lt;a class="reference external" href="http://docs.hylang.org/"&gt;hylang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Daniel Bozeman: synchronous and asynchronous http servers/clients in python and ruby&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/div&gt;
 &lt;div class="section" id="rsvp"&gt;
 &lt;h2&gt;RSVP&lt;/h2&gt;
