@@ -8,18 +8,27 @@
 &lt;/div&gt;
 &lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
-&lt;p&gt;TBD! Stay tuned...&lt;/p&gt;
+&lt;p&gt;This month's meeting is graciously hosted by &lt;a class="reference external" href="http://coworkmemphis.com/"&gt;Cowork Memphis&lt;/a&gt;.&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Cowork Memphis&lt;/div&gt;
+&lt;div class="line"&gt;902 S. Cooper Street&lt;/div&gt;
+&lt;div class="line"&gt;Memphis, TN 38104&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Here's a link to a &lt;a class="reference external" href="http://goo.gl/1D8dbU"&gt;Google Map&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="agenda"&gt;
 &lt;h2&gt;Agenda&lt;/h2&gt;
-&lt;p&gt;This month, we're planning on two talks:&lt;/p&gt;
 &lt;ol class="arabic simple"&gt;
-&lt;li&gt;a short, intro-level python talk (~30minutes)&lt;/li&gt;
-&lt;li&gt;A longer, more advanced talk (~60minutes)&lt;/li&gt;
+&lt;li&gt;James Sheppard on &lt;a class="reference external" href="http://rosalind.info/about/"&gt;Rosalind&lt;/a&gt; and Biopython.
+Rosalind is an &amp;quot;online judge&amp;quot; that manages challenges starting from Python
+For-Loops up through complex bioinformatics problems.  Biopython is the main
+Python bioinformatics library; and it becomes ever more useful as the
+Rosalind challenges get harder.  This would be great for both people who
+are learning core concepts for the first time and those who simply enjoy
+code puzzles.&lt;/li&gt;
+&lt;li&gt;TBD (~30-60minutes)&lt;/li&gt;
+&lt;li&gt;TBD (~30-60minutes)&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;We don't have any speakers lined up yet, so if you'd like to give one of these,
-please join our &lt;a class="reference external" href="http://bit.ly/mempy-google-group"&gt;google group&lt;/a&gt;
-and post your talk idea.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="rsvp"&gt;
 &lt;h2&gt;RSVP&lt;/h2&gt;
