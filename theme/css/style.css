@@ -102,8 +102,7 @@ a, a:hover {
     max-width: 100%;
     height: auto;
 }
-.summary h2 {font-weight: 100;}
-.section h2 {font-weight: 100;}
+.summary h2, .section h2 {font-weight: 100;}
 
 .floatright, .align-right {
     float: right;
