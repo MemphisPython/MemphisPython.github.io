@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MEMpy</title><link>http://www.mempy.org/</link><description></description><atom:link href="http://www.mempy.org/feeds/announcements.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 05 May 2015 21:00:00 -0500</lastBuildDate><item><title>PyOhio 2015</title><link>http://www.mempy.org/pyohio-2015.html</link><description>&lt;p&gt;&lt;a class="reference external" href="http://www.pyohio.org/"&gt;PyOhio 2015&lt;/a&gt; has recently been announced, and
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MEMpy</title><link>http://dev.mempy.org/</link><description></description><atom:link href="http://dev.mempy.org/feeds/announcements.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 05 May 2015 21:00:00 -0500</lastBuildDate><item><title>PyOhio 2015</title><link>http://dev.mempy.org/pyohio-2015.html</link><description>&lt;p&gt;&lt;a class="reference external" href="http://www.pyohio.org/"&gt;PyOhio 2015&lt;/a&gt; has recently been announced, and
 registration is now open! In their own words, PyOhio is:&lt;/p&gt;
 &lt;blockquote&gt;
 A free annual conference for Python programmers in and around Ohio,
@@ -9,7 +9,7 @@ You'll see high-quality talks, and meet great pythonistas from around
 the world (really!).&lt;/p&gt;
 &lt;p&gt;To keep up with what's happening with the conference, be sure to follow
 them on twitter at &lt;a class="reference external" href="https://twitter.com/pyohio"&gt;&amp;#64;pyohio&lt;/a&gt;.&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Tue, 05 May 2015 21:00:00 -0500</pubDate><guid>tag:www.mempy.org,2015-05-05:pyohio-2015.html</guid><category>python</category><category>conference</category><category>pyohio</category></item><item><title>TechCamp Memphis, 2014 CFP</title><link>http://www.mempy.org/techcamp-memphis-2014-cfp.html</link><description>&lt;p&gt;The TECHcamp Memphis &lt;a class="reference external" href="http://cfp.techcampmemphis.com/"&gt;Call for Presenters&lt;/a&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Tue, 05 May 2015 21:00:00 -0500</pubDate><guid>tag:dev.mempy.org,2015-05-05:pyohio-2015.html</guid><category>python</category><category>conference</category><category>pyohio</category></item><item><title>TechCamp Memphis, 2014 CFP</title><link>http://dev.mempy.org/techcamp-memphis-2014-cfp.html</link><description>&lt;p&gt;The TECHcamp Memphis &lt;a class="reference external" href="http://cfp.techcampmemphis.com/"&gt;Call for Presenters&lt;/a&gt;
 is now open and accepting submission through October 15!&lt;/p&gt;
 &lt;p&gt;TECHcamp is the annual Memphis technology, social media, and online marketing
 conference for designers, entrepreneurs, content creators and software developers.
@@ -21,7 +21,7 @@ veterans in the area.&lt;/p&gt;
 head over to &lt;a class="reference external" href="http://cfp.techcampmemphis.com/"&gt;cfp.techcampmemphis.com&lt;/a&gt; to
 submit your talk!&lt;/p&gt;
 &lt;p&gt;See you there.&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Sat, 27 Sep 2014 15:45:00 -0500</pubDate><guid>tag:www.mempy.org,2014-09-27:techcamp-memphis-2014-cfp.html</guid><category>community</category><category>technology</category><category>memphis</category><category>tennessee</category><category>conference</category></item><item><title>PyTennessee 2014</title><link>http://www.mempy.org/pytennessee-2014.html</link><description>&lt;p&gt;Tennessee will soon have its own regional Python Conference, and it's happening
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Sat, 27 Sep 2014 15:45:00 -0500</pubDate><guid>tag:dev.mempy.org,2014-09-27:techcamp-memphis-2014-cfp.html</guid><category>community</category><category>technology</category><category>memphis</category><category>tennessee</category><category>conference</category></item><item><title>PyTennessee 2014</title><link>http://dev.mempy.org/pytennessee-2014.html</link><description>&lt;p&gt;Tennessee will soon have its own regional Python Conference, and it's happening
 in Nashville on February 22, 2014!&lt;/p&gt;
 &lt;p&gt;There will be keynotes, talks, lightning talks, tutorials, open spaces, young
 coder sessions and more! As with all regional python conferences, this will
@@ -33,10 +33,10 @@ scientific, systems management, and general development topics.&lt;/p&gt;
 Then, for periodic updates, be sure to follow along on Twitter:
 &lt;a class="reference external" href="https://twitter.com/pytennessee"&gt;&amp;#64;pytennessee&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;See you There!&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Tue, 24 Sep 2013 21:40:00 -0500</pubDate><guid>tag:www.mempy.org,2013-09-24:pytennessee-2014.html</guid><category>python</category><category>tennessee</category><category>conference</category><category>pytennessee</category></item><item><title>Hack Nashville</title><link>http://www.mempy.org/hack-nashville.html</link><description>&lt;p&gt;How about a 48-hour hackathon? With a prize! It's happening in Nashville during
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Tue, 24 Sep 2013 21:40:00 -0500</pubDate><guid>tag:dev.mempy.org,2013-09-24:pytennessee-2014.html</guid><category>python</category><category>tennessee</category><category>conference</category><category>pytennessee</category></item><item><title>Hack Nashville</title><link>http://dev.mempy.org/hack-nashville.html</link><description>&lt;p&gt;How about a 48-hour hackathon? With a prize! It's happening in Nashville during
 the (annual?) &lt;a class="reference external" href="http://hacknashville.com/"&gt;Hack Nashville&lt;/a&gt; event May 3 - 5.&lt;/p&gt;
 &lt;p&gt;You can get free tickets here: &lt;a class="reference external" href="http://hacknashville.eventbrite.com/"&gt;http://hacknashville.eventbrite.com/&lt;/a&gt;&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Wed, 03 Apr 2013 10:40:00 -0500</pubDate><guid>tag:www.mempy.org,2013-04-03:hack-nashville.html</guid><category>nashville</category><category>code</category><category>hackathon</category></item><item><title>Nashville Code Cooperative Talk Day</title><link>http://www.mempy.org/nashville-code-cooperative-talk-day.html</link><description>&lt;p&gt;Just in case you haven't heard, our friends at the
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Wed, 03 Apr 2013 10:40:00 -0500</pubDate><guid>tag:dev.mempy.org,2013-04-03:hack-nashville.html</guid><category>nashville</category><category>code</category><category>hackathon</category></item><item><title>Nashville Code Cooperative Talk Day</title><link>http://dev.mempy.org/nashville-code-cooperative-talk-day.html</link><description>&lt;p&gt;Just in case you haven't heard, our friends at the
 &lt;a class="reference external" href="http://co-op.nashvl.org/"&gt;Nashville Code Cooperative&lt;/a&gt; are having a Talk Day
 on &lt;em&gt;March 30&lt;/em&gt;. The day includes:&lt;/p&gt;
 &lt;ul class="simple"&gt;
@@ -47,4 +47,4 @@ on &lt;em&gt;March 30&lt;/em&gt;. The day includes:&lt;/p&gt;
 &lt;p&gt;It looks like they're full, but you can still get on th waiting list. This
 event will definitely be worth your time, so look for it to happen again in
 the future.&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Mon, 25 Mar 2013 21:45:00 -0500</pubDate><guid>tag:www.mempy.org,2013-03-25:nashville-code-cooperative-talk-day.html</guid><category>nashville</category><category>code</category><category>talks</category></item></channel></rss>
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Mon, 25 Mar 2013 21:45:00 -0500</pubDate><guid>tag:dev.mempy.org,2013-03-25:nashville-code-cooperative-talk-day.html</guid><category>nashville</category><category>code</category><category>talks</category></item></channel></rss>

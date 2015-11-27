@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MEMpy</title><link>http://www.mempy.org/</link><description></description><atom:link href="http://www.mempy.org/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 04 Nov 2015 14:30:00 -0600</lastBuildDate><item><title>November 16, 2015</title><link>http://www.mempy.org/november-16-2015.html</link><description>&lt;div class="section" id="time-date"&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MEMpy</title><link>http://dev.mempy.org/</link><description></description><atom:link href="http://dev.mempy.org/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 04 Nov 2015 14:30:00 -0600</lastBuildDate><item><title>November 16, 2015</title><link>http://dev.mempy.org/november-16-2015.html</link><description>&lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
@@ -19,7 +19,7 @@
 &lt;div class="section" id="agenda"&gt;
 &lt;h2&gt;Agenda&lt;/h2&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="https://twitter.com/binarydolphin"&gt;Craig Kelly&lt;/a&gt; talks about Distributing your code, ReadTheDocs, and TravisCI; &lt;a class="reference external" href="https://github.com/memphis-iis/GLUDB/tree/master/docs/presentation-mempy-Nov2015"&gt;slides on github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://twitter.com/binarydolphin"&gt;Craig Kelly&lt;/a&gt; talks about Distributing your code, ReadTheDocs, and TravisCI&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div class="section" id="rsvp"&gt;
@@ -32,7 +32,7 @@
 &lt;li&gt;Send an email to &lt;a class="reference external" href="mailto:brad&amp;#64;mempy.org"&gt;brad&amp;#64;mempy.org&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Wed, 04 Nov 2015 14:30:00 -0600</pubDate><guid>tag:www.mempy.org,2015-11-04:november-16-2015.html</guid><category>meetings</category></item><item><title>October 19, 2015</title><link>http://www.mempy.org/october-19-2015.html</link><description>&lt;div class="section" id="time-date"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Wed, 04 Nov 2015 14:30:00 -0600</pubDate><guid>tag:dev.mempy.org,2015-11-04:november-16-2015.html</guid><category>meetings</category></item><item><title>October 19, 2015</title><link>http://dev.mempy.org/october-19-2015.html</link><description>&lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
@@ -67,7 +67,7 @@ it and stick around to talk afterwards.&lt;/p&gt;
 &lt;li&gt;Send an email to &lt;a class="reference external" href="mailto:brad&amp;#64;mempy.org"&gt;brad&amp;#64;mempy.org&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Sat, 03 Oct 2015 16:30:00 -0500</pubDate><guid>tag:www.mempy.org,2015-10-03:october-19-2015.html</guid><category>meetings</category></item><item><title>Septempter 21, 2015</title><link>http://www.mempy.org/septempter-21-2015.html</link><description>&lt;div class="section" id="time-date"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Sat, 03 Oct 2015 16:30:00 -0500</pubDate><guid>tag:dev.mempy.org,2015-10-03:october-19-2015.html</guid><category>meetings</category></item><item><title>Septempter 21, 2015</title><link>http://dev.mempy.org/septempter-21-2015.html</link><description>&lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
@@ -100,7 +100,7 @@ slides and resources at &lt;a class="reference external" href="https://github.co
 &lt;li&gt;Send an email to &lt;a class="reference external" href="mailto:brad&amp;#64;mempy.org"&gt;brad&amp;#64;mempy.org&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Fri, 18 Sep 2015 06:30:00 -0500</pubDate><guid>tag:www.mempy.org,2015-09-18:septempter-21-2015.html</guid><category>meetings</category></item><item><title>August 17, 2015</title><link>http://www.mempy.org/august-17-2015.html</link><description>&lt;div class="section" id="time-date"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Fri, 18 Sep 2015 06:30:00 -0500</pubDate><guid>tag:dev.mempy.org,2015-09-18:septempter-21-2015.html</guid><category>meetings</category></item><item><title>August 17, 2015</title><link>http://dev.mempy.org/august-17-2015.html</link><description>&lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
@@ -137,7 +137,7 @@ Pandas and IPython.&lt;/li&gt;
 &lt;li&gt;Send an email to &lt;a class="reference external" href="mailto:brad&amp;#64;mempy.org"&gt;brad&amp;#64;mempy.org&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Thu, 13 Aug 2015 07:00:00 -0500</pubDate><guid>tag:www.mempy.org,2015-08-13:august-17-2015.html</guid><category>meetings</category></item><item><title>July 20, 2015</title><link>http://www.mempy.org/july-20-2015.html</link><description>&lt;div class="section" id="time-date"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Thu, 13 Aug 2015 07:00:00 -0500</pubDate><guid>tag:dev.mempy.org,2015-08-13:august-17-2015.html</guid><category>meetings</category></item><item><title>July 20, 2015</title><link>http://dev.mempy.org/july-20-2015.html</link><description>&lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
@@ -178,7 +178,7 @@ code puzzles.&lt;/li&gt;
 &lt;li&gt;Send an email to &lt;a class="reference external" href="mailto:brad&amp;#64;mempy.org"&gt;brad&amp;#64;mempy.org&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Sat, 11 Jul 2015 12:45:00 -0500</pubDate><guid>tag:www.mempy.org,2015-07-11:july-20-2015.html</guid><category>meetings</category></item><item><title>June 15, 2015</title><link>http://www.mempy.org/june-15-2015.html</link><description>&lt;div class="section" id="time-date"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Sat, 11 Jul 2015 12:45:00 -0500</pubDate><guid>tag:dev.mempy.org,2015-07-11:july-20-2015.html</guid><category>meetings</category></item><item><title>June 15, 2015</title><link>http://dev.mempy.org/june-15-2015.html</link><description>&lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
@@ -216,7 +216,7 @@ and post your talk idea.&lt;/p&gt;
 &lt;li&gt;Send an email to &lt;a class="reference external" href="mailto:brad&amp;#64;mempy.org"&gt;brad&amp;#64;mempy.org&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Tue, 09 Jun 2015 10:40:00 -0500</pubDate><guid>tag:www.mempy.org,2015-06-09:june-15-2015.html</guid><category>meetings</category></item><item><title>May 18, 2015</title><link>http://www.mempy.org/may-18-2015.html</link><description>&lt;p&gt;Welcome to MEMpy in May. This month we'll have a number of short, 10-15 minute
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Tue, 09 Jun 2015 10:40:00 -0500</pubDate><guid>tag:dev.mempy.org,2015-06-09:june-15-2015.html</guid><category>meetings</category></item><item><title>May 18, 2015</title><link>http://dev.mempy.org/may-18-2015.html</link><description>&lt;p&gt;Welcome to MEMpy in May. This month we'll have a number of short, 10-15 minute
 talks on various topics. There's still room for a few additional presentations,
 so respond to &lt;a class="reference external" href="https://groups.google.com/forum/?fromgroups#!topic/mempy/-Ea-IvmkF2w"&gt;this thread on our mailing list&lt;/a&gt; if you'd like to present.&lt;/p&gt;
 &lt;div class="section" id="time-date"&gt;
@@ -254,7 +254,7 @@ so respond to &lt;a class="reference external" href="https://groups.google.com/f
 &lt;li&gt;&lt;a class="reference external" href="https://speakerdeck.com/tamarisk51/python-list-comprehension"&gt;List Comprehensions&lt;/a&gt;  by James Sheppard&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Sat, 09 May 2015 12:30:00 -0500</pubDate><guid>tag:www.mempy.org,2015-05-09:may-18-2015.html</guid><category>meetings</category></item><item><title>PyOhio 2015</title><link>http://www.mempy.org/pyohio-2015.html</link><description>&lt;p&gt;&lt;a class="reference external" href="http://www.pyohio.org/"&gt;PyOhio 2015&lt;/a&gt; has recently been announced, and
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Sat, 09 May 2015 12:30:00 -0500</pubDate><guid>tag:dev.mempy.org,2015-05-09:may-18-2015.html</guid><category>meetings</category></item><item><title>PyOhio 2015</title><link>http://dev.mempy.org/pyohio-2015.html</link><description>&lt;p&gt;&lt;a class="reference external" href="http://www.pyohio.org/"&gt;PyOhio 2015&lt;/a&gt; has recently been announced, and
 registration is now open! In their own words, PyOhio is:&lt;/p&gt;
 &lt;blockquote&gt;
 A free annual conference for Python programmers in and around Ohio,
@@ -264,7 +264,7 @@ You'll see high-quality talks, and meet great pythonistas from around
 the world (really!).&lt;/p&gt;
 &lt;p&gt;To keep up with what's happening with the conference, be sure to follow
 them on twitter at &lt;a class="reference external" href="https://twitter.com/pyohio"&gt;&amp;#64;pyohio&lt;/a&gt;.&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Tue, 05 May 2015 21:00:00 -0500</pubDate><guid>tag:www.mempy.org,2015-05-05:pyohio-2015.html</guid><category>python</category><category>conference</category><category>pyohio</category></item><item><title>April 20, 2015</title><link>http://www.mempy.org/april-20-2015.html</link><description>&lt;div class="section" id="time-date"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Tue, 05 May 2015 21:00:00 -0500</pubDate><guid>tag:dev.mempy.org,2015-05-05:pyohio-2015.html</guid><category>python</category><category>conference</category><category>pyohio</category></item><item><title>April 20, 2015</title><link>http://dev.mempy.org/april-20-2015.html</link><description>&lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
@@ -301,7 +301,7 @@ in python. (&lt;a class="reference external" href="https://github.com/sumsted/me
 &lt;li&gt;Send an email to &lt;a class="reference external" href="mailto:brad&amp;#64;mempy.org"&gt;brad&amp;#64;mempy.org&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Thu, 16 Apr 2015 10:00:00 -0500</pubDate><guid>tag:www.mempy.org,2015-04-16:april-20-2015.html</guid><category>meetings</category></item><item><title>March 16, 2015</title><link>http://www.mempy.org/march-16-2015.html</link><description>&lt;p&gt;&lt;em&gt;Bring a laptop, Bring your code&lt;/em&gt;! This month, we'll pick up where we left off
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Thu, 16 Apr 2015 10:00:00 -0500</pubDate><guid>tag:dev.mempy.org,2015-04-16:april-20-2015.html</guid><category>meetings</category></item><item><title>March 16, 2015</title><link>http://dev.mempy.org/march-16-2015.html</link><description>&lt;p&gt;&lt;em&gt;Bring a laptop, Bring your code&lt;/em&gt;! This month, we'll pick up where we left off
 with last month's tutorial. If you just getting started, bring your code and
 share your progress.&lt;/p&gt;
 &lt;p&gt;We'll answer any questions and provide some ad-hoc code review.&lt;/p&gt;
@@ -332,7 +332,7 @@ share your progress.&lt;/p&gt;
 &lt;li&gt;Send an email to &lt;a class="reference external" href="mailto:brad&amp;#64;mempy.org"&gt;brad&amp;#64;mempy.org&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Mon, 16 Mar 2015 08:00:00 -0500</pubDate><guid>tag:www.mempy.org,2015-03-16:march-16-2015.html</guid><category>meetings</category></item><item><title>February 16, 2015</title><link>http://www.mempy.org/february-16-2015.html</link><description>&lt;p&gt;&lt;strong&gt;Update for Feb 23&lt;/strong&gt;:  We're still on for tonight! Mosaik has given us a
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Mon, 16 Mar 2015 08:00:00 -0500</pubDate><guid>tag:dev.mempy.org,2015-03-16:march-16-2015.html</guid><category>meetings</category></item><item><title>February 16, 2015</title><link>http://dev.mempy.org/february-16-2015.html</link><description>&lt;p&gt;&lt;strong&gt;Update for Feb 23&lt;/strong&gt;:  We're still on for tonight! Mosaik has given us a
 doorcode, so to get in the building use:&lt;/p&gt;
 &lt;pre class="literal-block"&gt;
 8737#
@@ -383,7 +383,7 @@ but you'd like to learn, this would be a great meeting to attend!&lt;/p&gt;
 &lt;li&gt;Mini Workshop: &lt;a class="reference external" href="https://gist.github.com/douglasstarnes/87dffc4212f3167bcb18"&gt;Build a command-line ToDo app&lt;/a&gt;, by &lt;a class="reference external" href="https://twitter.com/poweredbyaltnet"&gt;Douglas Starnes&lt;/a&gt;: A hands-on workshop that guides you in building a simple python application. Bring a laptop, and we'll help with the rest.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Tue, 10 Feb 2015 08:05:00 -0600</pubDate><guid>tag:www.mempy.org,2015-02-10:february-16-2015.html</guid><category>meetings</category></item><item><title>January 19, 2015</title><link>http://www.mempy.org/january-19-2015.html</link><description>&lt;p&gt;&lt;strong&gt;Happy New Year!&lt;/strong&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Tue, 10 Feb 2015 08:05:00 -0600</pubDate><guid>tag:dev.mempy.org,2015-02-10:february-16-2015.html</guid><category>meetings</category></item><item><title>January 19, 2015</title><link>http://dev.mempy.org/january-19-2015.html</link><description>&lt;p&gt;&lt;strong&gt;Happy New Year!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;It's a new year, and we're kicking it off with something different. This will
 be our first &lt;em&gt;hack night&lt;/em&gt; meeting.&lt;/p&gt;
 &lt;ul class="simple"&gt;
@@ -419,7 +419,7 @@ find a mentor!&lt;/li&gt;
 &lt;li&gt;Send an email to &lt;a class="reference external" href="mailto:brad&amp;#64;mempy.org"&gt;brad&amp;#64;mempy.org&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Tue, 13 Jan 2015 22:45:00 -0600</pubDate><guid>tag:www.mempy.org,2015-01-13:january-19-2015.html</guid><category>meetings</category></item><item><title>December 15, 2014</title><link>http://www.mempy.org/december-15-2014.html</link><description>&lt;p&gt;Join us for the December Memphis Python User Group!&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Tue, 13 Jan 2015 22:45:00 -0600</pubDate><guid>tag:dev.mempy.org,2015-01-13:january-19-2015.html</guid><category>meetings</category></item><item><title>December 15, 2014</title><link>http://dev.mempy.org/december-15-2014.html</link><description>&lt;p&gt;Join us for the December Memphis Python User Group!&lt;/p&gt;
 &lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
@@ -451,7 +451,7 @@ find a mentor!&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="https://speakerdeck.com/bkmontgomery/python-decorators"&gt;Python Decorators&lt;/a&gt; by &lt;a class="reference external" href="https://twitter.com/bkmontgomery"&gt;Brad Montgomery&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Sun, 14 Dec 2014 21:10:00 -0600</pubDate><guid>tag:www.mempy.org,2014-12-14:december-15-2014.html</guid><category>meetings</category></item><item><title>November 17, 2014</title><link>http://www.mempy.org/november-17-2014.html</link><description>&lt;p&gt;Join us for the November installation of the Memphis Python User Group!&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Sun, 14 Dec 2014 21:10:00 -0600</pubDate><guid>tag:dev.mempy.org,2014-12-14:december-15-2014.html</guid><category>meetings</category></item><item><title>November 17, 2014</title><link>http://dev.mempy.org/november-17-2014.html</link><description>&lt;p&gt;Join us for the November installation of the Memphis Python User Group!&lt;/p&gt;
 &lt;p&gt;This is our third anniversary!&lt;/p&gt;
 &lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
@@ -484,7 +484,7 @@ find a mentor!&lt;/li&gt;
 &lt;li&gt;TBD&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Douglas Starnes</dc:creator><pubDate>Mon, 17 Nov 2014 06:30:00 -0600</pubDate><guid>tag:www.mempy.org,2014-11-17:november-17-2014.html</guid><category>meetings</category></item><item><title>October 20, 2014</title><link>http://www.mempy.org/october-20-2014.html</link><description>&lt;p&gt;Join us for the October installation of the Memphis Python User Group!&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Douglas Starnes</dc:creator><pubDate>Mon, 17 Nov 2014 06:30:00 -0600</pubDate><guid>tag:dev.mempy.org,2014-11-17:november-17-2014.html</guid><category>meetings</category></item><item><title>October 20, 2014</title><link>http://dev.mempy.org/october-20-2014.html</link><description>&lt;p&gt;Join us for the October installation of the Memphis Python User Group!&lt;/p&gt;
 &lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
@@ -518,7 +518,7 @@ find a mentor!&lt;/li&gt;
 &lt;li&gt;Douglas Starnes: TBD&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Mon, 20 Oct 2014 07:00:00 -0500</pubDate><guid>tag:www.mempy.org,2014-10-20:october-20-2014.html</guid><category>meetings</category></item><item><title>TechCamp Memphis, 2014 CFP</title><link>http://www.mempy.org/techcamp-memphis-2014-cfp.html</link><description>&lt;p&gt;The TECHcamp Memphis &lt;a class="reference external" href="http://cfp.techcampmemphis.com/"&gt;Call for Presenters&lt;/a&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Mon, 20 Oct 2014 07:00:00 -0500</pubDate><guid>tag:dev.mempy.org,2014-10-20:october-20-2014.html</guid><category>meetings</category></item><item><title>TechCamp Memphis, 2014 CFP</title><link>http://dev.mempy.org/techcamp-memphis-2014-cfp.html</link><description>&lt;p&gt;The TECHcamp Memphis &lt;a class="reference external" href="http://cfp.techcampmemphis.com/"&gt;Call for Presenters&lt;/a&gt;
 is now open and accepting submission through October 15!&lt;/p&gt;
 &lt;p&gt;TECHcamp is the annual Memphis technology, social media, and online marketing
 conference for designers, entrepreneurs, content creators and software developers.
@@ -530,7 +530,7 @@ veterans in the area.&lt;/p&gt;
 head over to &lt;a class="reference external" href="http://cfp.techcampmemphis.com/"&gt;cfp.techcampmemphis.com&lt;/a&gt; to
 submit your talk!&lt;/p&gt;
 &lt;p&gt;See you there.&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Sat, 27 Sep 2014 15:45:00 -0500</pubDate><guid>tag:www.mempy.org,2014-09-27:techcamp-memphis-2014-cfp.html</guid><category>community</category><category>technology</category><category>memphis</category><category>tennessee</category><category>conference</category></item><item><title>September 15, 2014</title><link>http://www.mempy.org/september-15-2014.html</link><description>&lt;p&gt;Wow! September already upon us and is jam-packed with lots of amazing tech
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Sat, 27 Sep 2014 15:45:00 -0500</pubDate><guid>tag:dev.mempy.org,2014-09-27:techcamp-memphis-2014-cfp.html</guid><category>community</category><category>technology</category><category>memphis</category><category>tennessee</category><category>conference</category></item><item><title>September 15, 2014</title><link>http://dev.mempy.org/september-15-2014.html</link><description>&lt;p&gt;Wow! September already upon us and is jam-packed with lots of amazing tech
 events happening, locally. This month with see something a little different
 for us, too, and our meeting will be at Rhodes.&lt;/p&gt;
 &lt;div class="section" id="time-date"&gt;
@@ -571,7 +571,7 @@ Just RSVP at one of the following:&lt;/p&gt;
 &lt;h2&gt;Agenda&lt;/h2&gt;
 &lt;p&gt;We'll plan on three or four short (10-15 minute) talks. Please &lt;a class="reference external" href="mailto:brad&amp;#64;mempy.org"&gt;get in touch&lt;/a&gt; if you'd like to present!&lt;/p&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Mon, 08 Sep 2014 07:00:00 -0500</pubDate><guid>tag:www.mempy.org,2014-09-08:september-15-2014.html</guid><category>meetings</category></item><item><title>August 18, 2014</title><link>http://www.mempy.org/august-18-2014.html</link><description>&lt;p&gt;We'll resume our regular meetings in August, with a couple of interesting new
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Mon, 08 Sep 2014 07:00:00 -0500</pubDate><guid>tag:dev.mempy.org,2014-09-08:september-15-2014.html</guid><category>meetings</category></item><item><title>August 18, 2014</title><link>http://dev.mempy.org/august-18-2014.html</link><description>&lt;p&gt;We'll resume our regular meetings in August, with a couple of interesting new
 talks (which will be revealed once we get them confirmed!)&lt;/p&gt;
 &lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
@@ -605,14 +605,14 @@ talks (which will be revealed once we get them confirmed!)&lt;/p&gt;
 &lt;li&gt;Christian Catlin: &lt;a class="reference external" href="http://goo.gl/lUN3bx"&gt;Basic Python Package Management&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Fri, 01 Aug 2014 10:00:00 -0500</pubDate><guid>tag:www.mempy.org,2014-08-01:august-18-2014.html</guid><category>meetings</category></item><item><title>#memtech Super User Group</title><link>http://www.mempy.org/memtech-super-user-group.html</link><description>&lt;p&gt;As many of you already know, the July python meetup was merged into our
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Fri, 01 Aug 2014 10:00:00 -0500</pubDate><guid>tag:dev.mempy.org,2014-08-01:august-18-2014.html</guid><category>meetings</category></item><item><title>#memtech Super User Group</title><link>http://dev.mempy.org/memtech-super-user-group.html</link><description>&lt;p&gt;As many of you already know, the July python meetup was merged into our
 community's annual &lt;em&gt;Super&lt;/em&gt; user group meeting. It happened on July 17 at
 &lt;a class="reference external" href="http://coworkmemphis.com/"&gt;Cowork Memphis&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;You can find a brief writup with a list of speakers over at the
 &lt;a class="reference external" href="http://www.memphistechnology.org/blog/2014/07/11/super-user-group-meetup/"&gt;Memphis Technology Foundation&lt;/a&gt; website.&lt;/p&gt;
 &lt;p&gt;This was an amazing meeting of area technology professionals and enthusiasts,
 and if you missed it, you should certainly make it a point to attend next year!&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Fri, 01 Aug 2014 09:30:00 -0500</pubDate><guid>tag:www.mempy.org,2014-08-01:memtech-super-user-group.html</guid><category>meetings</category></item><item><title>June 16, 2014</title><link>http://www.mempy.org/june-16-2014.html</link><description>&lt;div class="section" id="time-date"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Fri, 01 Aug 2014 09:30:00 -0500</pubDate><guid>tag:dev.mempy.org,2014-08-01:memtech-super-user-group.html</guid><category>meetings</category></item><item><title>June 16, 2014</title><link>http://dev.mempy.org/june-16-2014.html</link><description>&lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
@@ -652,7 +652,7 @@ covering many topics. Here are just a few:&lt;/p&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Mon, 16 Jun 2014 11:00:00 -0500</pubDate><guid>tag:www.mempy.org,2014-06-16:june-16-2014.html</guid><category>meetings</category></item><item><title>May 19, 2014</title><link>http://www.mempy.org/may-19-2014.html</link><description>&lt;div class="section" id="time-date"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Mon, 16 Jun 2014 11:00:00 -0500</pubDate><guid>tag:dev.mempy.org,2014-06-16:june-16-2014.html</guid><category>meetings</category></item><item><title>May 19, 2014</title><link>http://dev.mempy.org/may-19-2014.html</link><description>&lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
@@ -689,7 +689,7 @@ covering many topics. Here are just a few:&lt;/p&gt;
 &lt;li&gt;&lt;a class="reference external" href="https://twitter.com/jskonhovd"&gt;Jeffrey Skonhovd&lt;/a&gt;: Machine Learning in Python using sklearn&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Thu, 15 May 2014 22:30:00 -0500</pubDate><guid>tag:www.mempy.org,2014-05-15:may-19-2014.html</guid><category>meetings</category></item><item><title>April 21, 2014</title><link>http://www.mempy.org/april-21-2014.html</link><description>&lt;div class="section" id="time-date"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Thu, 15 May 2014 22:30:00 -0500</pubDate><guid>tag:dev.mempy.org,2014-05-15:may-19-2014.html</guid><category>meetings</category></item><item><title>April 21, 2014</title><link>http://dev.mempy.org/april-21-2014.html</link><description>&lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
@@ -722,7 +722,7 @@ Just RSVP at one of the following:&lt;/p&gt;
 &lt;li&gt;&lt;a class="reference external" href="https://twitter.com/poweredbyaltnet"&gt;Douglas Starnes&lt;/a&gt;, Python Tools for Visual Studio&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Thu, 17 Apr 2014 21:30:00 -0500</pubDate><guid>tag:www.mempy.org,2014-04-17:april-21-2014.html</guid><category>meetings</category></item><item><title>March 17, 2014</title><link>http://www.mempy.org/march-17-2014.html</link><description>&lt;div class="section" id="time-date"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Thu, 17 Apr 2014 21:30:00 -0500</pubDate><guid>tag:dev.mempy.org,2014-04-17:april-21-2014.html</guid><category>meetings</category></item><item><title>March 17, 2014</title><link>http://dev.mempy.org/march-17-2014.html</link><description>&lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
@@ -757,7 +757,7 @@ Just RSVP at one of the following:&lt;/p&gt;
 &lt;li&gt;TBA&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Thu, 13 Mar 2014 19:00:00 -0500</pubDate><guid>tag:www.mempy.org,2014-03-13:march-17-2014.html</guid><category>meetings</category></item><item><title>February 17, 2014</title><link>http://www.mempy.org/february-17-2014.html</link><description>&lt;div class="section" id="time-date"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Thu, 13 Mar 2014 19:00:00 -0500</pubDate><guid>tag:dev.mempy.org,2014-03-13:march-17-2014.html</guid><category>meetings</category></item><item><title>February 17, 2014</title><link>http://dev.mempy.org/february-17-2014.html</link><description>&lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
@@ -789,7 +789,7 @@ Just RSVP at one of the following:&lt;/p&gt;
 &lt;p&gt;We'll have several short (aka Lighnting talks) during this meeting. Bring one
 and practice for PyTennessee!&lt;/p&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Thu, 13 Feb 2014 11:00:00 -0600</pubDate><guid>tag:www.mempy.org,2014-02-13:february-17-2014.html</guid><category>meetings</category></item><item><title>January 20, 2014</title><link>http://www.mempy.org/january-20-2014.html</link><description>&lt;div class="section" id="time-date"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Thu, 13 Feb 2014 11:00:00 -0600</pubDate><guid>tag:dev.mempy.org,2014-02-13:february-17-2014.html</guid><category>meetings</category></item><item><title>January 20, 2014</title><link>http://dev.mempy.org/january-20-2014.html</link><description>&lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
@@ -822,7 +822,7 @@ Just RSVP at one of the following:&lt;/p&gt;
 &lt;li&gt;&lt;a class="reference external" href="https://twitter.com/edyesed"&gt;Ed Anderson&lt;/a&gt; presents: from Operations import automation&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Sat, 04 Jan 2014 17:30:00 -0600</pubDate><guid>tag:www.mempy.org,2014-01-04:january-20-2014.html</guid><category>meetings</category></item><item><title>December 16, 2013</title><link>http://www.mempy.org/december-16-2013.html</link><description>&lt;div class="section" id="time-date"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Sat, 04 Jan 2014 17:30:00 -0600</pubDate><guid>tag:dev.mempy.org,2014-01-04:january-20-2014.html</guid><category>meetings</category></item><item><title>December 16, 2013</title><link>http://dev.mempy.org/december-16-2013.html</link><description>&lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
@@ -854,7 +854,7 @@ Just RSVP at one of the following:&lt;/p&gt;
 project workflow, current tools, and anything else you want to talk about.&lt;/p&gt;
 &lt;p&gt;Bring a laptop and some code!&lt;/p&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Tue, 10 Dec 2013 22:40:00 -0600</pubDate><guid>tag:www.mempy.org,2013-12-10:december-16-2013.html</guid><category>meetings</category></item><item><title>November 18, 2013</title><link>http://www.mempy.org/november-18-2013.html</link><description>&lt;div class="section" id="time-date"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Tue, 10 Dec 2013 22:40:00 -0600</pubDate><guid>tag:dev.mempy.org,2013-12-10:december-16-2013.html</guid><category>meetings</category></item><item><title>November 18, 2013</title><link>http://dev.mempy.org/november-18-2013.html</link><description>&lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
@@ -884,7 +884,7 @@ project workflow, current tools, and anything else you want to talk about.&lt;/p
 &lt;h2&gt;Presentations&lt;/h2&gt;
 &lt;p&gt;TBD&lt;/p&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Fri, 15 Nov 2013 13:25:00 -0600</pubDate><guid>tag:www.mempy.org,2013-11-15:november-18-2013.html</guid><category>meetings</category></item><item><title>October 21, 2013</title><link>http://www.mempy.org/october-21-2013.html</link><description>&lt;div class="section" id="time-date"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Fri, 15 Nov 2013 13:25:00 -0600</pubDate><guid>tag:dev.mempy.org,2013-11-15:november-18-2013.html</guid><category>meetings</category></item><item><title>October 21, 2013</title><link>http://dev.mempy.org/october-21-2013.html</link><description>&lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
@@ -916,7 +916,7 @@ project workflow, current tools, and anything else you want to talk about.&lt;/p
 &lt;li&gt;&lt;a class="reference external" href="http://www.meetup.com/memphis-technology-user-groups/members/76692972/"&gt;Joey Brown&lt;/a&gt; will be talking about Angular.js&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Mon, 21 Oct 2013 10:00:00 -0500</pubDate><guid>tag:www.mempy.org,2013-10-21:october-21-2013.html</guid><category>meetings</category></item><item><title>PyTennessee 2014</title><link>http://www.mempy.org/pytennessee-2014.html</link><description>&lt;p&gt;Tennessee will soon have its own regional Python Conference, and it's happening
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Mon, 21 Oct 2013 10:00:00 -0500</pubDate><guid>tag:dev.mempy.org,2013-10-21:october-21-2013.html</guid><category>meetings</category></item><item><title>PyTennessee 2014</title><link>http://dev.mempy.org/pytennessee-2014.html</link><description>&lt;p&gt;Tennessee will soon have its own regional Python Conference, and it's happening
 in Nashville on February 22, 2014!&lt;/p&gt;
 &lt;p&gt;There will be keynotes, talks, lightning talks, tutorials, open spaces, young
 coder sessions and more! As with all regional python conferences, this will
@@ -928,7 +928,7 @@ scientific, systems management, and general development topics.&lt;/p&gt;
 Then, for periodic updates, be sure to follow along on Twitter:
 &lt;a class="reference external" href="https://twitter.com/pytennessee"&gt;&amp;#64;pytennessee&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;See you There!&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Tue, 24 Sep 2013 21:40:00 -0500</pubDate><guid>tag:www.mempy.org,2013-09-24:pytennessee-2014.html</guid><category>python</category><category>tennessee</category><category>conference</category><category>pytennessee</category></item><item><title>September 16, 2013</title><link>http://www.mempy.org/september-16-2013.html</link><description>&lt;div class="section" id="time-date"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Tue, 24 Sep 2013 21:40:00 -0500</pubDate><guid>tag:dev.mempy.org,2013-09-24:pytennessee-2014.html</guid><category>python</category><category>tennessee</category><category>conference</category><category>pytennessee</category></item><item><title>September 16, 2013</title><link>http://dev.mempy.org/september-16-2013.html</link><description>&lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
@@ -969,7 +969,7 @@ plan to attend.&lt;/p&gt;
 presenting: &lt;strong&gt;Up and Running with Vagrant + Basic Provisioning&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Mon, 16 Sep 2013 18:30:00 -0500</pubDate><guid>tag:www.mempy.org,2013-09-16:september-16-2013.html</guid><category>meetings</category></item><item><title>August 19, 2013</title><link>http://www.mempy.org/august-19-2013.html</link><description>&lt;div class="section" id="time-date"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Mon, 16 Sep 2013 18:30:00 -0500</pubDate><guid>tag:dev.mempy.org,2013-09-16:september-16-2013.html</guid><category>meetings</category></item><item><title>August 19, 2013</title><link>http://dev.mempy.org/august-19-2013.html</link><description>&lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
@@ -1004,7 +1004,7 @@ parking locations.&lt;/p&gt;
 &lt;li&gt;&lt;a class="reference external" href="https://twitter.com/poweredbyaltnet"&gt;Douglas Starnes&lt;/a&gt; -- Google App Engine&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Mon, 19 Aug 2013 22:00:00 -0500</pubDate><guid>tag:www.mempy.org,2013-08-19:august-19-2013.html</guid><category>meetings</category></item><item><title>July 15, 1513</title><link>http://www.mempy.org/july-15-1513.html</link><description>&lt;div class="section" id="time-date"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Mon, 19 Aug 2013 22:00:00 -0500</pubDate><guid>tag:dev.mempy.org,2013-08-19:august-19-2013.html</guid><category>meetings</category></item><item><title>July 15, 1513</title><link>http://dev.mempy.org/july-15-1513.html</link><description>&lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
@@ -1035,7 +1035,7 @@ parking locations.&lt;/p&gt;
 &lt;p&gt;Bring a laptop and a project and/or a short talk. This meeting will be an open
 night (anyone that wants to present can do so!).&lt;/p&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Wed, 10 Jul 2013 23:30:00 -0500</pubDate><guid>tag:www.mempy.org,2013-07-10:july-15-1513.html</guid><category>meetings</category></item><item><title>June 20, 2013</title><link>http://www.mempy.org/june-20-2013.html</link><description>&lt;div class="section" id="it-s-time-for-a-super-user-group"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Wed, 10 Jul 2013 23:30:00 -0500</pubDate><guid>tag:dev.mempy.org,2013-07-10:july-15-1513.html</guid><category>meetings</category></item><item><title>June 20, 2013</title><link>http://dev.mempy.org/june-20-2013.html</link><description>&lt;div class="section" id="it-s-time-for-a-super-user-group"&gt;
 &lt;h2&gt;It's time for a Super User Group&lt;/h2&gt;
 &lt;p&gt;Please join us as we team up with the &lt;a class="reference external" href="http://www.memphisjug.org/"&gt;Memphis JUG&lt;/a&gt;
 and other area user groups for an annual &lt;em&gt;super&lt;/em&gt; user group meeting. There
@@ -1069,7 +1069,7 @@ will be multiple talks covering various tech, including:&lt;/p&gt;
 &lt;h2&gt;RSVP&lt;/h2&gt;
 &lt;p&gt;Please RSVP at &lt;a class="reference external" href="http://www.meetup.com/memphis-technology-user-groups/events/95604202/"&gt;Meetup.com&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Tue, 04 Jun 2013 21:30:00 -0500</pubDate><guid>tag:www.mempy.org,2013-06-04:june-20-2013.html</guid><category>meetings</category></item><item><title>May 20, 2013</title><link>http://www.mempy.org/may-20-2013.html</link><description>&lt;div class="section" id="time-date"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Tue, 04 Jun 2013 21:30:00 -0500</pubDate><guid>tag:dev.mempy.org,2013-06-04:june-20-2013.html</guid><category>meetings</category></item><item><title>May 20, 2013</title><link>http://dev.mempy.org/may-20-2013.html</link><description>&lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
@@ -1104,7 +1104,7 @@ month, so we'll have a &lt;em&gt;Project Night&lt;/em&gt;. Bring a laptop and wh
 working on (or ideas about things you haven't yet started), and we'll just see
 what happens.&lt;/p&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Fri, 17 May 2013 16:30:00 -0500</pubDate><guid>tag:www.mempy.org,2013-05-17:may-20-2013.html</guid><category>meetings</category></item><item><title>April 15, 2013</title><link>http://www.mempy.org/april-15-2013.html</link><description>&lt;div class="section" id="time-date"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Fri, 17 May 2013 16:30:00 -0500</pubDate><guid>tag:dev.mempy.org,2013-05-17:may-20-2013.html</guid><category>meetings</category></item><item><title>April 15, 2013</title><link>http://dev.mempy.org/april-15-2013.html</link><description>&lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
@@ -1146,10 +1146,10 @@ potentially including (but not limited to):&lt;/p&gt;
 &lt;p&gt;Feel free to show up with a presentation ready to go, and we'll add yours to
 the list!  :-)&lt;/p&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Tue, 09 Apr 2013 21:00:00 -0500</pubDate><guid>tag:www.mempy.org,2013-04-09:april-15-2013.html</guid><category>meetings</category></item><item><title>Hack Nashville</title><link>http://www.mempy.org/hack-nashville.html</link><description>&lt;p&gt;How about a 48-hour hackathon? With a prize! It's happening in Nashville during
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Tue, 09 Apr 2013 21:00:00 -0500</pubDate><guid>tag:dev.mempy.org,2013-04-09:april-15-2013.html</guid><category>meetings</category></item><item><title>Hack Nashville</title><link>http://dev.mempy.org/hack-nashville.html</link><description>&lt;p&gt;How about a 48-hour hackathon? With a prize! It's happening in Nashville during
 the (annual?) &lt;a class="reference external" href="http://hacknashville.com/"&gt;Hack Nashville&lt;/a&gt; event May 3 - 5.&lt;/p&gt;
 &lt;p&gt;You can get free tickets here: &lt;a class="reference external" href="http://hacknashville.eventbrite.com/"&gt;http://hacknashville.eventbrite.com/&lt;/a&gt;&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Wed, 03 Apr 2013 10:40:00 -0500</pubDate><guid>tag:www.mempy.org,2013-04-03:hack-nashville.html</guid><category>nashville</category><category>code</category><category>hackathon</category></item><item><title>Nashville Code Cooperative Talk Day</title><link>http://www.mempy.org/nashville-code-cooperative-talk-day.html</link><description>&lt;p&gt;Just in case you haven't heard, our friends at the
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Wed, 03 Apr 2013 10:40:00 -0500</pubDate><guid>tag:dev.mempy.org,2013-04-03:hack-nashville.html</guid><category>nashville</category><category>code</category><category>hackathon</category></item><item><title>Nashville Code Cooperative Talk Day</title><link>http://dev.mempy.org/nashville-code-cooperative-talk-day.html</link><description>&lt;p&gt;Just in case you haven't heard, our friends at the
 &lt;a class="reference external" href="http://co-op.nashvl.org/"&gt;Nashville Code Cooperative&lt;/a&gt; are having a Talk Day
 on &lt;em&gt;March 30&lt;/em&gt;. The day includes:&lt;/p&gt;
 &lt;ul class="simple"&gt;
@@ -1160,7 +1160,7 @@ on &lt;em&gt;March 30&lt;/em&gt;. The day includes:&lt;/p&gt;
 &lt;p&gt;It looks like they're full, but you can still get on th waiting list. This
 event will definitely be worth your time, so look for it to happen again in
 the future.&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Mon, 25 Mar 2013 21:45:00 -0500</pubDate><guid>tag:www.mempy.org,2013-03-25:nashville-code-cooperative-talk-day.html</guid><category>nashville</category><category>code</category><category>talks</category></item><item><title>March 25, 2013</title><link>http://www.mempy.org/march-25-2013.html</link><description>&lt;div class="section" id="time-date"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Mon, 25 Mar 2013 21:45:00 -0500</pubDate><guid>tag:dev.mempy.org,2013-03-25:nashville-code-cooperative-talk-day.html</guid><category>nashville</category><category>code</category><category>talks</category></item><item><title>March 25, 2013</title><link>http://dev.mempy.org/march-25-2013.html</link><description>&lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
@@ -1229,7 +1229,7 @@ with technology companies at &lt;a class="reference external" href="http://www.c
 &lt;h2&gt;Presentation&lt;/h2&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://bit.ly/11oQY2E"&gt;Github Workflows&lt;/a&gt; by &lt;a class="reference external" href="http://twitter.com/makaimc"&gt;Matt Makai&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Tue, 12 Mar 2013 10:30:00 -0500</pubDate><guid>tag:www.mempy.org,2013-03-12:march-25-2013.html</guid><category>meetings</category></item><item><title>February 18, 2013</title><link>http://www.mempy.org/february-18-2013.html</link><description>&lt;div class="section" id="time-date"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Tue, 12 Mar 2013 10:30:00 -0500</pubDate><guid>tag:dev.mempy.org,2013-03-12:march-25-2013.html</guid><category>meetings</category></item><item><title>February 18, 2013</title><link>http://dev.mempy.org/february-18-2013.html</link><description>&lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
@@ -1266,7 +1266,7 @@ at one of the following, or just say, &amp;quot;I'll be there&amp;quot; on twitt
 &lt;li&gt;7:30 - 8:30: Douglas Starnes&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Mon, 18 Feb 2013 12:30:00 -0600</pubDate><guid>tag:www.mempy.org,2013-02-18:february-18-2013.html</guid><category>meetings</category></item><item><title>January 21, 2013</title><link>http://www.mempy.org/january-21-2013.html</link><description>&lt;div class="section" id="time-date"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Mon, 18 Feb 2013 12:30:00 -0600</pubDate><guid>tag:dev.mempy.org,2013-02-18:february-18-2013.html</guid><category>meetings</category></item><item><title>January 21, 2013</title><link>http://dev.mempy.org/january-21-2013.html</link><description>&lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
@@ -1303,7 +1303,7 @@ year with a special guest:  &lt;a class="reference external" href="https://twitt
 &lt;li&gt;7:00 - 8:30: Jason Myers presents Testing with Selenium.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Sun, 06 Jan 2013 12:30:00 -0600</pubDate><guid>tag:www.mempy.org,2013-01-06:january-21-2013.html</guid><category>meetings</category></item><item><title>December 17, 2012</title><link>http://www.mempy.org/december-17-2012.html</link><description>&lt;div class="section" id="time-date"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Sun, 06 Jan 2013 12:30:00 -0600</pubDate><guid>tag:dev.mempy.org,2013-01-06:january-21-2013.html</guid><category>meetings</category></item><item><title>December 17, 2012</title><link>http://dev.mempy.org/december-17-2012.html</link><description>&lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
@@ -1338,7 +1338,7 @@ year with a special guest:  &lt;a class="reference external" href="https://twitt
 (or written) that made you scratch your head and wonder what's going on. We'll
 pick it apart, and see if we can make sense of it!&lt;/p&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Thu, 06 Dec 2012 09:30:00 -0600</pubDate><guid>tag:www.mempy.org,2012-12-06:december-17-2012.html</guid><category>meetings</category></item><item><title>November 5, 2012</title><link>http://www.mempy.org/november-5-2012.html</link><description>&lt;div class="section" id="time-date"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Thu, 06 Dec 2012 09:30:00 -0600</pubDate><guid>tag:dev.mempy.org,2012-12-06:december-17-2012.html</guid><category>meetings</category></item><item><title>November 5, 2012</title><link>http://dev.mempy.org/november-5-2012.html</link><description>&lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
@@ -1373,7 +1373,7 @@ pick it apart, and see if we can make sense of it!&lt;/p&gt;
 lead up the &lt;a class="reference external" href="http://www.memphisjug.org/"&gt;Memphis/Mid-South JUG&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Thanks Thomas!&lt;/p&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Wed, 24 Oct 2012 23:20:00 -0500</pubDate><guid>tag:www.mempy.org,2012-10-24:november-5-2012.html</guid><category>meetings</category></item><item><title>October 15, 2012</title><link>http://www.mempy.org/october-15-2012.html</link><description>&lt;div class="section" id="time-date"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Wed, 24 Oct 2012 23:20:00 -0500</pubDate><guid>tag:dev.mempy.org,2012-10-24:november-5-2012.html</guid><category>meetings</category></item><item><title>October 15, 2012</title><link>http://dev.mempy.org/october-15-2012.html</link><description>&lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
@@ -1406,7 +1406,7 @@ lead up the &lt;a class="reference external" href="http://www.memphisjug.org/"&g
 Have a lightening talk? Bring it.
 Have any other kind of talk or presentation? Bring it!&lt;/p&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Tue, 09 Oct 2012 21:55:00 -0500</pubDate><guid>tag:www.mempy.org,2012-10-09:october-15-2012.html</guid><category>meetings</category></item><item><title>September 17, 2012</title><link>http://www.mempy.org/september-17-2012.html</link><description>&lt;div class="section" id="time-date"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Tue, 09 Oct 2012 21:55:00 -0500</pubDate><guid>tag:dev.mempy.org,2012-10-09:october-15-2012.html</guid><category>meetings</category></item><item><title>September 17, 2012</title><link>http://dev.mempy.org/september-17-2012.html</link><description>&lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
@@ -1439,7 +1439,7 @@ Here's a &lt;a class="reference external" href="http://goo.gl/maps/jjEFb"&gt;Goo
 &lt;h2&gt;Agenda&lt;/h2&gt;
 &lt;p&gt;TBD&lt;/p&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Mon, 17 Sep 2012 09:00:00 -0500</pubDate><guid>tag:www.mempy.org,2012-09-17:september-17-2012.html</guid><category>meetings</category></item><item><title>August 20, 2012</title><link>http://www.mempy.org/august-20-2012.html</link><description>&lt;div class="section" id="time-date"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Mon, 17 Sep 2012 09:00:00 -0500</pubDate><guid>tag:dev.mempy.org,2012-09-17:september-17-2012.html</guid><category>meetings</category></item><item><title>August 20, 2012</title><link>http://dev.mempy.org/august-20-2012.html</link><description>&lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
@@ -1471,7 +1471,7 @@ Here's a &lt;a class="reference external" href="http://goo.gl/maps/jjEFb"&gt;Goo
 &lt;p&gt;Bring your laptop and any projects on which you're working! We'll do a short
 web-dev workshop followed with some &amp;quot;open hack&amp;quot; time.&lt;/p&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Tue, 24 Jul 2012 16:00:00 -0500</pubDate><guid>tag:www.mempy.org,2012-07-24:august-20-2012.html</guid><category>meetings</category></item><item><title>July 16, 2012</title><link>http://www.mempy.org/july-16-2012.html</link><description>&lt;div class="section" id="time-date"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Tue, 24 Jul 2012 16:00:00 -0500</pubDate><guid>tag:dev.mempy.org,2012-07-24:august-20-2012.html</guid><category>meetings</category></item><item><title>July 16, 2012</title><link>http://dev.mempy.org/july-16-2012.html</link><description>&lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
@@ -1510,7 +1510,7 @@ building.&lt;/p&gt;
 &lt;li&gt;&lt;a class="reference external" href="https://github.com/douglasstarnes/mempyjuly2012"&gt;Building RESTful APIs&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Mon, 16 Jul 2012 16:30:00 -0500</pubDate><guid>tag:www.mempy.org,2012-07-16:july-16-2012.html</guid><category>meetings</category></item><item><title>June 18, 2012</title><link>http://www.mempy.org/june-18-2012.html</link><description>&lt;p&gt;Please RSVP on &lt;a class="reference external" href="http://www.facebook.com/events/171660256297462/"&gt;Facebook&lt;/a&gt; or
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Mon, 16 Jul 2012 16:30:00 -0500</pubDate><guid>tag:dev.mempy.org,2012-07-16:july-16-2012.html</guid><category>meetings</category></item><item><title>June 18, 2012</title><link>http://dev.mempy.org/june-18-2012.html</link><description>&lt;p&gt;Please RSVP on &lt;a class="reference external" href="http://www.facebook.com/events/171660256297462/"&gt;Facebook&lt;/a&gt; or
 &lt;a class="reference external" href="http://www.meetup.com/MidsouthTechCorner/events/68044212/"&gt;Meetup.com&lt;/a&gt;.&lt;/p&gt;
 &lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
@@ -1537,7 +1537,7 @@ to let you in, either tweet to
 &lt;li&gt;8:00 - 8:30: Collaborating with Git&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Fri, 15 Jun 2012 16:30:00 -0500</pubDate><guid>tag:www.mempy.org,2012-06-15:june-18-2012.html</guid><category>meetings</category></item><item><title>May 28, 2012</title><link>http://www.mempy.org/may-28-2012.html</link><description>&lt;p&gt;Please RSVP on &lt;a class="reference external" href="http://www.facebook.com/events/301661373255758/"&gt;Facebook&lt;/a&gt; or
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Fri, 15 Jun 2012 16:30:00 -0500</pubDate><guid>tag:dev.mempy.org,2012-06-15:june-18-2012.html</guid><category>meetings</category></item><item><title>May 28, 2012</title><link>http://dev.mempy.org/may-28-2012.html</link><description>&lt;p&gt;Please RSVP on &lt;a class="reference external" href="http://www.facebook.com/events/301661373255758/"&gt;Facebook&lt;/a&gt; or
 &lt;a class="reference external" href="http://www.meetup.com/MidsouthTechCorner/events/62779602/"&gt;Meetup.com&lt;/a&gt;.&lt;/p&gt;
 &lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
@@ -1564,7 +1564,7 @@ Date: Monday, May 28th, 2012&lt;/p&gt;
 with &lt;a class="reference external" href="http://youtu.be/4nzfJvjKfJI"&gt;Video, part 1&lt;/a&gt; and &lt;a class="reference external" href="http://youtu.be/O-MeUgvQzqA"&gt;Video, part 2&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Fri, 25 May 2012 11:12:00 -0500</pubDate><guid>tag:www.mempy.org,2012-05-25:may-28-2012.html</guid><category>meetings</category></item><item><title>April 16, 2012</title><link>http://www.mempy.org/april-16-2012.html</link><description>&lt;p&gt;Bring a laptop and your curiosity. We'll be exploring the python programming language in a fun and relaxed setting. This meeting will be perfect for those that are just getting started!&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Fri, 25 May 2012 11:12:00 -0500</pubDate><guid>tag:dev.mempy.org,2012-05-25:may-28-2012.html</guid><category>meetings</category></item><item><title>April 16, 2012</title><link>http://dev.mempy.org/april-16-2012.html</link><description>&lt;p&gt;Bring a laptop and your curiosity. We'll be exploring the python programming language in a fun and relaxed setting. This meeting will be perfect for those that are just getting started!&lt;/p&gt;
 &lt;p&gt;Please RSVP on &lt;a class="reference external" href="http://www.facebook.com/events/384227031600660/"&gt;Facebook&lt;/a&gt; or &lt;a class="reference external" href="http://www.meetup.com/MidsouthTechCorner/events/57227532/"&gt;Meetup.com&lt;/a&gt;. That way we know how much food to bring!&lt;/p&gt;
 &lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
@@ -1590,7 +1590,7 @@ Date: Monday, April 16th, 2012&lt;/p&gt;
 &lt;li&gt;8:00 - 8:30: Fun with tabular data!&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Sun, 15 Apr 2012 15:25:00 -0500</pubDate><guid>tag:www.mempy.org,2012-04-15:april-16-2012.html</guid><category>meetings</category></item><item><title>March 19, 2012</title><link>http://www.mempy.org/march-19-2012.html</link><description>&lt;p&gt;We're mixing things up a bit for the next meeting! Join us at the &lt;a class="reference external" href="http://simplefocus.com/"&gt;Simple Focus HQ&lt;/a&gt; for a round of Lightening Talks. Have you got something you can share for 10-15 minutes? Bring your laptop and show us what you've been working on!&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Sun, 15 Apr 2012 15:25:00 -0500</pubDate><guid>tag:dev.mempy.org,2012-04-15:april-16-2012.html</guid><category>meetings</category></item><item><title>March 19, 2012</title><link>http://dev.mempy.org/march-19-2012.html</link><description>&lt;p&gt;We're mixing things up a bit for the next meeting! Join us at the &lt;a class="reference external" href="http://simplefocus.com/"&gt;Simple Focus HQ&lt;/a&gt; for a round of Lightening Talks. Have you got something you can share for 10-15 minutes? Bring your laptop and show us what you've been working on!&lt;/p&gt;
 &lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;p&gt;Join us at &lt;em&gt;6:30pm&lt;/em&gt; on &lt;em&gt;March 19th&lt;/em&gt;! Please RSVP on &lt;a class="reference external" href="http://www.facebook.com/events/316239161763999/"&gt;Facebook&lt;/a&gt; or &lt;a class="reference external" href="http://www.meetup.com/MidsouthTechCorner/events/53059322/"&gt;Meetup.com&lt;/a&gt;. That way we know how much Pizza to bring!&lt;/p&gt;
@@ -1621,7 +1621,7 @@ Date: Monday, April 16th, 2012&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Fri, 16 Mar 2012 00:00:00 -0500</pubDate><guid>tag:www.mempy.org,2012-03-16:march-19-2012.html</guid><category>meetings</category></item><item><title>February 20, 2012</title><link>http://www.mempy.org/february-20-2012.html</link><description>&lt;div class="section" id="time-date"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Fri, 16 Mar 2012 00:00:00 -0500</pubDate><guid>tag:dev.mempy.org,2012-03-16:march-19-2012.html</guid><category>meetings</category></item><item><title>February 20, 2012</title><link>http://dev.mempy.org/february-20-2012.html</link><description>&lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;p&gt;Join us at &lt;em&gt;6:30pm&lt;/em&gt; on &lt;em&gt;February 20th&lt;/em&gt;! Please RSVP on &lt;a class="reference external" href="http://www.facebook.com/events/384565994903588/"&gt;Facebook&lt;/a&gt; or &lt;a class="reference external" href="http://www.meetup.com/MidsouthTechCorner/events/49469992/"&gt;Meetup.com&lt;/a&gt;. That way we know how much Pizza to bring!&lt;/p&gt;
 &lt;/div&gt;
@@ -1641,7 +1641,7 @@ Date: Monday, April 16th, 2012&lt;/p&gt;
 &lt;li&gt;7:00 - 8:30: Web Scraping Workshop! Bring a laptop and practice turning the web into Data with &lt;a class="reference external" href="https://github.com/kennethreitz/requests"&gt;Requests&lt;/a&gt; and &lt;a class="reference external" href="http://www.crummy.com/software/BeautifulSoup/"&gt;Beautiful Soup&lt;/a&gt;! Here's how to get started: &lt;a class="reference external" href="https://gist.github.com/1872970"&gt;https://gist.github.com/1872970&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Mon, 20 Feb 2012 00:00:00 -0600</pubDate><guid>tag:www.mempy.org,2012-02-20:february-20-2012.html</guid><category>meetings</category></item><item><title>January 16, 2012</title><link>http://www.mempy.org/january-16-2012.html</link><description>&lt;div class="section" id="time-date"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Mon, 20 Feb 2012 00:00:00 -0600</pubDate><guid>tag:dev.mempy.org,2012-02-20:february-20-2012.html</guid><category>meetings</category></item><item><title>January 16, 2012</title><link>http://dev.mempy.org/january-16-2012.html</link><description>&lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;p&gt;Join us at &lt;em&gt;6:30pm&lt;/em&gt; on &lt;em&gt;January 16th&lt;/em&gt;!&lt;/p&gt;
 &lt;/div&gt;
@@ -1665,7 +1665,7 @@ Date: Monday, April 16th, 2012&lt;/p&gt;
 &lt;li&gt;7:30 - 8:30: &lt;a class="reference external" href="https://github.com/bradmontgomery/mempy-django-walkthru/raw/master/presentation/Django-Walkthrough.pdf"&gt;A Django Walkthrough (pdf)&lt;/a&gt;, by &lt;a class="reference external" href="http://twitter.com/bkmontgomery"&gt;Brad Montgomery&lt;/a&gt; with &lt;a class="reference external" href="https://github.com/bradmontgomery/mempy-django-walkthru"&gt;sample code&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Sun, 15 Jan 2012 00:00:00 -0600</pubDate><guid>tag:www.mempy.org,2012-01-15:january-16-2012.html</guid><category>meetings</category></item><item><title>December 19, 2011</title><link>http://www.mempy.org/december-19-2011.html</link><description>&lt;div class="section" id="time-date"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Sun, 15 Jan 2012 00:00:00 -0600</pubDate><guid>tag:dev.mempy.org,2012-01-15:january-16-2012.html</guid><category>meetings</category></item><item><title>December 19, 2011</title><link>http://dev.mempy.org/december-19-2011.html</link><description>&lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;p&gt;Join us at &lt;em&gt;6:30pm&lt;/em&gt; on &lt;em&gt;December 19th&lt;/em&gt;
 for the next meeting of the The Memphis,
@@ -1690,7 +1690,7 @@ TN Python User Group!&lt;/p&gt;
 &lt;li&gt;7:00 - 8:30: Python in the cloud &amp;amp; Google App Engine by &lt;a class="reference external" href="https://plus.google.com/102288396289474737640/posts"&gt;Douglas Starnes&lt;/a&gt;: &lt;a class="reference external" href="http://bit.ly/mempy-im121911code"&gt;Code&lt;/a&gt; and &lt;a class="reference external" href="http://bit.ly/mempy-im121911slides"&gt;Slides&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Mon, 19 Dec 2011 00:00:00 -0600</pubDate><guid>tag:www.mempy.org,2011-12-19:december-19-2011.html</guid><category>meetings</category></item><item><title>November 21, 2011</title><link>http://www.mempy.org/november-21-2011.html</link><description>&lt;p&gt;Join us at &lt;em&gt;6:30pm&lt;/em&gt; on &lt;em&gt;November 21st&lt;/em&gt; for the first meeting
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Mon, 19 Dec 2011 00:00:00 -0600</pubDate><guid>tag:dev.mempy.org,2011-12-19:december-19-2011.html</guid><category>meetings</category></item><item><title>November 21, 2011</title><link>http://dev.mempy.org/november-21-2011.html</link><description>&lt;p&gt;Join us at &lt;em&gt;6:30pm&lt;/em&gt; on &lt;em&gt;November 21st&lt;/em&gt; for the first meeting
 of the The Memphis, TN Python User Group!&lt;/p&gt;
 &lt;div class="section" id="location"&gt;
 &lt;h2&gt;Location&lt;/h2&gt;
@@ -1710,4 +1710,4 @@ of the The Memphis, TN Python User Group!&lt;/p&gt;
 &lt;li&gt;7:20 - 8:30: &lt;a class="reference external" href="http://rickbranson.com/2011-11-21-mempy-cassandra-rbranson.pdf"&gt;Cassandra and pycassa&lt;/a&gt; by &lt;a class="reference external" href="http://twitter.com/rbranson/"&gt;Rick Branson&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Mon, 21 Nov 2011 00:00:00 -0600</pubDate><guid>tag:www.mempy.org,2011-11-21:november-21-2011.html</guid><category>meetings</category></item></channel></rss>
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Mon, 21 Nov 2011 00:00:00 -0600</pubDate><guid>tag:dev.mempy.org,2011-11-21:november-21-2011.html</guid><category>meetings</category></item></channel></rss>
