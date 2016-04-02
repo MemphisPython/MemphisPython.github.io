@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>MEMpy</title><link href="http://www.mempy.org/" rel="alternate"></link><link href="http://www.mempy.org/feeds/all-en.atom.xml" rel="self"></link><id>http://www.mempy.org/</id><updated>2016-03-07T14:40:00-06:00</updated><entry><title>March 21, 2016</title><link href="http://www.mempy.org/march-21-2016.html" rel="alternate"></link><updated>2016-03-07T14:40:00-06:00</updated><author><name>Brad Montgomery</name></author><id>tag:www.mempy.org,2016-03-07:march-21-2016.html</id><summary type="html">&lt;div class="section" id="time-date"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>MEMpy</title><link href="http://www.mempy.org/" rel="alternate"></link><link href="http://www.mempy.org/feeds/all-en.atom.xml" rel="self"></link><id>http://www.mempy.org/</id><updated>2016-04-02T11:50:00-05:00</updated><entry><title>April 18, 2016</title><link href="http://www.mempy.org/april-18-2016.html" rel="alternate"></link><updated>2016-04-02T11:50:00-05:00</updated><author><name>Brad Montgomery</name></author><id>tag:www.mempy.org,2016-04-02:april-18-2016.html</id><summary type="html">&lt;div class="section" id="time-date"&gt;
+&lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
+&lt;div class="line"&gt;Date: Monday, April 18, 2016&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;p&gt;This month's meeting is graciously hosted by the
+&lt;a class="reference external" href="http://fedex.memphis.edu/"&gt;FedEx Institute of Technology&lt;/a&gt;.
+Here's a link to a &lt;a class="reference external" href="https://goo.gl/RsjTJb"&gt;Google Map&lt;/a&gt;.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;strong&gt;Room&lt;/strong&gt;: FIT 225 (2nd floor)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Parking&lt;/strong&gt;: The &lt;a class="reference external" href="https://www.google.com/maps/d/viewer?mid=z7eJgDchpI68.kevkGtJ3KYwo"&gt;Deloach Parking Garage&lt;/a&gt; is $2/hr, and is right across the street from the FedEx Institute of Technology (FIT). You can also buy a 1-day pass for general parking for $2 -- see &lt;a class="reference external" href="http://www.memphis.edu/parking/permit/visitor.php"&gt;visitor parking&lt;/a&gt; for more details.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="agenda"&gt;
+&lt;h2&gt;Agenda&lt;/h2&gt;
+&lt;p&gt;We need speakers! Have a talk idea? Get in touch with Brad (email
+&lt;a class="reference external" href="mailto:brad&amp;#64;mempy.org"&gt;brad&amp;#64;mempy.org&lt;/a&gt; or on twitter: &lt;a class="reference external" href="https://twitter.com/bkmontgomery"&gt;&amp;#64;bkmontgomery&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Talks can be full-length, hour-long instructional/informative or shorter 5, 10,
+or 15-minute lightning-style talks. Topics related to Python are encouraged,
+but topics related to computing are welcome!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="rsvp"&gt;
+&lt;h2&gt;RSVP&lt;/h2&gt;
+&lt;p&gt;Food (Pizza) and Drinks will be provided, so please let us know if you plan to attend.&lt;/p&gt;
+&lt;p&gt;Please RSVP at one of the following:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.meetup.com/memphis-technology-user-groups/events/229022283/"&gt;Meetup.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mention &lt;a class="reference external" href="http://twitter.com/memphispython"&gt;&amp;#64;MemphisPython on Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Send an email to &lt;a class="reference external" href="mailto:brad&amp;#64;mempy.org"&gt;brad&amp;#64;mempy.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary><category term="meetings"></category></entry><entry><title>March 21, 2016</title><link href="http://www.mempy.org/march-21-2016.html" rel="alternate"></link><updated>2016-03-07T14:40:00-06:00</updated><author><name>Brad Montgomery</name></author><id>tag:www.mempy.org,2016-03-07:march-21-2016.html</id><summary type="html">&lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
