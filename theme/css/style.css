@@ -221,3 +221,17 @@ figure.floatcenter, .align-center {
         font-size: 16px;
     }
 }
+
+
+/* Customized for the theme */
+.navbar-default {
+    background-color: #327854;
+    border-color: #000000;
+}
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
+    color: #ffffff;
+    background-color: #216743;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #bf3e11;
+}
