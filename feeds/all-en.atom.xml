@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>MEMpy</title><link href="http://www.mempy.org/" rel="alternate"></link><link href="http://www.mempy.org/feeds/all-en.atom.xml" rel="self"></link><id>http://www.mempy.org/</id><updated>2016-04-30T11:45:00-05:00</updated><entry><title>May 16, 2016</title><link href="http://www.mempy.org/may-16-2016.html" rel="alternate"></link><updated>2016-04-30T11:45:00-05:00</updated><author><name>Brad Montgomery</name></author><id>tag:www.mempy.org,2016-04-30:may-16-2016.html</id><summary type="html">&lt;div class="section" id="time-date"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>MEMpy</title><link href="http://www.mempy.org/" rel="alternate"></link><link href="http://www.mempy.org/feeds/all-en.atom.xml" rel="self"></link><id>http://www.mempy.org/</id><updated>2016-04-30T11:50:00-05:00</updated><entry><title>PyOhio 2016</title><link href="http://www.mempy.org/pyohio-2016.html" rel="alternate"></link><updated>2016-04-30T11:50:00-05:00</updated><author><name>Brad Montgomery</name></author><id>tag:www.mempy.org,2016-04-30:pyohio-2016.html</id><summary type="html">&lt;p&gt;The always-great &lt;a class="reference external" href="http://www.pyohio.org/"&gt;PyOhio 2016&lt;/a&gt; has recently been
+announced, and will be held on July 30-31, 2016. PyOhio is:&lt;/p&gt;
+&lt;blockquote&gt;
+A free annual conference for Python programmers in and around Ohio,
+the entire Midwest, maybe even the whole world.&lt;/blockquote&gt;
+&lt;p&gt;The &lt;cite&gt;Call for Proposals &amp;lt;http://pyohio.org/call-for-proposals/&amp;gt;&lt;/cite&gt; is currently
+up and open until &lt;em&gt;May 15&lt;/em&gt;, so get your talk proposal in soon!  PyOhio is great,
+for frist-time speakers, so if you've never spoken at a conference before, this
+is the place to start. Even if you've spoken at dozens of conferences, this
+is one you don't want to miss.&lt;/p&gt;
+&lt;p&gt;To keep up with what's happening with the conference, be sure to follow
+them on twitter at &lt;a class="reference external" href="https://twitter.com/pyohio"&gt;&amp;#64;pyohio&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="python"></category><category term="conference"></category><category term="pyohio"></category></entry><entry><title>May 16, 2016</title><link href="http://www.mempy.org/may-16-2016.html" rel="alternate"></link><updated>2016-04-30T11:45:00-05:00</updated><author><name>Brad Montgomery</name></author><id>tag:www.mempy.org,2016-04-30:may-16-2016.html</id><summary type="html">&lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
