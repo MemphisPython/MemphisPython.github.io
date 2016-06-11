@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MEMpy</title><link>http://www.mempy.org/</link><description></description><atom:link href="http://www.mempy.org/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 30 Apr 2016 11:50:00 -0500</lastBuildDate><item><title>PyOhio 2016</title><link>http://www.mempy.org/pyohio-2016.html</link><description>&lt;p&gt;The always-great &lt;a class="reference external" href="http://www.pyohio.org/"&gt;PyOhio 2016&lt;/a&gt; has recently been
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MEMpy</title><link>http://www.mempy.org/</link><description></description><atom:link href="http://www.mempy.org/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 11 Jun 2016 15:00:00 -0500</lastBuildDate><item><title>Memphis Tech Talks &amp; the June Meetup</title><link>http://www.mempy.org/memphis-tech-talks-the-june-meetup.html</link><description>&lt;div class="section" id="memphis-tech-talks"&gt;
+&lt;h2&gt;Memphis Tech Talks&lt;/h2&gt;
+&lt;p&gt;On Thursday, June 16, the Memphis Technology Foundation &amp;amp; Fedex Institute of
+technology are hosting an evening of lighthing talks. This will be a great
+showcase of various tech topics from local professionals.&lt;/p&gt;
+&lt;p&gt;You can see the current &lt;a class="reference external" href="http://www.memphistechnology.org/blog/2016/05/06/memphis-tech-talks-hosted-by-fit-and-mtf/"&gt;speaker lineup over at memphistechnology.org&lt;/a&gt;, and you can RSVP for the
+event &lt;a class="reference external" href="http://www.meetup.com/memphis-technology-user-groups/events/230661746/"&gt;on meetup.com&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="mempy-road-trip"&gt;
+&lt;h2&gt;MEMpy road trip&lt;/h2&gt;
+&lt;p&gt;If you can only make one #memtech event this month, it should be the Tech Talks.
+And since we think it'll be a spectacular evening, we're putting the regular
+MEMpy meeting on hold this month.&lt;/p&gt;
+&lt;p&gt;However, if you need to get your Python fix, a few of us are planning a road
+trip to visit &lt;a class="reference external" href="http://pynash.org/"&gt;PyNash&lt;/a&gt; on Thursday, June 23 at 6:00pm for
+an introduction to Django Channels.&lt;/p&gt;
+&lt;p&gt;If you'd like to come along, please RSVP at &lt;cite&gt;on the PyNash meetup &amp;lt;https://www.meetup.com/PyNash/events/231773313/&amp;gt;&lt;/cite&gt;, and get in touch with &lt;a class="reference external" href="mailto:brad&amp;#64;mempy.org"&gt;Brad&lt;/a&gt; / &lt;a class="reference external" href="https://twitter.com/bkmontgomery"&gt;&amp;#64;bkmontgomery&lt;/a&gt; or &lt;a class="reference external" href="https://twitter.com/poweredbyaltnet"&gt;Douglas&lt;/a&gt; for travel details.&lt;/p&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Sat, 11 Jun 2016 15:00:00 -0500</pubDate><guid>tag:www.mempy.org,2016-06-11:memphis-tech-talks-the-june-meetup.html</guid><category>python</category><category>meetings</category><category>talks</category></item><item><title>PyOhio 2016</title><link>http://www.mempy.org/pyohio-2016.html</link><description>&lt;p&gt;The always-great &lt;a class="reference external" href="http://www.pyohio.org/"&gt;PyOhio 2016&lt;/a&gt; has recently been
 announced, and will be held on July 30-31, 2016. PyOhio is:&lt;/p&gt;
 &lt;blockquote&gt;
 A free annual conference for Python programmers in and around Ohio,

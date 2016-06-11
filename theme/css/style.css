@@ -235,3 +235,7 @@ figure.floatcenter, .align-center {
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     border-color: #bf3e11;
 }
+.navbar-default .navbar-nav > li.active > a,
+.navbar-default .navbar-nav > li.active > a:hover {
+  background-color: #327854;
+}
