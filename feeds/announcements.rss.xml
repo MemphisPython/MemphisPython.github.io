@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MEMpy</title><link>http://www.mempy.org/</link><description></description><atom:link href="http://www.mempy.org/feeds/announcements.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 11 Jun 2016 15:00:00 -0500</lastBuildDate><item><title>Memphis Tech Talks &amp; the June Meetup</title><link>http://www.mempy.org/memphis-tech-talks-the-june-meetup.html</link><description>&lt;div class="section" id="memphis-tech-talks"&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MEMpy</title><link>http://www.mempy.org/</link><description></description><atom:link href="http://www.mempy.org/feeds/announcements.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 29 Aug 2016 10:15:00 -0500</lastBuildDate><item><title>Data Analysis and Data Science in Python Workshop</title><link>http://www.mempy.org/data-analysis-and-data-science-in-python-workshop.html</link><description>&lt;p&gt;On October 14, the Computer Science department at the University of Memphis
+will be hosting a &lt;a class="reference external" href="https://www.eventbrite.com/e/data-analysis-and-data-science-in-python-workshop-tickets-27360815937?utm-medium=discovery&amp;amp;utm-campaign=social&amp;amp;utm-content=attendeeshare&amp;amp;aff=escb&amp;amp;utm-source=cp&amp;amp;utm-term=listing"&gt;Data Analysis and Data Science in Python Workshop&lt;/a&gt;. From
+their announcement:&lt;/p&gt;
+&lt;blockquote&gt;
+This 3-day hands-on workshop is designed for scientists and working professionals
+who would like to learn programming for basic and intermediate large-scale data
+analysis. Participants will learn how to program in Python and how to write short
+programs to analyze data. Topics include:&lt;/blockquote&gt;
+&lt;p&gt;This workshop promises to start with basical procedural programming in python,
+then build knowledge of object-oriented programming and data analysis using Pandas
+and Sckikit-learn.&lt;/p&gt;
+&lt;p&gt;Registration is now open and is $650 for professionals, $280 for students, and
+only $100 for current UofM students. &lt;a class="reference external" href="https://www.eventbrite.com/e/data-analysis-and-data-science-in-python-workshop-tickets-27360815937?utm-medium=discovery&amp;amp;utm-campaign=social&amp;amp;utm-content=attendeeshare&amp;amp;aff=escb&amp;amp;utm-source=cp&amp;amp;utm-term=listing"&gt;Register here&lt;/a&gt;.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Mon, 29 Aug 2016 10:15:00 -0500</pubDate><guid>tag:www.mempy.org,2016-08-29:data-analysis-and-data-science-in-python-workshop.html</guid><category>python</category><category>workshop</category><category>datascience</category></item><item><title>Memphis Tech Talks &amp; the June Meetup</title><link>http://www.mempy.org/memphis-tech-talks-the-june-meetup.html</link><description>&lt;div class="section" id="memphis-tech-talks"&gt;
 &lt;h2&gt;Memphis Tech Talks&lt;/h2&gt;
 &lt;p&gt;On Thursday, June 16, the Memphis Technology Foundation &amp;amp; Fedex Institute of
 technology are hosting an evening of lighthing talks. This will be a great

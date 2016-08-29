@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>MEMpy</title><link href="http://www.mempy.org/" rel="alternate"></link><link href="http://www.mempy.org/feeds/all.atom.xml" rel="self"></link><id>http://www.mempy.org/</id><updated>2016-08-10T09:00:00-05:00</updated><entry><title>August 15, 2016</title><link href="http://www.mempy.org/august-15-2016.html" rel="alternate"></link><updated>2016-08-10T09:00:00-05:00</updated><author><name>Brad Montgomery</name></author><id>tag:www.mempy.org,2016-08-10:august-15-2016.html</id><summary type="html">&lt;div class="section" id="time-date"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>MEMpy</title><link href="http://www.mempy.org/" rel="alternate"></link><link href="http://www.mempy.org/feeds/all.atom.xml" rel="self"></link><id>http://www.mempy.org/</id><updated>2016-08-29T10:15:00-05:00</updated><entry><title>Data Analysis and Data Science in Python Workshop</title><link href="http://www.mempy.org/data-analysis-and-data-science-in-python-workshop.html" rel="alternate"></link><updated>2016-08-29T10:15:00-05:00</updated><author><name>Brad Montgomery</name></author><id>tag:www.mempy.org,2016-08-29:data-analysis-and-data-science-in-python-workshop.html</id><summary type="html">&lt;p&gt;On October 14, the Computer Science department at the University of Memphis
+will be hosting a &lt;a class="reference external" href="https://www.eventbrite.com/e/data-analysis-and-data-science-in-python-workshop-tickets-27360815937?utm-medium=discovery&amp;amp;utm-campaign=social&amp;amp;utm-content=attendeeshare&amp;amp;aff=escb&amp;amp;utm-source=cp&amp;amp;utm-term=listing"&gt;Data Analysis and Data Science in Python Workshop&lt;/a&gt;. From
+their announcement:&lt;/p&gt;
+&lt;blockquote&gt;
+This 3-day hands-on workshop is designed for scientists and working professionals
+who would like to learn programming for basic and intermediate large-scale data
+analysis. Participants will learn how to program in Python and how to write short
+programs to analyze data. Topics include:&lt;/blockquote&gt;
+&lt;p&gt;This workshop promises to start with basical procedural programming in python,
+then build knowledge of object-oriented programming and data analysis using Pandas
+and Sckikit-learn.&lt;/p&gt;
+&lt;p&gt;Registration is now open and is $650 for professionals, $280 for students, and
+only $100 for current UofM students. &lt;a class="reference external" href="https://www.eventbrite.com/e/data-analysis-and-data-science-in-python-workshop-tickets-27360815937?utm-medium=discovery&amp;amp;utm-campaign=social&amp;amp;utm-content=attendeeshare&amp;amp;aff=escb&amp;amp;utm-source=cp&amp;amp;utm-term=listing"&gt;Register here&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="python"></category><category term="workshop"></category><category term="datascience"></category></entry><entry><title>August 15, 2016</title><link href="http://www.mempy.org/august-15-2016.html" rel="alternate"></link><updated>2016-08-10T09:00:00-05:00</updated><author><name>Brad Montgomery</name></author><id>tag:www.mempy.org,2016-08-10:august-15-2016.html</id><summary type="html">&lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
