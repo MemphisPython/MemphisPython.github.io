@@ -1,12 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MEMpy</title><link>http://www.mempy.org/</link><description></description><atom:link href="http://www.mempy.org/feeds/brad-montgomery.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 29 Aug 2016 10:15:00 -0500</lastBuildDate><item><title>Data Analysis and Data Science in Python Workshop</title><link>http://www.mempy.org/data-analysis-and-data-science-in-python-workshop.html</link><description>&lt;p&gt;On October 14, the Computer Science department at the University of Memphis
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MEMpy</title><link>http://www.mempy.org/</link><description></description><atom:link href="http://www.mempy.org/feeds/brad-montgomery.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 11 Sep 2016 16:00:00 -0500</lastBuildDate><item><title>September 19, 2016</title><link>http://www.mempy.org/september-19-2016.html</link><description>&lt;div class="section" id="time-date"&gt;
+&lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
+&lt;div class="line"&gt;Date: Monday, September 19, 2016&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;p&gt;This month's meeting is graciously hosted by the
+&lt;a class="reference external" href="http://fedex.memphis.edu/"&gt;FedEx Institute of Technology&lt;/a&gt;.
+Here's a link to a &lt;a class="reference external" href="https://goo.gl/RsjTJb"&gt;Google Map&lt;/a&gt;.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;strong&gt;Room&lt;/strong&gt;: FIT 225 (2nd floor)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Parking&lt;/strong&gt;: The &lt;a class="reference external" href="https://www.google.com/maps/d/viewer?mid=z7eJgDchpI68.kevkGtJ3KYwo"&gt;Deloach Parking Garage&lt;/a&gt; is $3/hr, and is right across the street from the FedEx Institute of Technology (FIT). You can also buy a 1-day pass for general parking for $2 -- see &lt;a class="reference external" href="http://www.memphis.edu/parking/permit/visitor.php"&gt;visitor parking&lt;/a&gt; for more details.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="agenda"&gt;
+&lt;h2&gt;Agenda&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;TBD.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Have an talk you want to give?&lt;/em&gt; &lt;a class="reference external" href="mailto:brad&amp;#64;mempy.org"&gt;Get in Touch&lt;/a&gt;!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="rsvp"&gt;
+&lt;h2&gt;RSVP&lt;/h2&gt;
+&lt;p&gt;Food (Pizza) and Drinks will be provided, so please let us know if you plan to attend.&lt;/p&gt;
+&lt;p&gt;Please RSVP at one of the following:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.meetup.com/memphis-technology-user-groups/events/233370122/"&gt;Meetup.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mention &lt;a class="reference external" href="http://twitter.com/memphispython"&gt;&amp;#64;MemphisPython on Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Send an email to &lt;a class="reference external" href="mailto:brad&amp;#64;mempy.org"&gt;brad&amp;#64;mempy.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Sun, 11 Sep 2016 16:00:00 -0500</pubDate><guid>tag:www.mempy.org,2016-09-11:september-19-2016.html</guid><category>meetings</category></item><item><title>Data Analysis and Data Science in Python Workshop</title><link>http://www.mempy.org/data-analysis-and-data-science-in-python-workshop.html</link><description>&lt;p&gt;On October 14, the Computer Science department at the University of Memphis
 will be hosting a &lt;a class="reference external" href="https://www.eventbrite.com/e/data-analysis-and-data-science-in-python-workshop-tickets-27360815937?utm-medium=discovery&amp;amp;utm-campaign=social&amp;amp;utm-content=attendeeshare&amp;amp;aff=escb&amp;amp;utm-source=cp&amp;amp;utm-term=listing"&gt;Data Analysis and Data Science in Python Workshop&lt;/a&gt;. From
 their announcement:&lt;/p&gt;
 &lt;blockquote&gt;
 This 3-day hands-on workshop is designed for scientists and working professionals
 who would like to learn programming for basic and intermediate large-scale data
 analysis. Participants will learn how to program in Python and how to write short
-programs to analyze data. Topics include:&lt;/blockquote&gt;
+programs to analyze data.&lt;/blockquote&gt;
 &lt;p&gt;This workshop promises to start with basical procedural programming in python,
 then build knowledge of object-oriented programming and data analysis using Pandas
 and Sckikit-learn.&lt;/p&gt;
