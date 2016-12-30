@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MEMpy</title><link>http://www.mempy.org/</link><description></description><atom:link href="http://www.mempy.org/feeds/announcements.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 29 Aug 2016 10:15:00 -0500</lastBuildDate><item><title>Data Analysis and Data Science in Python Workshop</title><link>http://www.mempy.org/data-analysis-and-data-science-in-python-workshop.html</link><description>&lt;p&gt;On October 14, the Computer Science department at the University of Memphis
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MEMpy</title><link>http://www.mempy.org/</link><description></description><atom:link href="http://www.mempy.org/feeds/announcements.rss.xml" rel="self"></atom:link><lastBuildDate>Fri, 30 Dec 2016 10:15:00 -0600</lastBuildDate><item><title>It's time for PyTennessee, 2017</title><link>http://www.mempy.org/its-time-for-pytennessee-2017.html</link><description>&lt;p&gt;It's that time of the year, again. 2016 is almost over and it's time to slow,
+down, reflect, and remember how great &lt;a class="reference external" href="https://www.pytennessee.org/"&gt;PyTennessee&lt;/a&gt;
+was. Now, let's get excited because that means PyTN 2017 is just around the corner!&lt;/p&gt;
+&lt;p&gt;That's right! The region's preeminent Python conference is happening February
+4-5, 2017 in Nashville, TN. &lt;a class="reference external" href="https://www.eventbrite.com/e/pytennessee-2017-tickets-26899174154"&gt;Registration is currently open&lt;/a&gt;,
+and you can grab a ticket for the low-low price of $60.&lt;/p&gt;
+&lt;p&gt;&amp;quot;How can such a great conference, with speakers from all over the world be
+so cheap&amp;quot;, you ask? It's only because of the generosity of the
+&lt;a class="reference external" href="https://www.pytennessee.org/sponsors/"&gt;PyTN Sponsors&lt;/a&gt;  that this can happen.
+Thank you sponsors! (Don't see your company there?
+&lt;a class="reference external" href="https://www.pytennessee.org/sponsors/prospectus/"&gt;There's still time to become a sponsor&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;To keep up with what's happening with the conference, be sure to follow
+them on twitter at &lt;a class="reference external" href="https://twitter.com/pytennessee"&gt;&amp;#64;PyTennessee&lt;/a&gt;.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Fri, 30 Dec 2016 10:15:00 -0600</pubDate><guid>tag:www.mempy.org,2016-12-30:its-time-for-pytennessee-2017.html</guid><category>python</category><category>conference</category><category>pytn</category><category>tennessee</category></item><item><title>Data Analysis and Data Science in Python Workshop</title><link>http://www.mempy.org/data-analysis-and-data-science-in-python-workshop.html</link><description>&lt;p&gt;On October 14, the Computer Science department at the University of Memphis
 will be hosting a &lt;a class="reference external" href="https://www.eventbrite.com/e/data-analysis-and-data-science-in-python-workshop-tickets-27360815937?utm-medium=discovery&amp;amp;utm-campaign=social&amp;amp;utm-content=attendeeshare&amp;amp;aff=escb&amp;amp;utm-source=cp&amp;amp;utm-term=listing"&gt;Data Analysis and Data Science in Python Workshop&lt;/a&gt;. From
 their announcement:&lt;/p&gt;
 &lt;blockquote&gt;
