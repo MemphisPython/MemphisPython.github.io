@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MEMpy</title><link>http://www.mempy.org/</link><description></description><atom:link href="http://www.mempy.org/feeds/brad-montgomery.rss.xml" rel="self"></atom:link><lastBuildDate>Fri, 30 Dec 2016 10:15:00 -0600</lastBuildDate><item><title>It's time for PyTennessee, 2017</title><link>http://www.mempy.org/its-time-for-pytennessee-2017.html</link><description>&lt;p&gt;It's that time of the year, again. 2016 is almost over and it's time to slow,
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MEMpy</title><link>http://www.mempy.org/</link><description></description><atom:link href="http://www.mempy.org/feeds/brad-montgomery.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 11 Jan 2017 14:00:00 -0600</lastBuildDate><item><title>January 23, 2017</title><link>http://www.mempy.org/january-23-2017.html</link><description>&lt;p&gt;&lt;strong&gt;Join us as we kick off the New Year with an Introductory Python Workshop&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;As part of the &lt;a class="reference external" href="http://www.memphis.edu/fedex/events/critical_skills.php"&gt;FedEx Institute Critical Skills Development Program&lt;/a&gt;, this workshop will introduce you to python with some
+guided problem solving using our favorite programming language.&lt;/p&gt;
+&lt;div class="section" id="time-date"&gt;
+&lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Time: 6:00pm - 8:00pm&lt;/div&gt;
+&lt;div class="line"&gt;Date: Monday, January 23, 2017&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;p&gt;We'll again, be graciously hosted by the
+&lt;a class="reference external" href="http://fedex.memphis.edu/"&gt;FedEx Institute of Technology&lt;/a&gt;.
+Here's a link to a &lt;a class="reference external" href="https://goo.gl/RsjTJb"&gt;Google Map&lt;/a&gt;.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;strong&gt;Room&lt;/strong&gt;: FIT 225 (2nd floor)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Parking&lt;/strong&gt;: The &lt;a class="reference external" href="https://www.google.com/maps/d/viewer?mid=z7eJgDchpI68.kevkGtJ3KYwo"&gt;Deloach Parking Garage&lt;/a&gt; is $3/hr, and is right across the street from the FedEx Institute of Technology (FIT). You can also buy a 1-day pass for general parking for $3 -- see &lt;a class="reference external" href="http://www.memphis.edu/parking/permit/visitor.php"&gt;visitor parking&lt;/a&gt; for more details.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="agenda"&gt;
+&lt;h2&gt;Agenda&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Intro to Python, 6:00pm - 8:00pm  with Brad Montgomery.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Have an talk you want to give?&lt;/em&gt; &lt;a class="reference external" href="mailto:brad&amp;#64;mempy.org"&gt;Get in Touch&lt;/a&gt;!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="rsvp"&gt;
+&lt;h2&gt;RSVP&lt;/h2&gt;
+&lt;p&gt;Please RSVP on &lt;a class="reference external" href="https://www.meetup.com/memphis-technology-user-groups/events/233370151/"&gt;Meetup.com&lt;/a&gt; or at &lt;a class="reference external" href="https://memphis.co1.qualtrics.com/jfe/form/SV_7QVlMUFdST6tS8B"&gt;this link&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Wed, 11 Jan 2017 14:00:00 -0600</pubDate><guid>tag:www.mempy.org,2017-01-11:january-23-2017.html</guid><category>meetings</category></item><item><title>It's time for PyTennessee, 2017</title><link>http://www.mempy.org/its-time-for-pytennessee-2017.html</link><description>&lt;p&gt;It's that time of the year, again. 2016 is almost over and it's time to slow,
 down, reflect, and remember how great &lt;a class="reference external" href="https://www.pytennessee.org/"&gt;PyTennessee&lt;/a&gt;
 was. Now, let's get excited because that means PyTN 2017 is just around the corner!&lt;/p&gt;
 &lt;p&gt;That's right! The region's preeminent Python conference is happening February
