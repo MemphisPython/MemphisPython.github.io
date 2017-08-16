@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MEMpy</title><link>http://www.mempy.org/</link><description></description><atom:link href="http://www.mempy.org/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 16 Jul 2017 14:10:00 -0500</lastBuildDate><item><title>July 17, 2017</title><link>http://www.mempy.org/july-17-2017.html</link><description>&lt;p&gt;Join us for the June meeting of the Memphis Python User Group.&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MEMpy</title><link>http://www.mempy.org/</link><description></description><atom:link href="http://www.mempy.org/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 15 Aug 2017 20:10:00 -0500</lastBuildDate><item><title>IndyPy's Pythology Lecture Series</title><link>http://www.mempy.org/indypys-pythology-lecture-series.html</link><description>&lt;p&gt;The Indiana Python user Meetup (&lt;a class="reference external" href="https://www.meetup.com/indypy/"&gt;IndyPy&lt;/a&gt;) is
+inviting the regional tech community to their upcoming Pythology Lecture Series
+on Friday, September 22nd (8:30 am - 5:00 pm) at Launch Fishers. This conference
+will focus on Machine Learning, AI, and Genetic Programming.&lt;/p&gt;
+&lt;p&gt;You can view our speakers on our Eventbrite page at &lt;a class="reference external" href="http://indypy.org/pythology"&gt;indypy.org/pythology&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;When: September 22nd, 8:30 am - 5:00 pm
+Where: Launch Fishers
+Cost: Early Bird $60 (Ends September 1st); General Admission $75&lt;/p&gt;
+&lt;p&gt;Register at: &lt;a class="reference external" href="http://indypy.org/pythology"&gt;indypy.org/pythology&lt;/a&gt;.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Tue, 15 Aug 2017 20:10:00 -0500</pubDate><guid>tag:www.mempy.org,2017-08-15:indypys-pythology-lecture-series.html</guid><category>python</category><category>indypy</category><category>workshop</category></item><item><title>July 17, 2017</title><link>http://www.mempy.org/july-17-2017.html</link><description>&lt;p&gt;Join us for the June meeting of the Memphis Python User Group.&lt;/p&gt;
 &lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;

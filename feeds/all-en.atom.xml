@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>MEMpy</title><link href="http://www.mempy.org/" rel="alternate"></link><link href="http://www.mempy.org/feeds/all-en.atom.xml" rel="self"></link><id>http://www.mempy.org/</id><updated>2017-07-16T14:10:00-05:00</updated><entry><title>July 17, 2017</title><link href="http://www.mempy.org/july-17-2017.html" rel="alternate"></link><updated>2017-07-16T14:10:00-05:00</updated><author><name>Brad Montgomery</name></author><id>tag:www.mempy.org,2017-07-16:july-17-2017.html</id><summary type="html">&lt;p&gt;Join us for the June meeting of the Memphis Python User Group.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>MEMpy</title><link href="http://www.mempy.org/" rel="alternate"></link><link href="http://www.mempy.org/feeds/all-en.atom.xml" rel="self"></link><id>http://www.mempy.org/</id><updated>2017-08-15T20:10:00-05:00</updated><entry><title>IndyPy's Pythology Lecture Series</title><link href="http://www.mempy.org/indypys-pythology-lecture-series.html" rel="alternate"></link><updated>2017-08-15T20:10:00-05:00</updated><author><name>Brad Montgomery</name></author><id>tag:www.mempy.org,2017-08-15:indypys-pythology-lecture-series.html</id><summary type="html">&lt;p&gt;The Indiana Python user Meetup (&lt;a class="reference external" href="https://www.meetup.com/indypy/"&gt;IndyPy&lt;/a&gt;) is
+inviting the regional tech community to their upcoming Pythology Lecture Series
+on Friday, September 22nd (8:30 am - 5:00 pm) at Launch Fishers. This conference
+will focus on Machine Learning, AI, and Genetic Programming.&lt;/p&gt;
+&lt;p&gt;You can view our speakers on our Eventbrite page at &lt;a class="reference external" href="http://indypy.org/pythology"&gt;indypy.org/pythology&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;When: September 22nd, 8:30 am - 5:00 pm
+Where: Launch Fishers
+Cost: Early Bird $60 (Ends September 1st); General Admission $75&lt;/p&gt;
+&lt;p&gt;Register at: &lt;a class="reference external" href="http://indypy.org/pythology"&gt;indypy.org/pythology&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="python"></category><category term="indypy"></category><category term="workshop"></category></entry><entry><title>July 17, 2017</title><link href="http://www.mempy.org/july-17-2017.html" rel="alternate"></link><updated>2017-07-16T14:10:00-05:00</updated><author><name>Brad Montgomery</name></author><id>tag:www.mempy.org,2017-07-16:july-17-2017.html</id><summary type="html">&lt;p&gt;Join us for the June meeting of the Memphis Python User Group.&lt;/p&gt;
 &lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
