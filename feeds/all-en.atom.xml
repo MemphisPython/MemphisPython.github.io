@@ -1,5 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>MEMpy</title><link href="http://www.mempy.org/" rel="alternate"></link><link href="http://www.mempy.org/feeds/all-en.atom.xml" rel="self"></link><id>http://www.mempy.org/</id><updated>2017-08-15T20:10:00-05:00</updated><entry><title>IndyPy's Pythology Lecture Series</title><link href="http://www.mempy.org/indypys-pythology-lecture-series.html" rel="alternate"></link><updated>2017-08-15T20:10:00-05:00</updated><author><name>Brad Montgomery</name></author><id>tag:www.mempy.org,2017-08-15:indypys-pythology-lecture-series.html</id><summary type="html">&lt;p&gt;The Indiana Python user Meetup (&lt;a class="reference external" href="https://www.meetup.com/indypy/"&gt;IndyPy&lt;/a&gt;) is
+<feed xmlns="http://www.w3.org/2005/Atom"><title>MEMpy</title><link href="http://www.mempy.org/" rel="alternate"></link><link href="http://www.mempy.org/feeds/all-en.atom.xml" rel="self"></link><id>http://www.mempy.org/</id><updated>2017-08-21T00:00:00-05:00</updated><entry><title></title><link href="http://www.mempy.org/.html" rel="alternate"></link><updated>2017-08-21T00:00:00-05:00</updated><author><name>The Memphis Python User Group</name></author><id>tag:www.mempy.org,2017-08-21:.html</id><summary type="html">&lt;p&gt;August 21, 2017
+##########~#####&lt;/p&gt;
+&lt;table class="docutils field-list" frame="void" rules="none"&gt;
+&lt;col class="field-name" /&gt;
+&lt;col class="field-body" /&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr class="field"&gt;&lt;th class="field-name"&gt;date:&lt;/th&gt;&lt;td class="field-body"&gt;2017-08-19 16:40&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="field"&gt;&lt;th class="field-name"&gt;tags:&lt;/th&gt;&lt;td class="field-body"&gt;meetings&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="field"&gt;&lt;th class="field-name"&gt;category:&lt;/th&gt;&lt;td class="field-body"&gt;meetings&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class="field"&gt;&lt;th class="field-name"&gt;author:&lt;/th&gt;&lt;td class="field-body"&gt;Brad Montgomery&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Join us for the August meeting of the Memphis Python User Group.&lt;/p&gt;
+&lt;div class="section" id="time-date"&gt;
+&lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
+&lt;div class="line"&gt;Date: Monday, August 21, 2017&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;p&gt;We'll be graciously hosted by the
+&lt;a class="reference external" href="http://fedex.memphis.edu/"&gt;FedEx Institute of Technology&lt;/a&gt;.
+Here's a link to a &lt;a class="reference external" href="https://goo.gl/RsjTJb"&gt;Google Map&lt;/a&gt;.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;strong&gt;Room&lt;/strong&gt;: FIT 225 (2nd floor)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Parking&lt;/strong&gt;: The &lt;a class="reference external" href="https://www.google.com/maps/d/viewer?mid=z7eJgDchpI68.kevkGtJ3KYwo"&gt;Deloach Parking Garage&lt;/a&gt; is $3/hr, and is right across the street from the FedEx Institute of Technology (FIT). You can also buy a 1-day pass for general parking for $3 -- see &lt;a class="reference external" href="http://www.memphis.edu/parking/permit/visitor.php"&gt;visitor parking&lt;/a&gt; for more details.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="agenda"&gt;
+&lt;h2&gt;Agenda&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Harold Schreckengost: I made my C&amp;amp;C server!&lt;/li&gt;
+&lt;li&gt;Brad Montgomery: digging into dictionaries.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Talks vary in length from 15 minutes to an hour, and we sometimes have 1-2 talks
+a meeting, and may cover anything related to Python and/or programming in general.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="rsvp"&gt;
+&lt;h2&gt;RSVP&lt;/h2&gt;
+&lt;p&gt;Meetings are free to attend and open to the public. We (almost) always serve pizza, so
+please RSVP on &lt;a class="reference external" href="https://www.meetup.com/memphis-technology-user-groups/events/241623144/"&gt;Meetup.com&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>IndyPy's Pythology Lecture Series</title><link href="http://www.mempy.org/indypys-pythology-lecture-series.html" rel="alternate"></link><updated>2017-08-15T20:10:00-05:00</updated><author><name>Brad Montgomery</name></author><id>tag:www.mempy.org,2017-08-15:indypys-pythology-lecture-series.html</id><summary type="html">&lt;p&gt;The Indiana Python user Meetup (&lt;a class="reference external" href="https://www.meetup.com/indypy/"&gt;IndyPy&lt;/a&gt;) is
 inviting the regional tech community to their upcoming Pythology Lecture Series
 on Friday, September 22nd (8:30 am - 5:00 pm) at Launch Fishers. This conference
 will focus on Machine Learning, AI, and Genetic Programming.&lt;/p&gt;
