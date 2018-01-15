@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MEMpy</title><link>http://www.mempy.org/</link><description></description><atom:link href="http://www.mempy.org/feeds/brad-montgomery.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 17 Dec 2017 11:45:00 -0600</lastBuildDate><item><title>December 18, 2017</title><link>http://www.mempy.org/december-18-2017.html</link><description>&lt;div class="section" id="time-date"&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MEMpy</title><link>http://www.mempy.org/</link><description></description><atom:link href="http://www.mempy.org/feeds/brad-montgomery.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 15 Jan 2018 08:30:00 -0600</lastBuildDate><item><title>January 15, 2018</title><link>http://www.mempy.org/january-15-2018.html</link><description>&lt;p&gt;&lt;strong&gt;Happy New Year! Join us for our first meeting of 2018&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="section" id="time-date"&gt;
+&lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Time: 6:00pm - 8:00pm&lt;/div&gt;
+&lt;div class="line"&gt;Date: Monday, January 15, 2018&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;p&gt;This week we'll be hosted by &lt;a class="reference external" href="http://tech901.org/"&gt;Tech90&lt;/a&gt;, at Crosstown
+Concourse at 1350 Concourse Avenue. We will be in the eastern-most atrium on
+the 3rd floor. Look for a large box with the Tech901 logo.&lt;/p&gt;
+&lt;p&gt;Parking in the Crosstown Concourse garage is free.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="agenda"&gt;
+&lt;h2&gt;Agenda&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Douglas Starnes on &lt;cite&gt;Keras &amp;lt;https://keras.io/&amp;gt;&lt;/cite&gt;, a Deep Learning library.&lt;/li&gt;
+&lt;li&gt;Brad Montgomery on Teaching &amp;amp; Learning technology in Memphis.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="rsvp"&gt;
+&lt;h2&gt;RSVP&lt;/h2&gt;
+&lt;p&gt;Please RSVP on &lt;a class="reference external" href="https://www.meetup.com/memphis-technology-user-groups/events/246067512/"&gt;Meetup.com&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Mon, 15 Jan 2018 08:30:00 -0600</pubDate><guid>tag:www.mempy.org,2018-01-15:january-15-2018.html</guid><category>meetings</category></item><item><title>December 18, 2017</title><link>http://www.mempy.org/december-18-2017.html</link><description>&lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
