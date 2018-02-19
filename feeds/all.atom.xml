@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>MEMpy</title><link href="http://www.mempy.org/" rel="alternate"></link><link href="http://www.mempy.org/feeds/all.atom.xml" rel="self"></link><id>http://www.mempy.org/</id><updated>2018-01-15T08:30:00-06:00</updated><entry><title>January 15, 2018</title><link href="http://www.mempy.org/january-15-2018.html" rel="alternate"></link><updated>2018-01-15T08:30:00-06:00</updated><author><name>Brad Montgomery</name></author><id>tag:www.mempy.org,2018-01-15:january-15-2018.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;UPDATE&lt;/strong&gt;: Tonight's meeting is cancelled due to the chance of snow. We will
+<feed xmlns="http://www.w3.org/2005/Atom"><title>MEMpy</title><link href="http://www.mempy.org/" rel="alternate"></link><link href="http://www.mempy.org/feeds/all.atom.xml" rel="self"></link><id>http://www.mempy.org/</id><updated>2018-02-18T18:30:00-06:00</updated><entry><title>February 19, 2018</title><link href="http://www.mempy.org/february-19-2018.html" rel="alternate"></link><updated>2018-02-18T18:30:00-06:00</updated><author><name>Brad Montgomery</name></author><id>tag:www.mempy.org,2018-02-18:february-19-2018.html</id><summary type="html">&lt;p&gt;Join us for the February 2018 Python User Group meeting.&lt;/p&gt;
+&lt;div class="section" id="time-date"&gt;
+&lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
+&lt;div class="line"&gt;Date: Monday, February 19, 2018&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;p&gt;We'll be graciously hosted by the
+&lt;a class="reference external" href="http://fedex.memphis.edu/"&gt;FedEx Institute of Technology&lt;/a&gt;.
+Here's a link to a &lt;a class="reference external" href="https://goo.gl/RsjTJb"&gt;Google Map&lt;/a&gt;.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;strong&gt;Room&lt;/strong&gt;: FIT 225 (2nd floor)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Parking&lt;/strong&gt;: The &lt;a class="reference external" href="https://www.google.com/maps/d/viewer?mid=z7eJgDchpI68.kevkGtJ3KYwo"&gt;Deloach Parking Garage&lt;/a&gt; is $3/hr, and is right across the street from the FedEx Institute of Technology (FIT). You can also buy a 1-day pass for general parking for $3 -- see &lt;a class="reference external" href="http://www.memphis.edu/parking/permit/visitor.php"&gt;visitor parking&lt;/a&gt; for more details.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="agenda"&gt;
+&lt;h2&gt;Agenda&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Talking Python... by Brad Montgomery.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="rsvp"&gt;
+&lt;h2&gt;RSVP&lt;/h2&gt;
+&lt;p&gt;Please RSVP on &lt;a class="reference external" href="https://www.meetup.com/memphis-technology-user-groups/events/247118988/"&gt;Meetup.com&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</summary><category term="meetings"></category></entry><entry><title>January 15, 2018</title><link href="http://www.mempy.org/january-15-2018.html" rel="alternate"></link><updated>2018-01-15T08:30:00-06:00</updated><author><name>Brad Montgomery</name></author><id>tag:www.mempy.org,2018-01-15:january-15-2018.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;UPDATE&lt;/strong&gt;: Tonight's meeting is cancelled due to the chance of snow. We will
 resume meeting in February.&lt;/p&gt;
 &lt;hr class="docutils" /&gt;
 &lt;p&gt;&lt;strong&gt;Happy New Year! Join us for our first meeting of 2018&lt;/strong&gt;&lt;/p&gt;
