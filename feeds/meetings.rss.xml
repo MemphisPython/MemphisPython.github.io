@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MEMpy</title><link>http://www.mempy.org/</link><description></description><atom:link href="http://www.mempy.org/feeds/meetings.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 18 Feb 2018 18:30:00 -0600</lastBuildDate><item><title>February 19, 2018</title><link>http://www.mempy.org/february-19-2018.html</link><description>&lt;p&gt;Join us for the February 2018 Python User Group meeting.&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MEMpy</title><link>http://www.mempy.org/</link><description></description><atom:link href="http://www.mempy.org/feeds/meetings.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 18 Mar 2018 18:30:00 -0500</lastBuildDate><item><title>March 19, 2018</title><link>http://www.mempy.org/march-19-2018.html</link><description>&lt;p&gt;Join us for the March 2018 Python User Group meeting.&lt;/p&gt;
+&lt;div class="section" id="time-date"&gt;
+&lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
+&lt;div class="line"&gt;Date: Monday, March 19, 2018&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;p&gt;We'll be graciously hosted by the
+&lt;a class="reference external" href="http://fedex.memphis.edu/"&gt;FedEx Institute of Technology&lt;/a&gt;.
+Here's a link to a &lt;a class="reference external" href="https://goo.gl/RsjTJb"&gt;Google Map&lt;/a&gt;.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;strong&gt;Room&lt;/strong&gt;: FIT 225 (2nd floor)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Parking&lt;/strong&gt;: The &lt;a class="reference external" href="https://www.google.com/maps/d/viewer?mid=z7eJgDchpI68.kevkGtJ3KYwo"&gt;Deloach Parking Garage&lt;/a&gt; is $3/hr, and is right across the street from the FedEx Institute of Technology (FIT). You can also buy a 1-day pass for general parking for $3 -- see &lt;a class="reference external" href="http://www.memphis.edu/parking/permit/visitor.php"&gt;visitor parking&lt;/a&gt; for more details.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="agenda"&gt;
+&lt;h2&gt;Agenda&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://notebooks.azure.com/douglasastarnes/libraries/mempy0318"&gt;Azure Notebooks&lt;/a&gt; with &lt;cite&gt;Douglas Starnes &amp;lt;https://twitter.com/poweredbyaltnet&amp;gt;&lt;/cite&gt;.&lt;/li&gt;
+&lt;li&gt;Exploring Memphis Civic Data with &lt;a class="reference external" href="https://twitter.com/bkmontgomery/"&gt;Brad Montgomery&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="rsvp"&gt;
+&lt;h2&gt;RSVP&lt;/h2&gt;
+&lt;p&gt;Please RSVP on &lt;a class="reference external" href="https://www.meetup.com/memphis-technology-user-groups/events/247382985/"&gt;Meetup.com&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Sun, 18 Mar 2018 18:30:00 -0500</pubDate><guid>tag:www.mempy.org,2018-03-18:march-19-2018.html</guid><category>meetings</category></item><item><title>February 19, 2018</title><link>http://www.mempy.org/february-19-2018.html</link><description>&lt;p&gt;Join us for the February 2018 Python User Group meeting.&lt;/p&gt;
 &lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
