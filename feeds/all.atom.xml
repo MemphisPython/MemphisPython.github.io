@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>MEMpy</title><link href="http://www.mempy.org/" rel="alternate"></link><link href="http://www.mempy.org/feeds/all.atom.xml" rel="self"></link><id>http://www.mempy.org/</id><updated>2018-05-20T14:48:00-05:00</updated><entry><title>May 21, 2018</title><link href="http://www.mempy.org/may-21-2018.html" rel="alternate"></link><updated>2018-05-20T14:48:00-05:00</updated><author><name>Brad Montgomery</name></author><id>tag:www.mempy.org,2018-05-20:may-21-2018.html</id><summary type="html">&lt;p&gt;Join us for the May 2018 Python User Group meeting.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>MEMpy</title><link href="http://www.mempy.org/" rel="alternate"></link><link href="http://www.mempy.org/feeds/all.atom.xml" rel="self"></link><id>http://www.mempy.org/</id><updated>2018-06-15T09:00:00-05:00</updated><entry><title>June 18, 2018</title><link href="http://www.mempy.org/june-18-2018.html" rel="alternate"></link><updated>2018-06-15T09:00:00-05:00</updated><author><name>Brad Montgomery</name></author><id>tag:www.mempy.org,2018-06-15:june-18-2018.html</id><summary type="html">&lt;p&gt;Join us for the June 2018 Python User Group meeting.&lt;/p&gt;
+&lt;div class="section" id="time-date"&gt;
+&lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Time: 6:30pm - 8:30pm&lt;/div&gt;
+&lt;div class="line"&gt;Date: Monday, June 18, 2018&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="location"&gt;
+&lt;h2&gt;Location&lt;/h2&gt;
+&lt;p&gt;We'll be graciously hosted by the
+&lt;a class="reference external" href="http://fedex.memphis.edu/"&gt;FedEx Institute of Technology&lt;/a&gt;.
+Here's a link to a &lt;a class="reference external" href="https://goo.gl/RsjTJb"&gt;Google Map&lt;/a&gt;.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;strong&gt;Room&lt;/strong&gt;: FIT 225 (2nd floor)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Parking&lt;/strong&gt;: The &lt;a class="reference external" href="https://www.google.com/maps/d/viewer?mid=z7eJgDchpI68.kevkGtJ3KYwo"&gt;Deloach Parking Garage&lt;/a&gt; is $3/hr, and is right across the street from the FedEx Institute of Technology (FIT). You can also buy a 1-day pass for general parking for $3 -- see &lt;a class="reference external" href="http://www.memphis.edu/parking/permit/visitor.php"&gt;visitor parking&lt;/a&gt; for more details.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="agenda"&gt;
+&lt;h2&gt;Agenda&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;strong&gt;Kafka: What is is and why should I care?&lt;/strong&gt; by &lt;a class="reference external" href="https://twitter.com/bkmontgomery"&gt;Brad Montgomery&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="rsvp"&gt;
+&lt;h2&gt;RSVP&lt;/h2&gt;
+&lt;p&gt;Please RSVP on &lt;a class="reference external" href="https://www.meetup.com/memphis-technology-user-groups/events/251154461/"&gt;Meetup.com&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</summary><category term="meetings"></category></entry><entry><title>May 21, 2018</title><link href="http://www.mempy.org/may-21-2018.html" rel="alternate"></link><updated>2018-05-20T14:48:00-05:00</updated><author><name>Brad Montgomery</name></author><id>tag:www.mempy.org,2018-05-20:may-21-2018.html</id><summary type="html">&lt;p&gt;Join us for the May 2018 Python User Group meeting.&lt;/p&gt;
 &lt;div class="section" id="time-date"&gt;
 &lt;h2&gt;Time &amp;amp; Date&lt;/h2&gt;
 &lt;div class="line-block"&gt;
