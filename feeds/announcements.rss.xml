@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MEMpy</title><link>http://www.mempy.org/</link><description></description><atom:link href="http://www.mempy.org/feeds/announcements.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 15 Aug 2017 20:10:00 -0500</lastBuildDate><item><title>IndyPy's Pythology Lecture Series</title><link>http://www.mempy.org/indypys-pythology-lecture-series.html</link><description>&lt;p&gt;The Indiana Python user Meetup (&lt;a class="reference external" href="https://www.meetup.com/indypy/"&gt;IndyPy&lt;/a&gt;) is
+<rss version="2.0"><channel><title>MEMpy</title><link>http://www.mempy.org/</link><description></description><lastBuildDate>Tue, 15 Aug 2017 20:10:00 -0500</lastBuildDate><item><title>IndyPy's Pythology Lecture Series</title><link>http://www.mempy.org/indypys-pythology-lecture-series.html</link><description>&lt;p&gt;The Indiana Python user Meetup (&lt;a class="reference external" href="https://www.meetup.com/indypy/"&gt;IndyPy&lt;/a&gt;) is
 inviting the regional tech community to their upcoming Pythology Lecture Series
 on Friday, September 22nd (8:30 am - 5:00 pm) at Launch Fishers. This conference
 will focus on Machine Learning, AI, and Genetic Programming.&lt;/p&gt;
@@ -8,7 +8,7 @@ will focus on Machine Learning, AI, and Genetic Programming.&lt;/p&gt;
 Where: Launch Fishers
 Cost: Early Bird $60 (Ends September 1st); General Admission $75&lt;/p&gt;
 &lt;p&gt;Register at: &lt;a class="reference external" href="http://indypy.org/pythology"&gt;indypy.org/pythology&lt;/a&gt;.&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Tue, 15 Aug 2017 20:10:00 -0500</pubDate><guid>tag:www.mempy.org,2017-08-15:indypys-pythology-lecture-series.html</guid><category>python</category><category>indypy</category><category>workshop</category></item><item><title>It's time for PyTennessee, 2017</title><link>http://www.mempy.org/its-time-for-pytennessee-2017.html</link><description>&lt;p&gt;It's that time of the year, again. 2016 is almost over and it's time to slow,
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Tue, 15 Aug 2017 20:10:00 -0500</pubDate><guid isPermaLink="false">tag:www.mempy.org,2017-08-15:indypys-pythology-lecture-series.html</guid><category>python</category><category>indypy</category><category>workshop</category></item><item><title>It's time for PyTennessee, 2017</title><link>http://www.mempy.org/its-time-for-pytennessee-2017.html</link><description>&lt;p&gt;It's that time of the year, again. 2016 is almost over and it's time to slow,
 down, reflect, and remember how great &lt;a class="reference external" href="https://www.pytennessee.org/"&gt;PyTennessee&lt;/a&gt;
 was. Now, let's get excited because that means PyTN 2017 is just around the corner!&lt;/p&gt;
 &lt;p&gt;That's right! The region's preeminent Python conference is happening February
@@ -21,7 +21,7 @@ Thank you sponsors! (Don't see your company there?
 &lt;a class="reference external" href="https://www.pytennessee.org/sponsors/prospectus/"&gt;There's still time to become a sponsor&lt;/a&gt;!&lt;/p&gt;
 &lt;p&gt;To keep up with what's happening with the conference, be sure to follow
 them on twitter at &lt;a class="reference external" href="https://twitter.com/pytennessee"&gt;&amp;#64;PyTennessee&lt;/a&gt;.&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Fri, 30 Dec 2016 10:15:00 -0600</pubDate><guid>tag:www.mempy.org,2016-12-30:its-time-for-pytennessee-2017.html</guid><category>python</category><category>conference</category><category>pytn</category><category>tennessee</category></item><item><title>Data Analysis and Data Science in Python Workshop</title><link>http://www.mempy.org/data-analysis-and-data-science-in-python-workshop.html</link><description>&lt;p&gt;On October 14, the Computer Science department at the University of Memphis
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Fri, 30 Dec 2016 10:15:00 -0600</pubDate><guid isPermaLink="false">tag:www.mempy.org,2016-12-30:its-time-for-pytennessee-2017.html</guid><category>python</category><category>conference</category><category>pytn</category><category>tennessee</category></item><item><title>Data Analysis and Data Science in Python Workshop</title><link>http://www.mempy.org/data-analysis-and-data-science-in-python-workshop.html</link><description>&lt;p&gt;On October 14, the Computer Science department at the University of Memphis
 will be hosting a &lt;a class="reference external" href="https://www.eventbrite.com/e/data-analysis-and-data-science-in-python-workshop-tickets-27360815937?utm-medium=discovery&amp;amp;utm-campaign=social&amp;amp;utm-content=attendeeshare&amp;amp;aff=escb&amp;amp;utm-source=cp&amp;amp;utm-term=listing"&gt;Data Analysis and Data Science in Python Workshop&lt;/a&gt;. From
 their announcement:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -34,7 +34,7 @@ then build knowledge of object-oriented programming and data analysis using Pand
 and Sckikit-learn.&lt;/p&gt;
 &lt;p&gt;Registration is now open and is $650 for professionals, $280 for students, and
 only $100 for current UofM students. &lt;a class="reference external" href="https://www.eventbrite.com/e/data-analysis-and-data-science-in-python-workshop-tickets-27360815937?utm-medium=discovery&amp;amp;utm-campaign=social&amp;amp;utm-content=attendeeshare&amp;amp;aff=escb&amp;amp;utm-source=cp&amp;amp;utm-term=listing"&gt;Register here&lt;/a&gt;.&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Mon, 29 Aug 2016 10:15:00 -0500</pubDate><guid>tag:www.mempy.org,2016-08-29:data-analysis-and-data-science-in-python-workshop.html</guid><category>python</category><category>workshop</category><category>datascience</category></item><item><title>Memphis Tech Talks &amp; the June Meetup</title><link>http://www.mempy.org/memphis-tech-talks-the-june-meetup.html</link><description>&lt;div class="section" id="memphis-tech-talks"&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Mon, 29 Aug 2016 10:15:00 -0500</pubDate><guid isPermaLink="false">tag:www.mempy.org,2016-08-29:data-analysis-and-data-science-in-python-workshop.html</guid><category>python</category><category>workshop</category><category>datascience</category></item><item><title>Memphis Tech Talks &amp; the June Meetup</title><link>http://www.mempy.org/memphis-tech-talks-the-june-meetup.html</link><description>&lt;div class="section" id="memphis-tech-talks"&gt;
 &lt;h2&gt;Memphis Tech Talks&lt;/h2&gt;
 &lt;p&gt;On Thursday, June 16, the Memphis Technology Foundation &amp;amp; Fedex Institute of
 technology are hosting an evening of lighthing talks. This will be a great
@@ -52,7 +52,7 @@ trip to visit &lt;a class="reference external" href="http://pynash.org/"&gt;PyNa
 an introduction to Django Channels.&lt;/p&gt;
 &lt;p&gt;If you'd like to come along, please RSVP at &lt;a class="reference external" href="https://www.meetup.com/PyNash/events/231773313/"&gt;on the PyNash meetup&lt;/a&gt;, and get in touch with &lt;a class="reference external" href="mailto:brad&amp;#64;mempy.org"&gt;Brad&lt;/a&gt; / &lt;a class="reference external" href="https://twitter.com/bkmontgomery"&gt;&amp;#64;bkmontgomery&lt;/a&gt; or &lt;a class="reference external" href="https://twitter.com/poweredbyaltnet"&gt;Douglas&lt;/a&gt; for travel details.&lt;/p&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Sat, 11 Jun 2016 15:00:00 -0500</pubDate><guid>tag:www.mempy.org,2016-06-11:memphis-tech-talks-the-june-meetup.html</guid><category>python</category><category>meetings</category><category>talks</category></item><item><title>PyOhio 2016</title><link>http://www.mempy.org/pyohio-2016.html</link><description>&lt;p&gt;The always-great &lt;a class="reference external" href="http://www.pyohio.org/"&gt;PyOhio 2016&lt;/a&gt; has recently been
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Sat, 11 Jun 2016 15:00:00 -0500</pubDate><guid isPermaLink="false">tag:www.mempy.org,2016-06-11:memphis-tech-talks-the-june-meetup.html</guid><category>python</category><category>meetings</category><category>talks</category></item><item><title>PyOhio 2016</title><link>http://www.mempy.org/pyohio-2016.html</link><description>&lt;p&gt;The always-great &lt;a class="reference external" href="http://www.pyohio.org/"&gt;PyOhio 2016&lt;/a&gt; has recently been
 announced, and will be held on July 30-31, 2016. PyOhio is:&lt;/p&gt;
 &lt;blockquote&gt;
 A free annual conference for Python programmers in and around Ohio,
@@ -64,7 +64,7 @@ is the place to start. Even if you've spoken at dozens of conferences, this
 is one you don't want to miss.&lt;/p&gt;
 &lt;p&gt;To keep up with what's happening with the conference, be sure to follow
 them on twitter at &lt;a class="reference external" href="https://twitter.com/pyohio"&gt;&amp;#64;pyohio&lt;/a&gt;.&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Sat, 30 Apr 2016 11:50:00 -0500</pubDate><guid>tag:www.mempy.org,2016-04-30:pyohio-2016.html</guid><category>python</category><category>conference</category><category>pyohio</category></item><item><title>PyOhio 2015</title><link>http://www.mempy.org/pyohio-2015.html</link><description>&lt;p&gt;&lt;a class="reference external" href="http://www.pyohio.org/"&gt;PyOhio 2015&lt;/a&gt; has recently been announced, and
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Sat, 30 Apr 2016 11:50:00 -0500</pubDate><guid isPermaLink="false">tag:www.mempy.org,2016-04-30:pyohio-2016.html</guid><category>python</category><category>conference</category><category>pyohio</category></item><item><title>PyOhio 2015</title><link>http://www.mempy.org/pyohio-2015.html</link><description>&lt;p&gt;&lt;a class="reference external" href="http://www.pyohio.org/"&gt;PyOhio 2015&lt;/a&gt; has recently been announced, and
 registration is now open! In their own words, PyOhio is:&lt;/p&gt;
 &lt;blockquote&gt;
 A free annual conference for Python programmers in and around Ohio,
@@ -74,7 +74,7 @@ You'll see high-quality talks, and meet great pythonistas from around
 the world (really!).&lt;/p&gt;
 &lt;p&gt;To keep up with what's happening with the conference, be sure to follow
 them on twitter at &lt;a class="reference external" href="https://twitter.com/pyohio"&gt;&amp;#64;pyohio&lt;/a&gt;.&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Tue, 05 May 2015 21:00:00 -0500</pubDate><guid>tag:www.mempy.org,2015-05-05:pyohio-2015.html</guid><category>python</category><category>conference</category><category>pyohio</category></item><item><title>TechCamp Memphis, 2014 CFP</title><link>http://www.mempy.org/techcamp-memphis-2014-cfp.html</link><description>&lt;p&gt;The TECHcamp Memphis &lt;a class="reference external" href="http://cfp.techcampmemphis.com/"&gt;Call for Presenters&lt;/a&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Tue, 05 May 2015 21:00:00 -0500</pubDate><guid isPermaLink="false">tag:www.mempy.org,2015-05-05:pyohio-2015.html</guid><category>python</category><category>conference</category><category>pyohio</category></item><item><title>TechCamp Memphis, 2014 CFP</title><link>http://www.mempy.org/techcamp-memphis-2014-cfp.html</link><description>&lt;p&gt;The TECHcamp Memphis &lt;a class="reference external" href="http://cfp.techcampmemphis.com/"&gt;Call for Presenters&lt;/a&gt;
 is now open and accepting submission through October 15!&lt;/p&gt;
 &lt;p&gt;TECHcamp is the annual Memphis technology, social media, and online marketing
 conference for designers, entrepreneurs, content creators and software developers.
@@ -86,7 +86,7 @@ veterans in the area.&lt;/p&gt;
 head over to &lt;a class="reference external" href="http://cfp.techcampmemphis.com/"&gt;cfp.techcampmemphis.com&lt;/a&gt; to
 submit your talk!&lt;/p&gt;
 &lt;p&gt;See you there.&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Sat, 27 Sep 2014 15:45:00 -0500</pubDate><guid>tag:www.mempy.org,2014-09-27:techcamp-memphis-2014-cfp.html</guid><category>community</category><category>technology</category><category>memphis</category><category>tennessee</category><category>conference</category></item><item><title>PyTennessee 2014</title><link>http://www.mempy.org/pytennessee-2014.html</link><description>&lt;p&gt;Tennessee will soon have its own regional Python Conference, and it's happening
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Sat, 27 Sep 2014 15:45:00 -0500</pubDate><guid isPermaLink="false">tag:www.mempy.org,2014-09-27:techcamp-memphis-2014-cfp.html</guid><category>community</category><category>technology</category><category>memphis</category><category>tennessee</category><category>conference</category></item><item><title>PyTennessee 2014</title><link>http://www.mempy.org/pytennessee-2014.html</link><description>&lt;p&gt;Tennessee will soon have its own regional Python Conference, and it's happening
 in Nashville on February 22, 2014!&lt;/p&gt;
 &lt;p&gt;There will be keynotes, talks, lightning talks, tutorials, open spaces, young
 coder sessions and more! As with all regional python conferences, this will
@@ -98,10 +98,10 @@ scientific, systems management, and general development topics.&lt;/p&gt;
 Then, for periodic updates, be sure to follow along on Twitter:
 &lt;a class="reference external" href="https://twitter.com/pytennessee"&gt;&amp;#64;pytennessee&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;See you There!&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Tue, 24 Sep 2013 21:40:00 -0500</pubDate><guid>tag:www.mempy.org,2013-09-24:pytennessee-2014.html</guid><category>python</category><category>tennessee</category><category>conference</category><category>pytennessee</category></item><item><title>Hack Nashville</title><link>http://www.mempy.org/hack-nashville.html</link><description>&lt;p&gt;How about a 48-hour hackathon? With a prize! It's happening in Nashville during
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Tue, 24 Sep 2013 21:40:00 -0500</pubDate><guid isPermaLink="false">tag:www.mempy.org,2013-09-24:pytennessee-2014.html</guid><category>python</category><category>tennessee</category><category>conference</category><category>pytennessee</category></item><item><title>Hack Nashville</title><link>http://www.mempy.org/hack-nashville.html</link><description>&lt;p&gt;How about a 48-hour hackathon? With a prize! It's happening in Nashville during
 the (annual?) &lt;a class="reference external" href="http://hacknashville.com/"&gt;Hack Nashville&lt;/a&gt; event May 3 - 5.&lt;/p&gt;
 &lt;p&gt;You can get free tickets here: &lt;a class="reference external" href="http://hacknashville.eventbrite.com/"&gt;http://hacknashville.eventbrite.com/&lt;/a&gt;&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Wed, 03 Apr 2013 10:40:00 -0500</pubDate><guid>tag:www.mempy.org,2013-04-03:hack-nashville.html</guid><category>nashville</category><category>code</category><category>hackathon</category></item><item><title>Nashville Code Cooperative Talk Day</title><link>http://www.mempy.org/nashville-code-cooperative-talk-day.html</link><description>&lt;p&gt;Just in case you haven't heard, our friends at the
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Wed, 03 Apr 2013 10:40:00 -0500</pubDate><guid isPermaLink="false">tag:www.mempy.org,2013-04-03:hack-nashville.html</guid><category>nashville</category><category>code</category><category>hackathon</category></item><item><title>Nashville Code Cooperative Talk Day</title><link>http://www.mempy.org/nashville-code-cooperative-talk-day.html</link><description>&lt;p&gt;Just in case you haven't heard, our friends at the
 &lt;a class="reference external" href="http://co-op.nashvl.org/"&gt;Nashville Code Cooperative&lt;/a&gt; are having a Talk Day
 on &lt;em&gt;March 30&lt;/em&gt;. The day includes:&lt;/p&gt;
 &lt;ul class="simple"&gt;
@@ -112,4 +112,4 @@ on &lt;em&gt;March 30&lt;/em&gt;. The day includes:&lt;/p&gt;
 &lt;p&gt;It looks like they're full, but you can still get on th waiting list. This
 event will definitely be worth your time, so look for it to happen again in
 the future.&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Mon, 25 Mar 2013 21:45:00 -0500</pubDate><guid>tag:www.mempy.org,2013-03-25:nashville-code-cooperative-talk-day.html</guid><category>nashville</category><category>code</category><category>talks</category></item></channel></rss>
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Mon, 25 Mar 2013 21:45:00 -0500</pubDate><guid isPermaLink="false">tag:www.mempy.org,2013-03-25:nashville-code-cooperative-talk-day.html</guid><category>nashville</category><category>code</category><category>talks</category></item></channel></rss>
